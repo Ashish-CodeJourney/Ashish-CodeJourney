@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashish-codejourney.github.io/My-Portfolio/](https://ashish-codejourney.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Linux, JAVA, UnitTesting**
+- 💬 Ask me about **Linux, JAVA, Python, UnitTesting**
 
 - 📫 How to reach me **vaghelaashish111@gmail.com**
 
