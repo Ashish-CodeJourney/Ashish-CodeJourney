@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-codejourney" alt="ashish-codejourney" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/heyyy_ashish" target="blank"><img src="https://img.shields.io/twitter/follow/CLI_Craftsman?logo=twitter&style=for-the-badge" alt="heyyy_ashish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CLI_Craftsman" target="blank"><img src="https://img.shields.io/twitter/follow/CLI_Craftsman?logo=twitter&style=for-the-badge" alt="CLI_Craftsman" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ashish-codejourney.github.io/My-Portfolio/](https://ashish-codejourney.github.io/My-Portfolio/)
 
