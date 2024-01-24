@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://ashish-codejourney.github.io/My-Portfolio/Ashish_resume.pdf](https://ashish-codejourney.github.io/My-Portfolio/Ashish_resume.pdf)
 
-- ⚡ Fun fact **I code in notepad**
+- ⚡ Fun fact **Chai is better than Coffee | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
