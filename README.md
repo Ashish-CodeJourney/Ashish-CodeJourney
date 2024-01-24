@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://ashish-codejourney.github.io/My-Portfolio/](https://ashish-codejourney.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Linux, JAVA, JavaScript, Python, UnitTesting**
+- 💬 Ask me about **Linux, JAVA, JavaScript, React, Python**
 
-- 📫 How to reach me **vaghelaashish111@gmail.com**
+- 📫 How to reach me **ashishworkshere@gmail.com**
 
 - 📄 Know about my experiences [https://ashish-codejourney.github.io/My-Portfolio/Ashish_resume.pdf](https://ashish-codejourney.github.io/My-Portfolio/Ashish_resume.pdf)
 
