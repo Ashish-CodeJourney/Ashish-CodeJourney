@@ -16,7 +16,7 @@
 
 - 🌐 [**Some contributions in MDN web docs**](https://github.com/mdn/content/pulls?q=is%3Apr+author%3A%40me+is%3Amerged+)
 
-![Terminal Command](https://github.com/Ashish-CodeJourney/Ashish-CodeJourney/blob/main/assets/terminal.svg)
+![Terminal Command](assets/terminal.svg)
 
 
 <h3 align="left">Connect with me:</h3>
