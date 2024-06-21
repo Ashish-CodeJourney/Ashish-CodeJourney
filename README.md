@@ -14,7 +14,7 @@
 
 - ⚡ **Chai is way better than Coffee | Change my mind!**
 
-- 🌐 [**Some contributions in MDN web docs**](https://github.com/mdn/content/pulls?q=is%3Apr+author%3A%40me+is%3Amerged+)
+- 🌐 [**Some contributions in MDN web docs**](https://github.com/mdn/content/pulls?q=is%3Apr+is%3Amerged+author%3AAshish-CodeJourney)
 
 ![Terminal Command](assets/terminal.svg)
 
