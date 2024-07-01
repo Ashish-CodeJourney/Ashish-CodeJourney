@@ -41,11 +41,9 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-codejourney" alt="ashish-codejourney" /></a> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-codejourney&show_icons=true&locale=en&layout=compact" alt="ashish-codejourney" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-codejourney&show_icons=true&locale=en&layout=compact" alt="ashish-codejourney" /> </p>
-
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/c203200e-ba86-49c2-801a-65b503dcb69d/public_url">
     <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="ashish-codejourney" width="150" height="150" />
   </a>
