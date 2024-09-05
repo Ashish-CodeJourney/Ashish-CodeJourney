@@ -19,7 +19,7 @@
 ![Terminal Command](assets/terminal.svg)
 
 
-![svg](https://raw.githubusercontent.com/Ashish-CodeJourney/Ashish-CodeJourney/master/profile-3d-contrib/profile-night-green.svg)
+![svg](https://raw.githubusercontent.com/Ashish-CodeJourney/Ashish-CodeJourney/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <h3 align="left">Connect with me:</h3>
