@@ -1,0 +1,40 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.MY_GITHUB_TOKEN }}  # Use the token for checkout
+
+      - name: Generate 3D Contribution Profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Use the personal access token
+          USERNAME: Ashish-CodeJourney
+
+      - name: Configure Git
+        run: |
+          git config user.name "Ashish Vaghela"
+          git config user.email "vaghelaashish111@gmail.com"
+
+      - name: Check if there are changes
+        run: |
+          git diff --exit-code || echo "Changes detected"
+
+      - name: Commit & Push Changes
+        if: ${{ steps.check-changes.outputs.has-changes == 'true' }}
+        run: |
+          git add -A
+          git commit -m "Generated 3D contribution profile" || echo "No changes to commit"
+          git push https://Ashish-CodeJourney:${{ secrets.MY_GITHUB_TOKEN }}@github.com/Ashish-CodeJourney/Ashish-CodeJourney.git
+        env:
+          GIT_AUTH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
