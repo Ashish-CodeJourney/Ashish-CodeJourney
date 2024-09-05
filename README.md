@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/codejourney_" target="blank"><img src="https://img.shields.io/twitter/follow/codejourney_?logo=twitter&style=for-the-badge" alt="CLI_Craftsman" /></a> </p>
 
-- 💬 Ask me about **Linux, React, Python and Java**
+- 💬 Ask me about **Linux, Java, JavaScript and Python**
 
 - 📫 Reach me at **vaghelaashish111@gmail.com**
 
