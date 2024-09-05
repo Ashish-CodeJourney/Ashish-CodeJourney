@@ -26,15 +26,10 @@ jobs:
           git config user.name "Ashish Vaghela"
           git config user.email "vaghelaashish111@gmail.com"
 
-      - name: Check if there are changes
-        run: |
-          git diff --exit-code || echo "Changes detected"
-
       - name: Commit & Push Changes
-        if: ${{ steps.check-changes.outputs.has-changes == 'true' }}
         run: |
           git add -A
           git commit -m "Generated 3D contribution profile" || echo "No changes to commit"
-          git push https://Ashish-CodeJourney:${{ secrets.MY_GITHUB_TOKEN }}@github.com/Ashish-CodeJourney/Ashish-CodeJourney.git
+          git push https://github.com/Ashish-CodeJourney/Ashish-CodeJourney.git
         env:
           GIT_AUTH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
