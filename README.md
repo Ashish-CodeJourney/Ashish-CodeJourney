@@ -18,10 +18,6 @@
 
 ![Terminal Command](assets/terminal.svg)
 
-
-![svg](https://raw.githubusercontent.com/Ashish-CodeJourney/Ashish-CodeJourney/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codejourney_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codejourney_" height="30" width="40" /></a>
