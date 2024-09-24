@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 
-<h3 align="center">A Techie 🤓 Software developer from India 🇮🇳</h3>
+<h3 align="center">A Software Craftsperson at Nelkinda Sofrware Craft </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Ashish-CodeJourney alt=Ashish-CodeJourney/> </p>
 
 <p align="left"> <a href="https://twitter.com/codejourney_" target="blank"><img src="https://img.shields.io/twitter/follow/codejourney_?logo=twitter&style=for-the-badge" alt="CLI_Craftsman" /></a> </p>
