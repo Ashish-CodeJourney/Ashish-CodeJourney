@@ -27,7 +27,7 @@
 ### 📫 Reach Me
 
 - Email: [vaghelaashish111@gmail.com](mailto:vaghelaashish111@gmail.com)
-- Personal Site: [Ashish-CodeJourney](https://ashishcodejourney.vercel.app)
+- Portfolio: [Ashish-CodeJourney](https://ashishcodejourney.vercel.app)
 
 ---
 
