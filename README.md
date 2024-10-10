@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **Some Personal Projects**.
 - 🌱 I’m learning **Spring Boot and MongoDB** to enhance my full-stack capabilities.
-- 💬 Ask me about **Linux, Java, JavaScript, Python, and TDD**.
+- 💬 Ask me about **Linux, Java, kotlin, JavaScript, Python, and TDD**.
 - ⚡ Fun Fact: **Chai is way better than Coffee | Change my mind!**
 
 ### 📫 Reach Me
