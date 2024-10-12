@@ -62,7 +62,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshgule&theme=tokyonight" alt="GitHub Stats" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-CodeJourney&theme=tokyonight" alt="GitHub Stats" />
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashish-CodeJourney&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
