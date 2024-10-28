@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}  # Use PAT for checkout
       
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -25,8 +27,12 @@ jobs:
         
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'Ashish Vaghela'
+          git config --global user.email 'vaghelaashish111@gmail.com'
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update programming quote"
-          git push
+          
+          # Get current date in YYYY-MM-DD format
+          current_date=$(date +'%Y-%m-%d')
+          
+          # Check if there are changes and commit with conventional commit message
+          git diff --quiet && git diff --staged --quiet || (git commit -m "content(quote): update programming wisdom [${current_date}]" && git push)
