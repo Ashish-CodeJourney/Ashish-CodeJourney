@@ -80,7 +80,6 @@ def update_readme():
         
         formatted_quote = f'''<!--QUOTE:start-->
 ```javascript
-// Updated every 12 hours
 {quote}
 ```
 <!--QUOTE:end-->'''
