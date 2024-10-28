@@ -131,8 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-// Updated every 12 hours
-"Do every act of your life as if it were your last." - Marcus Aurelius
+"Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 ```
 <!--QUOTE:end-->
 
