@@ -2,6 +2,11 @@ import requests
 import random
 import re
 from datetime import datetime
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 def get_programming_quote():
     # List of APIs we can try
@@ -23,12 +28,24 @@ def get_programming_quote():
     # Try each API until we get a successful response
     for api in apis:
         try:
-            response = requests.get(api["url"])
+            logger.info(f"Trying to fetch quote from: {api['url']}")
+            response = requests.get(api["url"], timeout=10)  # Added timeout
+            response.raise_for_status()  # Will raise an exception for 400/500 status codes
+            
             if response.status_code == 200:
-                return api["extract"](response.json())
-        except:
-            continue
+                data = response.json()
+                logger.info(f"Successfully fetched quote from {api['url']}")
+                logger.info(f"Response data: {data}")
+                return api["extract"](data)
+                
+        except requests.exceptions.RequestException as e:
+            logger.error(f"Error fetching from {api['url']}: {str(e)}")
+        except (KeyError, ValueError) as e:
+            logger.error(f"Error parsing response from {api['url']}: {str(e)}")
+        except Exception as e:
+            logger.error(f"Unexpected error with {api['url']}: {str(e)}")
     
+    logger.warning("All APIs failed, using fallback quotes")
     # Fallback quotes if APIs fail
     fallback_quotes = [
         '"Code is like humor. When you have to explain it, it\'s bad." - Cory House',
@@ -45,22 +62,32 @@ def get_programming_quote():
     return random.choice(fallback_quotes)
 
 def update_readme():
-    with open("README.md", "r", encoding="utf-8") as file:
-        content = file.read()
-    
-    quote = get_programming_quote()
-    formatted_quote = f'''<!--QUOTE:start-->
+    try:
+        with open("README.md", "r", encoding="utf-8") as file:
+            content = file.read()
+        
+        quote = get_programming_quote()
+        logger.info(f"Generated quote: {quote}")
+        
+        formatted_quote = f'''<!--QUOTE:start-->
 ```javascript
+// Updated every 12 hours
 {quote}
 ```
 <!--QUOTE:end-->'''
-    
-    # Replace the quote section
-    pattern = r"<!--QUOTE:start-->.*?<!--QUOTE:end-->"
-    new_content = re.sub(pattern, formatted_quote, content, flags=re.DOTALL)
-    
-    with open("README.md", "w", encoding="utf-8") as file:
-        file.write(new_content)
+        
+        # Replace the quote section
+        pattern = r"<!--QUOTE:start-->.*?<!--QUOTE:end-->"
+        new_content = re.sub(pattern, formatted_quote, content, flags=re.DOTALL)
+        
+        with open("README.md", "w", encoding="utf-8") as file:
+            file.write(new_content)
+            
+        logger.info("Successfully updated README.md")
+            
+    except Exception as e:
+        logger.error(f"Error updating README: {str(e)}")
+        raise
 
 if __name__ == "__main__":
     update_readme()
