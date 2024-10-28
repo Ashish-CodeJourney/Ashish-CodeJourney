@@ -131,8 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-// Updated every 12 hours
-"Clean code always looks like it was written by someone who cares." - Michael Feathers
+"Programming isn't about what you know; it's about what you can figure out." - Chris Pine
 ```
 <!--QUOTE:end-->
 
