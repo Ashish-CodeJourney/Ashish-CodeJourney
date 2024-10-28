@@ -131,7 +131,8 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+// Updated every 12 hours
+"The best error message is the one that never shows up." - Thomas Fuchs
 ```
 <!--QUOTE:end-->
 
