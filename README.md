@@ -130,7 +130,10 @@ def ashish_facts():
 ### 💭 Programming Wisdom
     
 <!--QUOTE:start-->
-<!-- This section will be automatically updated by GitHub Actions -->
+```javascript
+// Updated every 12 hours
+"Clean code always looks like it was written by someone who cares." - Michael Feathers
+```
 <!--QUOTE:end-->
 
 </div>
