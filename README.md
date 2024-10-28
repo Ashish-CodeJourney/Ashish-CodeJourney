@@ -132,7 +132,7 @@ def ashish_facts():
 <!--QUOTE:start-->
 ```javascript
 // Updated every 12 hours
-"The best error message is the one that never shows up." - Thomas Fuchs
+"Do every act of your life as if it were your last." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
