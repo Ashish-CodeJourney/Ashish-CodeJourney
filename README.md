@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases." - Sathya Sai Baba
 ```
 <!--QUOTE:end-->
 
