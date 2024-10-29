@@ -30,7 +30,7 @@
 </table>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashishcodejourney.vercel.app)
-![Profile Views](https://komarev.com/ghpvc/?username=Ashish-CodeJourney&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashish-CodeJourney&style=for-the-badge)](https://github.com/Ashish-CodeJourney)
 
 </div>
 
