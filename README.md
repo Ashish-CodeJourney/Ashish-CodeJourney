@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Without the confidence, nothing can be accomplished." - Sathya Sai Baba
+"If you don't know, the thing to do is not to get scared, but to learn." - Ayn Rand
 ```
 <!--QUOTE:end-->
 
