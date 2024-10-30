@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't know, the thing to do is not to get scared, but to learn." - Ayn Rand
+"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
