@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing makes a man broad-minded like adversity." - Will Rogers
+"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." - Stephen Hawking
 ```
 <!--QUOTE:end-->
 
