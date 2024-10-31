@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy." - Norman Vincent Peale
+"Nothing makes a man broad-minded like adversity." - Will Rogers
 ```
 <!--QUOTE:end-->
 
