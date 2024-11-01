@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Others can stop you temporarily - you are the only one who can do it permanently." - Zig Ziglar
+"We forge the chains we wear in life." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
