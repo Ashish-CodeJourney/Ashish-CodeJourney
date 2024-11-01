@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." - Stephen Hawking
+"Others can stop you temporarily - you are the only one who can do it permanently." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
