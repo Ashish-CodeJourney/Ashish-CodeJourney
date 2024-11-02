@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We forge the chains we wear in life." - Charles Dickens
+"Good entrepreneurs don't fail because they stay at it." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
