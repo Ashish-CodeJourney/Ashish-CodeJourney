@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Good entrepreneurs don't fail because they stay at it." - Naval Ravikant
+"The most wasted day of all is that on which we have not laughed." - Nicolas Chamfort
 ```
 <!--QUOTE:end-->
 
