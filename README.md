@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's your road, and yours alone, others may walk it with you, but no one can walk it for you." - Rumi
+"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?" - Seneca
 ```
 <!--QUOTE:end-->
 
