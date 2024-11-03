@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The most wasted day of all is that on which we have not laughed." - Nicolas Chamfort
+"It's your road, and yours alone, others may walk it with you, but no one can walk it for you." - Rumi
 ```
 <!--QUOTE:end-->
 
