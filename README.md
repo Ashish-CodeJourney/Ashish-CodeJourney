@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"May you find grace as you surrender to life. May you find happiness, as you stop seeking it." - Dan Millman
+"There is a wisdom of the head, and there is a wisdom of the heart." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
