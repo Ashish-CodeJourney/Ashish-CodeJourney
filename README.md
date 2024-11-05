@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is a wisdom of the head, and there is a wisdom of the heart." - Charles Dickens
+"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work." - Ralph Marston
 ```
 <!--QUOTE:end-->
 
