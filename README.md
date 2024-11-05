@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work." - Ralph Marston
+"Why live an ordinary life, when you can live an extraordinary one." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
