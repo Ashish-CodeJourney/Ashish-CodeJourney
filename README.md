@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Why live an ordinary life, when you can live an extraordinary one." - Tony Robbins
+"It is up to each of us to sing as we feel moved by the overall song of life." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
