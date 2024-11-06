@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is up to each of us to sing as we feel moved by the overall song of life." - Ming-Dao Deng
+"20 percent of your activities will account for 80 percent of your results." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
