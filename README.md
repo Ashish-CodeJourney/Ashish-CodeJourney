@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is much more successfully looked at from a single window." - F. Scott Fitzgerald
+"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
