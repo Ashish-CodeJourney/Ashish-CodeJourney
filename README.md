@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"20 percent of your activities will account for 80 percent of your results." - Brian Tracy
+"Life is much more successfully looked at from a single window." - F. Scott Fitzgerald
 ```
 <!--QUOTE:end-->
 
