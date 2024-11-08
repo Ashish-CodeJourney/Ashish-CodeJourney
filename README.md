@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"The difference between winning and losing is most often not quitting." - Walt Disney
 ```
 <!--QUOTE:end-->
 
