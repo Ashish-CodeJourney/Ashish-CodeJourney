@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Truth is like the sun. You can shut it out for a time, but it ain't going away." - Elvis Presley
+"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
