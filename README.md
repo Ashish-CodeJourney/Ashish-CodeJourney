@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any." - Thomas Jefferson
+"Life is too short to waste your time on people who don't respect, appreciate, and value you." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
