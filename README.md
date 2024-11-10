@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is too short to waste your time on people who don't respect, appreciate, and value you." - Roy T. Bennett
+"Nothing is more real than nothing." - Samuel Beckett
 ```
 <!--QUOTE:end-->
 
