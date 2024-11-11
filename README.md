@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing is more real than nothing." - Samuel Beckett
+"What gets measured gets improved." - Robin Sharma
 ```
 <!--QUOTE:end-->
 
