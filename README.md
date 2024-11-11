@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What gets measured gets improved." - Robin Sharma
+"Truth is such a rare thing, it is delighted to tell it." - Emily Dickinson
 ```
 <!--QUOTE:end-->
 
