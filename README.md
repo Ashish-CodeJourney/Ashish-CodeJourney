@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Truth is such a rare thing, it is delighted to tell it." - Emily Dickinson
+"Circumstances do not make the man, they reveal him." - James Allen
 ```
 <!--QUOTE:end-->
 
