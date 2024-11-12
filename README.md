@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Circumstances do not make the man, they reveal him." - James Allen
+"Behind every cloud is another cloud." - Judy Garland
 ```
 <!--QUOTE:end-->
 
