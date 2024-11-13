@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Behind every cloud is another cloud." - Judy Garland
+"It is during our darkest moments that we must focus to see the light." - Aristotle
 ```
 <!--QUOTE:end-->
 
