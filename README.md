@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is during our darkest moments that we must focus to see the light." - Aristotle
+"You can start changing our world for the better daily, no matter how small the action." - Nelson Mandela
 ```
 <!--QUOTE:end-->
 
