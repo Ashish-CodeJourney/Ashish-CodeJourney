@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can start changing our world for the better daily, no matter how small the action." - Nelson Mandela
+"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated." - Albus Dumbledore
 ```
 <!--QUOTE:end-->
 
