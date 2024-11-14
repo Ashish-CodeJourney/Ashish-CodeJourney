@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated." - Albus Dumbledore
+"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
