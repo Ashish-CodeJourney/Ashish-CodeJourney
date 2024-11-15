@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today." - Thich Nhat Hanh
+"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." - Unknown
 ```
 <!--QUOTE:end-->
 
