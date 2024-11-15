@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." - Unknown
+"Don't cry because it's over. Smile because it happened." - Dr. Seuss
 ```
 <!--QUOTE:end-->
 
