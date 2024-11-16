@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't cry because it's over. Smile because it happened." - Dr. Seuss
+"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
