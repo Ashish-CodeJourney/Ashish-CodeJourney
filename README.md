@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." - Zig Ziglar
+"People do not decide their futures, they decide their habits and their habits decide their futures." - Gary Keller
 ```
 <!--QUOTE:end-->
 
