@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The ones who are crazy enough to think they can change the world, are the ones that do." - Steve Jobs
+"Weeds are flowers too, once you get to know them." - A.A. Milne
 ```
 <!--QUOTE:end-->
 
