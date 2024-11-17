@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"People do not decide their futures, they decide their habits and their habits decide their futures." - Gary Keller
+"The ones who are crazy enough to think they can change the world, are the ones that do." - Steve Jobs
 ```
 <!--QUOTE:end-->
 
