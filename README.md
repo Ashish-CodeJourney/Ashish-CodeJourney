@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Weeds are flowers too, once you get to know them." - A.A. Milne
+"This is such a short and precious life that it's really important that you don't spend it being unhappy." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
