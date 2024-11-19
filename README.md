@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I am always doing that which I can not do, in order that I may learn how to do it." - Pablo Picasso
+"Have the courage to follow your heart and intuition. They somehow know what you truly want to become." - Steve Jobs
 ```
 <!--QUOTE:end-->
 
