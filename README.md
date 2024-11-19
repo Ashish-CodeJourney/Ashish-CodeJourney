@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Have the courage to follow your heart and intuition. They somehow know what you truly want to become." - Steve Jobs
+"Everything has its beauty, but not everyone sees it. " - Confucius
 ```
 <!--QUOTE:end-->
 
