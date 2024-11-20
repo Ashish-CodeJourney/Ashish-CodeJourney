@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing can survive without food. Everything we consume acts either to heal us or to poison us." - Thich Nhat Hanh
+"Happiness depends on your mindset and attitude." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
