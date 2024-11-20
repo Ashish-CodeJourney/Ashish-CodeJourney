@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everything has its beauty, but not everyone sees it. " - Confucius
+"Nothing can survive without food. Everything we consume acts either to heal us or to poison us." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
