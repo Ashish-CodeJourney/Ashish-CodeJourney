@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness depends on your mindset and attitude." - Roy T. Bennett
+"Always focus on the front windshield and not the rear view mirror." - Colin Powell
 ```
 <!--QUOTE:end-->
 
