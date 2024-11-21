@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Always focus on the front windshield and not the rear view mirror." - Colin Powell
+"Find your Light; They can't love you if they can't see you." - Bette Midler
 ```
 <!--QUOTE:end-->
 
