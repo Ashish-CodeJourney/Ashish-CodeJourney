@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't know, the thing to do is not to get scared, but to learn." - Ayn Rand
+"When you believe in a thing, believe in it all the way, implicitly and unquestionable." - Walt Disney
 ```
 <!--QUOTE:end-->
 
