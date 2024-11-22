@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Find your Light; They can't love you if they can't see you." - Bette Midler
+"If you don't know, the thing to do is not to get scared, but to learn." - Ayn Rand
 ```
 <!--QUOTE:end-->
 
