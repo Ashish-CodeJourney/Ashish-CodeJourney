@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He who fails to plan, plans to fail." - Unknown
+"Concentrated power has always been the enemy of liberty." - Ronald Reagan
 ```
 <!--QUOTE:end-->
 
