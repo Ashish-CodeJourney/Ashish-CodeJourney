@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you believe in a thing, believe in it all the way, implicitly and unquestionable." - Walt Disney
+"He who fails to plan, plans to fail." - Unknown
 ```
 <!--QUOTE:end-->
 
