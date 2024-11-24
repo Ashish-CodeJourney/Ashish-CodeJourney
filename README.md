@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Concentrated power has always been the enemy of liberty." - Ronald Reagan
+"Your success and happiness lie in you." - Helen Keller
 ```
 <!--QUOTE:end-->
 
