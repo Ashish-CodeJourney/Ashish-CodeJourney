@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your success and happiness lie in you." - Helen Keller
+"The source of a true smile is an awakened mind." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
