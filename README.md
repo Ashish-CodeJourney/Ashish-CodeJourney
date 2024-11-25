@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The source of a true smile is an awakened mind." - Thich Nhat Hanh
+"What we dwell on is who we become." - Oprah Winfrey
 ```
 <!--QUOTE:end-->
 
