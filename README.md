@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What we dwell on is who we become." - Oprah Winfrey
+"You're on earth. There's no cure for that." - Samuel Beckett
 ```
 <!--QUOTE:end-->
 
