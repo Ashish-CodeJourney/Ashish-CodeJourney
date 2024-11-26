@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You're on earth. There's no cure for that." - Samuel Beckett
+"If you think you can do a thing or think you can't do a thing, you're right." - Henry Ford
 ```
 <!--QUOTE:end-->
 
