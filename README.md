@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The quality of your commitments will determine the course of your life." - Ralph Marston
+"No great mind has ever existed without a touch of madness." - Aristotle
 ```
 <!--QUOTE:end-->
 
