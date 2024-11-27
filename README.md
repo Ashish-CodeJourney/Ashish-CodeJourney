@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. " - Charles Swindoll
+"The quality of your commitments will determine the course of your life." - Ralph Marston
 ```
 <!--QUOTE:end-->
 
