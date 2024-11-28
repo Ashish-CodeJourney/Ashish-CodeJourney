@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Become the kind of leader that people would follow voluntarily, even if you had no title or position." - Brian Tracy
+"No matter what happens, always be yourself." - Dale Carnegie
 ```
 <!--QUOTE:end-->
 
