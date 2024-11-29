@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You are now, and you do become, what you think about." - Earl Nightingale
+"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
