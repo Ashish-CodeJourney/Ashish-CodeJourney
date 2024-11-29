@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No matter what happens, always be yourself." - Dale Carnegie
+"You are now, and you do become, what you think about." - Earl Nightingale
 ```
 <!--QUOTE:end-->
 
