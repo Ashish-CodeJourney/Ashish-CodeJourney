@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better." - Elon Musk
+"Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoy
 ```
 <!--QUOTE:end-->
 
