@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday." - Jonathan Swift
+"Better to die fighting for freedom than be a prisoner all the days of your life." - Bob Marley
 ```
 <!--QUOTE:end-->
 
