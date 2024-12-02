@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Better to die fighting for freedom than be a prisoner all the days of your life." - Bob Marley
+"A lot of people have gone further than they thought they could because someone else thought they could." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
