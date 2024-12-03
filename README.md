@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly." - Marcus Aurelius
+"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants." - Stephen King
 ```
 <!--QUOTE:end-->
 
