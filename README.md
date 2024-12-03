@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A lot of people have gone further than they thought they could because someone else thought they could." - Zig Ziglar
+"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
