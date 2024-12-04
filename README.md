@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You become a worrier by practicing worry. You become free of worry by practicing the opposite." - Norman Vincent Peale
+"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. " - Orison Swett Marden
 ```
 <!--QUOTE:end-->
 
