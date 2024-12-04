@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants." - Stephen King
+"You become a worrier by practicing worry. You become free of worry by practicing the opposite." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
