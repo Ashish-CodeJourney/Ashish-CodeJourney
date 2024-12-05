@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is dangerous to be right in matters on which the established authorities are wrong." - Voltaire
+"Hardly anybody recognizes the most significant moments of their life at the time they happen." - W.P. Kinsella
 ```
 <!--QUOTE:end-->
 
