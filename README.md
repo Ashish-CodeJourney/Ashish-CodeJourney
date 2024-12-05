@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. " - Orison Swett Marden
+"It is dangerous to be right in matters on which the established authorities are wrong." - Voltaire
 ```
 <!--QUOTE:end-->
 
