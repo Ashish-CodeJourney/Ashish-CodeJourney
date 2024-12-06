@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't try to steer the river." - Deepak Chopra
+"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking." - Nicolas Chamfort
 ```
 <!--QUOTE:end-->
 
