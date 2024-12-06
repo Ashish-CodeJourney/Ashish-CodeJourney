@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Hardly anybody recognizes the most significant moments of their life at the time they happen." - W.P. Kinsella
+"Don't try to steer the river." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
