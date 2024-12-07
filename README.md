@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking." - Nicolas Chamfort
+"Don't let your mind stop you." - Steve Harvey
 ```
 <!--QUOTE:end-->
 
