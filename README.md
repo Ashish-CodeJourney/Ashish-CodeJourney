@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't let your mind stop you." - Steve Harvey
+"Charms strike the sight, but merit wins the soul." - Alexander Pope
 ```
 <!--QUOTE:end-->
 
