@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge." - Robert Greene
+"If you don't like something change it; if you can't change it, change the way you think about it." - Mary Engelbreit
 ```
 <!--QUOTE:end-->
 
