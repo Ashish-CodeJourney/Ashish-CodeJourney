@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Charms strike the sight, but merit wins the soul." - Alexander Pope
+"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge." - Robert Greene
 ```
 <!--QUOTE:end-->
 
