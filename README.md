@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoy
+"To live outside the law, you must be honest. " - Bob Dylan
 ```
 <!--QUOTE:end-->
 
