@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't like something change it; if you can't change it, change the way you think about it." - Mary Engelbreit
+"Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoy
 ```
 <!--QUOTE:end-->
 
