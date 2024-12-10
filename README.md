@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To live outside the law, you must be honest. " - Bob Dylan
+"Many a man has failed because he had his wishbone where his backbone should have been." - Ronald Reagan
 ```
 <!--QUOTE:end-->
 
