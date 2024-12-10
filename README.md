@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Many a man has failed because he had his wishbone where his backbone should have been." - Ronald Reagan
+"Failing is another stepping stone to greatness." - Oprah Winfrey
 ```
 <!--QUOTE:end-->
 
