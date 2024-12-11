@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you can change your mind, you can change your life." - William James
+"Inspiration exists, but it has to find you working." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
