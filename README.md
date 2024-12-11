@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Failing is another stepping stone to greatness." - Oprah Winfrey
+"If you can change your mind, you can change your life." - William James
 ```
 <!--QUOTE:end-->
 
