@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Inspiration exists, but it has to find you working." - Pablo Picasso
+"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another." - Mark Manson
 ```
 <!--QUOTE:end-->
 
