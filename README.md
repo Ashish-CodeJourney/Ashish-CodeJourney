@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another." - Mark Manson
+"We create the world and ourselves;" - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
