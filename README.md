@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We create the world and ourselves;" - Ming-Dao Deng
+"If you're not making mistakes, then you're not doing anything." - John Wooden
 ```
 <!--QUOTE:end-->
 
