@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you're not making mistakes, then you're not doing anything." - John Wooden
+"It is not how much we have, but how much we enjoy, that makes happiness." - Charles Spurgeon
 ```
 <!--QUOTE:end-->
 
