@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The heart wants what it wants - or else it does not care." - Emily Dickinson
+"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - Pema Chodron
 ```
 <!--QUOTE:end-->
 
