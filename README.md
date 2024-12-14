@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is not how much we have, but how much we enjoy, that makes happiness." - Charles Spurgeon
+"The heart wants what it wants - or else it does not care." - Emily Dickinson
 ```
 <!--QUOTE:end-->
 
