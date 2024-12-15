@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Persistence is very important. You should not give up unless you are forced to give up." - Elon Musk
+"The Only Thing That Is Constant Is Change" - Heraclitus
 ```
 <!--QUOTE:end-->
 
