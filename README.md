@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - Pema Chodron
+"Persistence is very important. You should not give up unless you are forced to give up." - Elon Musk
 ```
 <!--QUOTE:end-->
 
