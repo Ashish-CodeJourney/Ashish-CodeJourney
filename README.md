@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The Only Thing That Is Constant Is Change" - Heraclitus
+"The pen is the tongue of the mind. " - Miguel de Cervantes
 ```
 <!--QUOTE:end-->
 
