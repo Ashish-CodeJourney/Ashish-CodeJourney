@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The pen is the tongue of the mind. " - Miguel de Cervantes
+"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." - G.I. Gurdjieff
 ```
 <!--QUOTE:end-->
 
