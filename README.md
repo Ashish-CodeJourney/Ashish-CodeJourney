@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Only by acceptance of the past, can you alter it." - T.S. Eliot
+"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." - Colin Powell
 ```
 <!--QUOTE:end-->
 
