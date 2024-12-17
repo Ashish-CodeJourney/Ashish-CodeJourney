@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." - G.I. Gurdjieff
+"Only by acceptance of the past, can you alter it." - T.S. Eliot
 ```
 <!--QUOTE:end-->
 
