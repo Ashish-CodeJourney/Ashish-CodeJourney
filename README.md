@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." - Colin Powell
+"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver." - Ayn Rand
 ```
 <!--QUOTE:end-->
 
