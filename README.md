@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver." - Ayn Rand
+"Information changes your mind. Action changes your circumstances." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
