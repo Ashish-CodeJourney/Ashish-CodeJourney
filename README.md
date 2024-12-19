@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Information changes your mind. Action changes your circumstances." - Jack Butcher
+"Little minds have little worries, big minds have no time for worries." - Ralph Waldo Emerson
 ```
 <!--QUOTE:end-->
 
