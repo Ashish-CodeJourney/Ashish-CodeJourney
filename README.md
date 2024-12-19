@@ -94,7 +94,7 @@ const ashish = {
   
 | Streak Stats | Language Stats |
 | --- | --- |
-| ![](https://nirzak-streak-stats.vercel.app/?user=Ashish-CodeJourney) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-CodeJourney&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://nirzak-streak-stats.vercel.app/?user=Ashish-CodeJourney) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-CodeJourney&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 
 </div>
 
