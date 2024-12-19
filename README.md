@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Little minds have little worries, big minds have no time for worries." - Ralph Waldo Emerson
+"Learn to sit back and observe, not everything needs a reaction." - Unknown
 ```
 <!--QUOTE:end-->
 
