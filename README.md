@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Learn to sit back and observe, not everything needs a reaction." - Unknown
+"What would you do if you weren't afraid?" - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
