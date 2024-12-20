@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What would you do if you weren't afraid?" - Spencer Johnson
+"By changing nothing, nothing changes." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
