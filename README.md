@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"By changing nothing, nothing changes." - Celestine Chua
+"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi
 ```
 <!--QUOTE:end-->
 
