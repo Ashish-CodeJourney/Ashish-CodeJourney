@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi
+"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you." - Criss Jami
 ```
 <!--QUOTE:end-->
 
