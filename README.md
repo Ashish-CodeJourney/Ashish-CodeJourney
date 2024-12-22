@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you." - Criss Jami
+"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories." - Ray Bradbury
 ```
 <!--QUOTE:end-->
 
