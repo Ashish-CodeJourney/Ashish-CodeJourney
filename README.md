@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories." - Ray Bradbury
+"When you're at the end of your rope, tie a knot and hold on." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
