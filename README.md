@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If I can laugh, I can live." - Christopher Reeve
+"Each path to knowledge involves different rules and these rules are not interchangeable." - Barack Obama
 ```
 <!--QUOTE:end-->
 
