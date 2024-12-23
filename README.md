@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you're at the end of your rope, tie a knot and hold on." - Theodore Roosevelt
+"If I can laugh, I can live." - Christopher Reeve
 ```
 <!--QUOTE:end-->
 
