@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Each path to knowledge involves different rules and these rules are not interchangeable." - Barack Obama
+"Rest and be kind, you don't have to prove anything." - Jack Kerouac
 ```
 <!--QUOTE:end-->
 
