@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Rest and be kind, you don't have to prove anything." - Jack Kerouac
+"It still holds true that man is most uniquely human when he turns obstacles into opportunities." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
