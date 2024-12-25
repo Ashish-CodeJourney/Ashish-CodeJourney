@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." - Robert Greene
+"To be fully alive is to feel that everything is possible." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
