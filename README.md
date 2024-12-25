@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It still holds true that man is most uniquely human when he turns obstacles into opportunities." - Eric Hoffer
+"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." - Robert Greene
 ```
 <!--QUOTE:end-->
 
