@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can do two things at once, but you can't focus effectively on two things at once." - Gary Keller
+"Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 ```
 <!--QUOTE:end-->
 
