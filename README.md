@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To be fully alive is to feel that everything is possible." - Eric Hoffer
+"You can do two things at once, but you can't focus effectively on two things at once." - Gary Keller
 ```
 <!--QUOTE:end-->
 
