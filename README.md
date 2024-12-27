@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is a constant series of opportunities." - Ming-Dao Deng
+"Music is like creating an emotional painting. The sounds are the colors." - Yanni
 ```
 <!--QUOTE:end-->
 
