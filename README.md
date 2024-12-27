@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+"Life is a constant series of opportunities." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
