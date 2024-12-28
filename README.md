@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"How many times do you have to get hit over the head until you figure out who's hitting you?" - Harry S. Truman
+"If I love myself I love you. If I love you I love myself." - Rumi
 ```
 <!--QUOTE:end-->
 
