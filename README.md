@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Music is like creating an emotional painting. The sounds are the colors." - Yanni
+"How many times do you have to get hit over the head until you figure out who's hitting you?" - Harry S. Truman
 ```
 <!--QUOTE:end-->
 
