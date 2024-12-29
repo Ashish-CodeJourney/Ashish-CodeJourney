@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Words, once they are printed, have a life of their own." - Carol Burnett
+"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
