@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If I love myself I love you. If I love you I love myself." - Rumi
+"Words, once they are printed, have a life of their own." - Carol Burnett
 ```
 <!--QUOTE:end-->
 
