@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The positive thinker sees the invisible, feels the intangible, and achieves the impossible." - Winston Churchill
+"Vision is the art of seeing things invisible." - Jonathan Swift
 ```
 <!--QUOTE:end-->
 
