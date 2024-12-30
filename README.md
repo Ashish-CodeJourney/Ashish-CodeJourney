@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward." - Roy T. Bennett
+"The positive thinker sees the invisible, feels the intangible, and achieves the impossible." - Winston Churchill
 ```
 <!--QUOTE:end-->
 
