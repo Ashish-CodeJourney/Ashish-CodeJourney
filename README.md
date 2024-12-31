@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is an essence of when you are fearless, you become more creative." - Gurbaksh Chahal
+"The only thing more frustrating than slanderers is those foolish enough to listen to them." - Criss Jami
 ```
 <!--QUOTE:end-->
 
