@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Vision is the art of seeing things invisible." - Jonathan Swift
+"There is an essence of when you are fearless, you become more creative." - Gurbaksh Chahal
 ```
 <!--QUOTE:end-->
 
