@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only thing more frustrating than slanderers is those foolish enough to listen to them." - Criss Jami
+"The more you praise and celebrate your life, the more there is in life to celebrate. " - Oprah Winfrey
 ```
 <!--QUOTE:end-->
 
