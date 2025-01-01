@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The more you praise and celebrate your life, the more there is in life to celebrate. " - Oprah Winfrey
+"Exceptional thinkers ignore their critics and go about their business making history." - John Eliot
 ```
 <!--QUOTE:end-->
 
