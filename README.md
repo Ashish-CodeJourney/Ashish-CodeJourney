@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Knowing yourself is the beginning of all wisdom." - Aristotle
+"While we may not be able to control all that happens to us, we can control what happens inside us." - Benjamin Franklin
 ```
 <!--QUOTE:end-->
 
