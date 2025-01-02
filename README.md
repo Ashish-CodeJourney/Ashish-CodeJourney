@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Exceptional thinkers ignore their critics and go about their business making history." - John Eliot
+"Knowing yourself is the beginning of all wisdom." - Aristotle
 ```
 <!--QUOTE:end-->
 
