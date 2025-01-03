@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." - Amelia Earhart
+"Attitude drives actions. Actions drive results. Results drive lifestyles." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
