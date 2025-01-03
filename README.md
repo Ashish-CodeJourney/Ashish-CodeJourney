@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"While we may not be able to control all that happens to us, we can control what happens inside us." - Benjamin Franklin
+"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." - Amelia Earhart
 ```
 <!--QUOTE:end-->
 
