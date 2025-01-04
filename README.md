@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do good by stealth, and blush to find it fame." - Alexander Pope
+"In the midst of chaos, there is also opportunity." - Sun Tzu
 ```
 <!--QUOTE:end-->
 
