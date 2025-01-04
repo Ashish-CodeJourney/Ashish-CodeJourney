@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Attitude drives actions. Actions drive results. Results drive lifestyles." - Jim Rohn
+"Do good by stealth, and blush to find it fame." - Alexander Pope
 ```
 <!--QUOTE:end-->
 
