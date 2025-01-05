@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"In the midst of chaos, there is also opportunity." - Sun Tzu
+"How you think when you lose determines how long it will be until you win." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
