@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." - Abraham Lincoln
+"A dead thing can go with the stream, but only a living thing can go against it." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
