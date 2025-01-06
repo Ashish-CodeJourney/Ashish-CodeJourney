@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A dead thing can go with the stream, but only a living thing can go against it." - Gilbert Chesterton
+"You Create Your Own Present By What You Give Your Attention To Today." - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
