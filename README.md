@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You Create Your Own Present By What You Give Your Attention To Today." - Spencer Johnson
+"Men do not attract which they want but that which they are." - James Allen
 ```
 <!--QUOTE:end-->
 
