@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Men do not attract which they want but that which they are." - James Allen
+"Your mind is infinite, it's your doubts that are limiting." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
