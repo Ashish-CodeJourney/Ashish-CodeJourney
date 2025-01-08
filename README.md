@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." - Henry David Thoreau
+"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." - James Allen
 ```
 <!--QUOTE:end-->
 
