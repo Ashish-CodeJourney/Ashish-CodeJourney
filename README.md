@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your mind is infinite, it's your doubts that are limiting." - Robert Kiyosaki
+"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." - Henry David Thoreau
 ```
 <!--QUOTE:end-->
 
