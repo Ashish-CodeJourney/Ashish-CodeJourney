@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." - James Allen
+"The most important single ingredient in the formula of success is knowing how to get along with people." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
