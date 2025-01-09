@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The most important single ingredient in the formula of success is knowing how to get along with people." - Theodore Roosevelt
+"The birth of the mind is the death of the senses." - Dan Millman
 ```
 <!--QUOTE:end-->
 
