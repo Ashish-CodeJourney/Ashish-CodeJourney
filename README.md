@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The birth of the mind is the death of the senses." - Dan Millman
+"Cease striving. Then there will be transformation." - Zhuangzi
 ```
 <!--QUOTE:end-->
 
