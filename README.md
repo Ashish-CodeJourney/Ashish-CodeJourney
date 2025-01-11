@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. " - Margaret Mead
+"Decide upon your major definite purpose in life and then organize all your activities around it." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
