@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There are no ordinary moments." - Dan Millman
+"To get angry is like to revenge yourself for the guilt of others." - Jonathan Swift
 ```
 <!--QUOTE:end-->
 
