@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To get angry is like to revenge yourself for the guilt of others." - Jonathan Swift
+"Everybody's life is either rewarding or an example." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
