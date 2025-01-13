@@ -9,30 +9,36 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Check out the repository
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.PAT }}  # Use PAT for checkout
-      
+
+      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
           
+      # Step 3: Install necessary Python libraries
       - name: Install requests
         run: pip install requests
         
+      # Step 4: Run the script to update the README with a new quote
       - name: Update README with new quote
         run: |
           python .github/scripts/update_quote.py
         
+      # Step 5: Commit and push changes if any
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'Ashish Vaghela'
-          git config --global user.email 'ashishcodejourney@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
           
           # Get current date in YYYY-MM-DD format
           current_date=$(date +'%Y-%m-%d')
           
-          # Check if there are changes and commit with conventional commit message
+          # Commit changes if there are any, and push them
           git diff --quiet && git diff --staged --quiet || (git commit -m "content(quote): update programming wisdom [${current_date}]" && git push)
+
