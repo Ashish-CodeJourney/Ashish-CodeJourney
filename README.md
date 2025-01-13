@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Time is a game played beautifully by children." - Heraclitus
+"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
