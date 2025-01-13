@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everybody's life is either rewarding or an example." - Tony Robbins
+"Time is a game played beautifully by children." - Heraclitus
 ```
 <!--QUOTE:end-->
 
