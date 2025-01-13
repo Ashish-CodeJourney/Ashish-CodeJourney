@@ -28,7 +28,7 @@ jobs:
       - name: Commit and push if changed
         run: |
           git config --global user.name 'Ashish Vaghela'
-          git config --global user.email 'vaghelaashish111@gmail.com'
+          git config --global user.email 'ashishcodejourney@users.noreply.github.com'
           git add README.md
           
           # Get current date in YYYY-MM-DD format
