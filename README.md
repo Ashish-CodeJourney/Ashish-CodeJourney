@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The attempt to escape from pain, is what creates more pain." - Gabor Mate
+"Know yourself and you will win all battles." - Sun Tzu
 ```
 <!--QUOTE:end-->
 
