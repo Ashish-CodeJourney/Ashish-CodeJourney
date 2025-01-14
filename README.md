@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Know yourself and you will win all battles." - Sun Tzu
+"Receive without complaint, Work with fate." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
