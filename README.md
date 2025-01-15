@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Where there's life, there's hope." - Stephen Hawking
+"Death is not an ending. It is a transformation." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
