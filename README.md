@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Receive without complaint, Work with fate." - Ming-Dao Deng
+"Where there's life, there's hope." - Stephen Hawking
 ```
 <!--QUOTE:end-->
 
