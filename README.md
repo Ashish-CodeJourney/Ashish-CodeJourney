@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We must not sit down and wait for miracles. Up and be going!" - John Eliot
+"Life is not a problem to be solved, but a reality to be experienced." - Soren Kierkegaard
 ```
 <!--QUOTE:end-->
 
