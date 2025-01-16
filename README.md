@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Death is not an ending. It is a transformation." - Ming-Dao Deng
+"We must not sit down and wait for miracles. Up and be going!" - John Eliot
 ```
 <!--QUOTE:end-->
 
