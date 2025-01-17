@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Not engaging in ignorance is wisdom. " - Bodhidharma
+"It always seems impossible until it's done." - Nelson Mandela
 ```
 <!--QUOTE:end-->
 
