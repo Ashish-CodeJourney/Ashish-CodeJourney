@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is not a problem to be solved, but a reality to be experienced." - Soren Kierkegaard
+"Not engaging in ignorance is wisdom. " - Bodhidharma
 ```
 <!--QUOTE:end-->
 
