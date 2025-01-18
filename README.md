@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It always seems impossible until it's done." - Nelson Mandela
+"Happiness is only real, when shared." - Christopher McCandless
 ```
 <!--QUOTE:end-->
 
