@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness is only real, when shared." - Christopher McCandless
+"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them." - Epictetus
 ```
 <!--QUOTE:end-->
 
