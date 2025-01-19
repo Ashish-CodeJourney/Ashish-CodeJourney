@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them." - Epictetus
+"If you want something then you lose everything. If you don't want anything then you already have everything." - Seungsahn
 ```
 <!--QUOTE:end-->
 
