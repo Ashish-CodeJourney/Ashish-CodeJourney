@@ -131,7 +131,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you want something then you lose everything. If you don't want anything then you already have everything." - Seungsahn
+"Muddy water is best cleared by leaving it alone." - Alan Watts
 ```
 <!--QUOTE:end-->
 
