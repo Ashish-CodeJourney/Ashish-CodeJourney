@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Muddy water is best cleared by leaving it alone." - Alan Watts
+"Blessed is he who expects nothing, for he shall never be disappointed." - Alexander Pope
 ```
 <!--QUOTE:end-->
 
