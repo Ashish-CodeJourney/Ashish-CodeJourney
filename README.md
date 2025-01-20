@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Blessed is he who expects nothing, for he shall never be disappointed." - Alexander Pope
+"If you've never eaten while crying you don t know what life tastes like." - Johann Wolfgang von Goethe
 ```
 <!--QUOTE:end-->
 
