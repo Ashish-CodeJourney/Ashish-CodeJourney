@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"How to get more opportunity: Create more opportunity for others." - Jack Butcher
+"Trying to define yourself is like trying to bite your own teeth." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
