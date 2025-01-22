@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Trying to define yourself is like trying to bite your own teeth." - Zen Proverb
+"Keep it logically awesome."
 ```
 <!--QUOTE:end-->
 
