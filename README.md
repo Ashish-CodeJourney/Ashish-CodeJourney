@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Keep it logically awesome."
+"We will act consistently with our view of who we truly are, whether that view is accurate or not." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
