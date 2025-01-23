@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We will act consistently with our view of who we truly are, whether that view is accurate or not." - Tony Robbins
+"You can't climb the ladder of success with your hands in your pockets." - Arnold Schwarzenegger
 ```
 <!--QUOTE:end-->
 
