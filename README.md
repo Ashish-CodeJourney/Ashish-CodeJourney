@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can't climb the ladder of success with your hands in your pockets." - Arnold Schwarzenegger
+"Always turn a negative situation into a positive situation." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
