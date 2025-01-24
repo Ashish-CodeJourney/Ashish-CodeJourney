@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold." - Chinese Proverb
+"There is only one thing that makes a dream impossible to achieve: the fear of failure." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
