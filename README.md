@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Always turn a negative situation into a positive situation." - Michael Jordan
+"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
