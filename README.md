@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I do not seek. I find." - Pablo Picasso
+"Who you are is defined by what you're willing to struggle for." - Mark Manson
 ```
 <!--QUOTE:end-->
 
