@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is only one thing that makes a dream impossible to achieve: the fear of failure." - Paulo Coelho
+"I do not seek. I find." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
