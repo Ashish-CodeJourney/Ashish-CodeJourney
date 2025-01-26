@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Who you are is defined by what you're willing to struggle for." - Mark Manson
+"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." - Unknown
 ```
 <!--QUOTE:end-->
 
