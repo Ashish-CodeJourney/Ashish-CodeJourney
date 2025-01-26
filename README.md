@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." - Unknown
+"Success is a poor teacher." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
