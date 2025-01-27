@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Self-control is strength." - James Allen
+"When you realize you've made a mistake, take immediate steps to correct it." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
