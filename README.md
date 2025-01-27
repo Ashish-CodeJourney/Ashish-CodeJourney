@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Success is a poor teacher." - Robert Kiyosaki
+"Self-control is strength." - James Allen
 ```
 <!--QUOTE:end-->
 
