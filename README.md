@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Fashion fades, only style remains the same." - Coco Chanel
+"No one ever is defeated until defeat has been accepted as a reality." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
