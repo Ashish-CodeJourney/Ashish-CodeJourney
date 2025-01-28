@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you realize you've made a mistake, take immediate steps to correct it." - Dalai Lama
+"Fashion fades, only style remains the same." - Coco Chanel
 ```
 <!--QUOTE:end-->
 
