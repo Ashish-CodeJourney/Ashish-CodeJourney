@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The outer conditions of a person's life will always be found to reflect their inner beliefs." - James Allen
+"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists." - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
