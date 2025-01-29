@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No one ever is defeated until defeat has been accepted as a reality." - Napoleon Hill
+"The outer conditions of a person's life will always be found to reflect their inner beliefs." - James Allen
 ```
 <!--QUOTE:end-->
 
