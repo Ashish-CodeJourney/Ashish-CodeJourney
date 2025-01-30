@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Begin at once to live, and count each separate day as a separate life.  " - Seneca
+"There are no second chances in life, except to feel remorse." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
