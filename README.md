@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There are no second chances in life, except to feel remorse." - Carlos Ruiz Zafon
+"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush." - Rumi
 ```
 <!--QUOTE:end-->
 
