@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush." - Rumi
+"Anything worth doing is worth doing slowly." - Mae West
 ```
 <!--QUOTE:end-->
 
