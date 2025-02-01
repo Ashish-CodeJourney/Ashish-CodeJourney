@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Anything worth doing is worth doing slowly." - Mae West
+"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen." - Winston Churchill
 ```
 <!--QUOTE:end-->
 
