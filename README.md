@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen." - Winston Churchill
+"Do the hard jobs first. The easy jobs will take care of themselves." - Dale Carnegie
 ```
 <!--QUOTE:end-->
 
