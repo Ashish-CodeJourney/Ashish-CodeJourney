@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do the hard jobs first. The easy jobs will take care of themselves." - Dale Carnegie
+"Curiosity is the most powerful thing you own." - James Cameron
 ```
 <!--QUOTE:end-->
 
