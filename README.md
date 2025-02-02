@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Curiosity is the most powerful thing you own." - James Cameron
+"The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
 ```
 <!--QUOTE:end-->
 
