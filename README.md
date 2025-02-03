@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
+"Favor focus over features."
 ```
 <!--QUOTE:end-->
 
