@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Favor focus over features."
+"It is amazing what you can accomplish if you do not care who gets the credit." - Harry S. Truman
 ```
 <!--QUOTE:end-->
 
