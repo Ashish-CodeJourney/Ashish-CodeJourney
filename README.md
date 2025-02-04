@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is amazing what you can accomplish if you do not care who gets the credit." - Harry S. Truman
+"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
