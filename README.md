@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." - Jack Butcher
+"Courage is found in unlikely places." - J.R.R. Tolkien
 ```
 <!--QUOTE:end-->
 
