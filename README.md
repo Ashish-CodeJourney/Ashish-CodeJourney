@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Courage is found in unlikely places." - J.R.R. Tolkien
+"Honor is the foundation of courage." - Amelia Earhart
 ```
 <!--QUOTE:end-->
 
