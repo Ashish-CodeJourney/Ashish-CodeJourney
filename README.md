@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Honor is the foundation of courage." - Amelia Earhart
+"Surround yourself with only people who are going to lift you higher. " - Oprah Winfrey
 ```
 <!--QUOTE:end-->
 
