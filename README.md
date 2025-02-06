@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Surround yourself with only people who are going to lift you higher. " - Oprah Winfrey
+"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." - Elbert Hubbard
 ```
 <!--QUOTE:end-->
 
