@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." - Elbert Hubbard
+"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do." - Elvis Presley
 ```
 <!--QUOTE:end-->
 
