@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. " - George Washington
+"When it is dark enough, you can see the stars." - Ralph Waldo Emerson
 ```
 <!--QUOTE:end-->
 
