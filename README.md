@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do." - Elvis Presley
+"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. " - George Washington
 ```
 <!--QUOTE:end-->
 
