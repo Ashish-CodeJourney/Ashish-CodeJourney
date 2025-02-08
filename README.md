@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing important is learned; it is simply remembered." - Carlos Ruiz Zafon
+"Everybody has talent, but ability takes hard work." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
