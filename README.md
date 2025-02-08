@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When it is dark enough, you can see the stars." - Ralph Waldo Emerson
+"Nothing important is learned; it is simply remembered." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
