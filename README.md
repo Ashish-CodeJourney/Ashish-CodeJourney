@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everybody has talent, but ability takes hard work." - Michael Jordan
+"Think and wonder, wonder and think." - Dr. Seuss
 ```
 <!--QUOTE:end-->
 
