@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Think and wonder, wonder and think." - Dr. Seuss
+"Humans and prosperity never endure side by side for long." - Herodotus
 ```
 <!--QUOTE:end-->
 
