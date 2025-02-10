@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Humans and prosperity never endure side by side for long." - Herodotus
+"Attitude, not aptitude, determines altitude.  " - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
