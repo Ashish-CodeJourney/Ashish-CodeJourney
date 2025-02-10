@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Attitude, not aptitude, determines altitude.  " - Zig Ziglar
+"Knowledge is learning something everyday. Wisdom is letting go of something everyday." - Unknown
 ```
 <!--QUOTE:end-->
 
