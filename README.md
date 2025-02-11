@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Knowledge is learning something everyday. Wisdom is letting go of something everyday." - Unknown
+"One of the keys to happiness is a bad memory." - Rita Mae Brown
 ```
 <!--QUOTE:end-->
 
