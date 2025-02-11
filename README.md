@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"One of the keys to happiness is a bad memory." - Rita Mae Brown
+"Chase your passion, not your pension. " - Denis Waitley
 ```
 <!--QUOTE:end-->
 
