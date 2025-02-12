@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"All men are equal before fish." - Herbert Hoover
+"Among the things you can give and still keep are your word, a smile, and a grateful heart." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
