@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Chase your passion, not your pension. " - Denis Waitley
+"All men are equal before fish." - Herbert Hoover
 ```
 <!--QUOTE:end-->
 
