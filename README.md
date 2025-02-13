@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Every moment is a fresh beginning." - T.S. Eliot
+"Do all things with love." - Og Mandino
 ```
 <!--QUOTE:end-->
 
