@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Among the things you can give and still keep are your word, a smile, and a grateful heart." - Zig Ziglar
+"Every moment is a fresh beginning." - T.S. Eliot
 ```
 <!--QUOTE:end-->
 
