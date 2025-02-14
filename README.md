@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Human beings can alter their lives by altering their attitudes of mind." - William James
+"True love stories never have endings." - Richard Bach
 ```
 <!--QUOTE:end-->
 
