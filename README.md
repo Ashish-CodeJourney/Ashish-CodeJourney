@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do all things with love." - Og Mandino
+"Human beings can alter their lives by altering their attitudes of mind." - William James
 ```
 <!--QUOTE:end-->
 
