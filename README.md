@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"True love stories never have endings." - Richard Bach
+"Every limit is a beginning as well as an ending." - George Eliot
 ```
 <!--QUOTE:end-->
 
