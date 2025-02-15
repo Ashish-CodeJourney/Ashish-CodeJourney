@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Every limit is a beginning as well as an ending." - George Eliot
+"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
