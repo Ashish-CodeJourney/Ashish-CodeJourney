@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It doesn't matter where you are, you are nowhere compared to where you can go." - Bob Proctor
+"Life is not a problem to be solved, but a reality to be experienced." - Soren Kierkegaard
 ```
 <!--QUOTE:end-->
 
