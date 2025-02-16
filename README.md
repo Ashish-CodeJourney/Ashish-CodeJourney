@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive." - Dalai Lama
+"It doesn't matter where you are, you are nowhere compared to where you can go." - Bob Proctor
 ```
 <!--QUOTE:end-->
 
