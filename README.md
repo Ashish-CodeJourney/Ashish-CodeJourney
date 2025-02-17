@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Throughout this life, you can never be certain of living long enough to take another breath." - Zen Proverb
+"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." - Kamal Ravikant
 ```
 <!--QUOTE:end-->
 
