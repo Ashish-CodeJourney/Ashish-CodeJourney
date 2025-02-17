@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is not a problem to be solved, but a reality to be experienced." - Soren Kierkegaard
+"Throughout this life, you can never be certain of living long enough to take another breath." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
