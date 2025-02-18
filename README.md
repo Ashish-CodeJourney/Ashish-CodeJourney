@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." - Kamal Ravikant
+"If you run you stand a chance of losing, but if you don't run you've already lost." - Barack Obama
 ```
 <!--QUOTE:end-->
 
