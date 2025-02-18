@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you run you stand a chance of losing, but if you don't run you've already lost." - Barack Obama
+"The secret of success lies not in doing your own work, but in recognizing the right man to do it." - Andrew Carnegie
 ```
 <!--QUOTE:end-->
 
