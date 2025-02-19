@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never waste a minute of your precious life thinking about people you don't like." - Celestine Chua
+"Muddy water is best cleared by leaving it alone." - Alan Watts
 ```
 <!--QUOTE:end-->
 
