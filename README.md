@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The secret of success lies not in doing your own work, but in recognizing the right man to do it." - Andrew Carnegie
+"Never waste a minute of your precious life thinking about people you don't like." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
