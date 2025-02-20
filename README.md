@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Create with the heart; build with the mind." - Criss Jami
+"FOCUS - Follow One Course Until Successful" - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
