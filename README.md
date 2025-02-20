@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Muddy water is best cleared by leaving it alone." - Alan Watts
+"Create with the heart; build with the mind." - Criss Jami
 ```
 <!--QUOTE:end-->
 
