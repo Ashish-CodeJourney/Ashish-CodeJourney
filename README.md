@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"FOCUS - Follow One Course Until Successful" - Robert Kiyosaki
+"You talk when you cease to be at peace with your thoughts." - Kahlil Gibran
 ```
 <!--QUOTE:end-->
 
