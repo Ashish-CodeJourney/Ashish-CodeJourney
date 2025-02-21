@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You talk when you cease to be at peace with your thoughts." - Kahlil Gibran
+"The road to success is always under construction." - Steve Harvey
 ```
 <!--QUOTE:end-->
 
