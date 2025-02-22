@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Productize your perspective." - Jack Butcher
+"There's a very deep connection among human beings. All we have to do is open our minds to it." - Yanni
 ```
 <!--QUOTE:end-->
 
