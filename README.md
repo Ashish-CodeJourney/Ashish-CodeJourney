@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The road to success is always under construction." - Steve Harvey
+"Productize your perspective." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
