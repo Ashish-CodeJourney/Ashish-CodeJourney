@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There's a very deep connection among human beings. All we have to do is open our minds to it." - Yanni
+"No one can hurt you without your consent." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
