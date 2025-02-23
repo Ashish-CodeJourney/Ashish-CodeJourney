@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No one can hurt you without your consent." - Eleanor Roosevelt
+"If you pray for rain, be prepared to deal with some mud." - Mary Engelbreit
 ```
 <!--QUOTE:end-->
 
