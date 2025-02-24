@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you pray for rain, be prepared to deal with some mud." - Mary Engelbreit
+"Knowing is not enough, we must apply. Willing is not enough, we must do.  " - Bruce Lee
 ```
 <!--QUOTE:end-->
 
