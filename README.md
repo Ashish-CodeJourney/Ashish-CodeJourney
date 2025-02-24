@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Knowing is not enough, we must apply. Willing is not enough, we must do.  " - Bruce Lee
+"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " - Steve Jobs
 ```
 <!--QUOTE:end-->
 
