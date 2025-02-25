@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " - Steve Jobs
+"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now." - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
