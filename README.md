@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness is an effect of doing what you love, not an end goal to be achieved." - Celestine Chua
+"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. " - Paramahansa Yogananda
 ```
 <!--QUOTE:end-->
 
