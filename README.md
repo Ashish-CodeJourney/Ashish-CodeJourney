@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. " - Paramahansa Yogananda
+"Focus is a matter of deciding what things you're not going to do." - John Carmack
 ```
 <!--QUOTE:end-->
 
