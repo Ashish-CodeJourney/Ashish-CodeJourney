@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Focus is a matter of deciding what things you're not going to do." - John Carmack
+"Don't blame others. it won't make you a better person." - Lolly Daskal
 ```
 <!--QUOTE:end-->
 
