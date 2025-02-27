@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't blame others. it won't make you a better person." - Lolly Daskal
+"Love the life you live, live the life you love." - Bob Marley
 ```
 <!--QUOTE:end-->
 
