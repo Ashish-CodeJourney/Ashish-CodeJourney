@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Love the life you live, live the life you love." - Bob Marley
+"Success is going from failure to failure without losing your enthusiasm" - Winston Churchill
 ```
 <!--QUOTE:end-->
 
