@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Success is going from failure to failure without losing your enthusiasm" - Winston Churchill
+"Victory is always possible for the person who refuses to stop fighting." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
