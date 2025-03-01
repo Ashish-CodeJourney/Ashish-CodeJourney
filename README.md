@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Victory is always possible for the person who refuses to stop fighting." - Napoleon Hill
+"Public opinion is the worst of all opinions." - Nicolas Chamfort
 ```
 <!--QUOTE:end-->
 
