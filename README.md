@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Public opinion is the worst of all opinions." - Nicolas Chamfort
+"Don't want anything. Then you get everything." - Seungsahn
 ```
 <!--QUOTE:end-->
 
