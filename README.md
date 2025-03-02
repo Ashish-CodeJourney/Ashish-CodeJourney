@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't want anything. Then you get everything." - Seungsahn
+"I am not absentminded. It is the presence of mind that makes me unaware of everything else." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
