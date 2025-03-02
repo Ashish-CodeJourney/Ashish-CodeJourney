@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I am not absentminded. It is the presence of mind that makes me unaware of everything else." - Gilbert Chesterton
+"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for." - Socrates
 ```
 <!--QUOTE:end-->
 
