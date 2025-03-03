@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for." - Socrates
+"I dream my painting and I paint my dream." - Vincent van Gogh
 ```
 <!--QUOTE:end-->
 
