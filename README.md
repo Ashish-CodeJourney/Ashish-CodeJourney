@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I dream my painting and I paint my dream." - Vincent van Gogh
+"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." - D. H. Lawrence
 ```
 <!--QUOTE:end-->
 
