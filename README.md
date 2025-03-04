@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." - D. H. Lawrence
+"A creative man is motivated by the desire to achieve, not by the desire to beat others." - Ayn Rand
 ```
 <!--QUOTE:end-->
 
