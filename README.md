@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A creative man is motivated by the desire to achieve, not by the desire to beat others." - Ayn Rand
+"Opportunity often comes disguised in the form of misfortune or temporary defeat." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
