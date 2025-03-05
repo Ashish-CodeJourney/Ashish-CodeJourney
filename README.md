@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Opportunity often comes disguised in the form of misfortune or temporary defeat." - Napoleon Hill
+"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
