@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." - Zen Proverb
+"Forgive those who have hurt you." - Les Brown
 ```
 <!--QUOTE:end-->
 
