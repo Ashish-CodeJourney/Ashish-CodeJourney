@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Forgive those who have hurt you." - Les Brown
+"You can't have anything worthwhile without difficulties." - Harry S. Truman
 ```
 <!--QUOTE:end-->
 
