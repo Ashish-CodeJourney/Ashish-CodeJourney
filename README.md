@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can't have anything worthwhile without difficulties." - Harry S. Truman
+"We have no more right to consume happiness without producing it than to consume wealth without producing it." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
