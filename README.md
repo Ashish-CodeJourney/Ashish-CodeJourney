@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We have no more right to consume happiness without producing it than to consume wealth without producing it." - George Bernard Shaw
+"Always render more and better service than is expected of you, no matter what your task may be." - Og Mandino
 ```
 <!--QUOTE:end-->
 
