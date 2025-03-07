@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Always render more and better service than is expected of you, no matter what your task may be." - Og Mandino
+"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  " - David Brinkley
 ```
 <!--QUOTE:end-->
 
