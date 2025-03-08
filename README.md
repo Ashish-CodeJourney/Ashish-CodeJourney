@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everybody has talent, but ability takes hard work." - Michael Jordan
+"He who knows best knows how little he knows." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
