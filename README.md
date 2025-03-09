@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He who knows best knows how little he knows." - Thomas Jefferson
+"Who looks outside, dreams; who looks inside, awakes." - Lolly Daskal
 ```
 <!--QUOTE:end-->
 
