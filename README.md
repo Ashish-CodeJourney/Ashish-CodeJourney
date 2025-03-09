@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Who looks outside, dreams; who looks inside, awakes." - Lolly Daskal
+"Be strong. Be confident. Be the star of your own life." - Estee Lauder
 ```
 <!--QUOTE:end-->
 
