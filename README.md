@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be strong. Be confident. Be the star of your own life." - Estee Lauder
+"Human happiness and moral duty are inseparably connected. " - George Washington
 ```
 <!--QUOTE:end-->
 
