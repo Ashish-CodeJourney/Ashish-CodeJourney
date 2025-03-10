@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Human happiness and moral duty are inseparably connected. " - George Washington
+"Setting goals is the first step in turning the invisible into the visible." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
