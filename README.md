@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Better to light a candle than to curse the darkness. " - Chinese Proverb
+"Nothing is impossible. The word itself says 'I'm possible!'" - Audrey Hepburn
 ```
 <!--QUOTE:end-->
 
