@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Setting goals is the first step in turning the invisible into the visible." - Tony Robbins
+"Better to light a candle than to curse the darkness. " - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
