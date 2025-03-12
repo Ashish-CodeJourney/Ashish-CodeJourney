@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing is impossible. The word itself says 'I'm possible!'" - Audrey Hepburn
+"Don't ever save anything for a special occasion. Being alive is the special occasion." - Mary Engelbreit
 ```
 <!--QUOTE:end-->
 
