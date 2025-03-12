@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't ever save anything for a special occasion. Being alive is the special occasion." - Mary Engelbreit
+"Play your part in life, but never forget that it is only a role." - Paramahansa Yogananda
 ```
 <!--QUOTE:end-->
 
