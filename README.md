@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Good luck is opportunity meeting preparedness." - Deepak Chopra
+"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
