@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Play your part in life, but never forget that it is only a role." - Paramahansa Yogananda
+"Good luck is opportunity meeting preparedness." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
