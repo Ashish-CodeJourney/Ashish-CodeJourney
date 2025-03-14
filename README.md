@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." - Norman Vincent Peale
+"If you try to micromanage yourself all you're going to do is make yourself miserable." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
