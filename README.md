@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Character is doing what you don't want to do but know you should do." - Joyce Meyer
+"The harder you work, the harder it is to surrender." - Vince Lombardi
 ```
 <!--QUOTE:end-->
 
