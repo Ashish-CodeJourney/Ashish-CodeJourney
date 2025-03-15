@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Today you are you, that is truer than true. There is no one alive who is you-er than you." - Dr. Seuss
+"Character is doing what you don't want to do but know you should do." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
