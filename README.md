@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Quiet people have the loudest minds." - Stephen King
+"Stress happens when the mind resists what is." - Dan Millman
 ```
 <!--QUOTE:end-->
 
