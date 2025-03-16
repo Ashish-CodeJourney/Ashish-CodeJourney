@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The harder you work, the harder it is to surrender." - Vince Lombardi
+"Quiet people have the loudest minds." - Stephen King
 ```
 <!--QUOTE:end-->
 
