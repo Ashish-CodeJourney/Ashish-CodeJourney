@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Stress happens when the mind resists what is." - Dan Millman
+"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." - Dale Carnegie
 ```
 <!--QUOTE:end-->
 
