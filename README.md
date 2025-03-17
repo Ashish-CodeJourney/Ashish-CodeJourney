@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." - Dale Carnegie
+"The sweetest pleasure arises from difficulties overcome." - Publilius Syrus
 ```
 <!--QUOTE:end-->
 
