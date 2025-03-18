@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The sweetest pleasure arises from difficulties overcome." - Publilius Syrus
+"Doubt is an uncomfortable condition, but certainty is a ridiculous one." - Voltaire
 ```
 <!--QUOTE:end-->
 
