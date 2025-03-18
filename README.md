@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Doubt is an uncomfortable condition, but certainty is a ridiculous one." - Voltaire
+"Discipline yourself, and others won't need to." - John Wooden
 ```
 <!--QUOTE:end-->
 
