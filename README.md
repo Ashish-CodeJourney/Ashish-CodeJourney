@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." - Harry S. Truman
+"Knowing is not enough, we must apply. Willing is not enough, we must do.  " - Bruce Lee
 ```
 <!--QUOTE:end-->
 
