@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Discipline yourself, and others won't need to." - John Wooden
+"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." - Harry S. Truman
 ```
 <!--QUOTE:end-->
 
