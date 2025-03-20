@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Men do not attract which they want but that which they are." - James Allen
+"When I let go of what I am, I become what I might be." - Lao Tzu
 ```
 <!--QUOTE:end-->
 
