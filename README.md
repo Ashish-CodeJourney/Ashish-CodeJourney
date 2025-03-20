@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Knowing is not enough, we must apply. Willing is not enough, we must do.  " - Bruce Lee
+"Men do not attract which they want but that which they are." - James Allen
 ```
 <!--QUOTE:end-->
 
