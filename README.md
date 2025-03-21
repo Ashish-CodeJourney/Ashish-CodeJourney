@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When I let go of what I am, I become what I might be." - Lao Tzu
+"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has." - Epictetus
 ```
 <!--QUOTE:end-->
 
