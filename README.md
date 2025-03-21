@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has." - Epictetus
+"A journey of a thousand miles begins with a single step." - Lao Tzu
 ```
 <!--QUOTE:end-->
 
