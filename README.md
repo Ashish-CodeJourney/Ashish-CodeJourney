@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A journey of a thousand miles begins with a single step." - Lao Tzu
+"How much pain they have cost us, the evils which have never happened." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
