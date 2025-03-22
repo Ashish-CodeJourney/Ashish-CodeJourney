@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"How much pain they have cost us, the evils which have never happened." - Thomas Jefferson
+"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now." - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
