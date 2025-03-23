@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your only obligation in any lifetime is to be true to yourself." - Richard Bach
+"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. " - Jack London
 ```
 <!--QUOTE:end-->
 
