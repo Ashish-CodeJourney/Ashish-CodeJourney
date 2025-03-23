@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now." - Spencer Johnson
+"Your only obligation in any lifetime is to be true to yourself." - Richard Bach
 ```
 <!--QUOTE:end-->
 
