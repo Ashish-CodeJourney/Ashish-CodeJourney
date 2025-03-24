@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The more knowledge you have, the more you're free to rely on your instincts." - Arnold Schwarzenegger
+"Everyone sees what you appear to be, few experience what you really are." - Niccolo Machiavelli
 ```
 <!--QUOTE:end-->
 
