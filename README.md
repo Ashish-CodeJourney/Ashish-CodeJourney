@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. " - Jack London
+"The more knowledge you have, the more you're free to rely on your instincts." - Arnold Schwarzenegger
 ```
 <!--QUOTE:end-->
 
