@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Sometimes it is harder to deprive oneself of a pain than of a pleasure." - F. Scott Fitzgerald
+"We are all self-made, but only the successful will admit it." - Earl Nightingale
 ```
 <!--QUOTE:end-->
 
