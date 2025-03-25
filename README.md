@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everyone sees what you appear to be, few experience what you really are." - Niccolo Machiavelli
+"Sometimes it is harder to deprive oneself of a pain than of a pleasure." - F. Scott Fitzgerald
 ```
 <!--QUOTE:end-->
 
