@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We are all self-made, but only the successful will admit it." - Earl Nightingale
+"Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoy
 ```
 <!--QUOTE:end-->
 
