@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoy
+"We suffer more often in imagination than in reality." - Seneca
 ```
 <!--QUOTE:end-->
 
