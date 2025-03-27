@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We suffer more often in imagination than in reality." - Seneca
+"Happiness is not something ready made. It comes from your own actions." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
