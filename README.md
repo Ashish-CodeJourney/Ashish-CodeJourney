@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness is not something ready made. It comes from your own actions." - Dalai Lama
+"The only place where success comes before work is in the dictionary." - Vidal Sassoon
 ```
 <!--QUOTE:end-->
 
