@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only place where success comes before work is in the dictionary." - Vidal Sassoon
+"Success on the outside means nothing unless you also have success within." - Robin Sharma
 ```
 <!--QUOTE:end-->
 
