@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" - Robert Kiyosaki
+"The greatest of empires, is the empire over one's self." - Publilius Syrus
 ```
 <!--QUOTE:end-->
 
