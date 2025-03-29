@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The greatest of empires, is the empire over one's self." - Publilius Syrus
+"Age is a very high price to pay for maturity." - William James
 ```
 <!--QUOTE:end-->
 
