@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Age is a very high price to pay for maturity." - William James
+"Obstacles are those frightful things you see when you take your eyes off your goals." - Sydney Smith
 ```
 <!--QUOTE:end-->
 
