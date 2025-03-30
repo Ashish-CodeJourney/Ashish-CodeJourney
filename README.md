@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Obstacles are those frightful things you see when you take your eyes off your goals." - Sydney Smith
+"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." - Franklin D. Roosevelt
 ```
 <!--QUOTE:end-->
 
