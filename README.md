@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." - Franklin D. Roosevelt
+"Knowing is not enough, we must apply. Willing is not enough, we must do." - Johann Wolfgang von Goethe
 ```
 <!--QUOTE:end-->
 
