@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Knowing is not enough, we must apply. Willing is not enough, we must do." - Johann Wolfgang von Goethe
+"Don't try to be young. Just open your mind. Stay interested in stuff." - Betty White
 ```
 <!--QUOTE:end-->
 
