@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves." - Steve Maraboli
+"Friendship is one of the most tangible things in a world which offers fewer and fewer supports." - Kenneth Branagh
 ```
 <!--QUOTE:end-->
 
