@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't try to be young. Just open your mind. Stay interested in stuff." - Betty White
+"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
