@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The way we feel is the direct result of what we think." - Peter A. Cohen
+"Victory is always possible for the person who refuses to stop fighting." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
