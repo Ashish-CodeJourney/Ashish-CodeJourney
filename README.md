@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Friendship is one of the most tangible things in a world which offers fewer and fewer supports." - Kenneth Branagh
+"The way we feel is the direct result of what we think." - Peter A. Cohen
 ```
 <!--QUOTE:end-->
 
