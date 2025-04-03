@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A flower falls, even though we love it; and a weed grows, even though we do not love it." - Dogen
+"You are today where your thoughts have brought you." - James Allen
 ```
 <!--QUOTE:end-->
 
