@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Victory is always possible for the person who refuses to stop fighting." - Napoleon Hill
+"A flower falls, even though we love it; and a weed grows, even though we do not love it." - Dogen
 ```
 <!--QUOTE:end-->
 
