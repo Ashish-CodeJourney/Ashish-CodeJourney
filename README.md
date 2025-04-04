@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You are today where your thoughts have brought you." - James Allen
+"Don't wish it were easier, wish you were better." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
