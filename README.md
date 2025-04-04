@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't wish it were easier, wish you were better." - Jim Rohn
+"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain." - Maya Angelou
 ```
 <!--QUOTE:end-->
 
