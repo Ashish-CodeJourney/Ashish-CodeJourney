@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain." - Maya Angelou
+"The temptation to give up is strongest just before victory." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
