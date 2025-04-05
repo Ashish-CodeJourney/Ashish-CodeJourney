@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The temptation to give up is strongest just before victory." - Zen Proverb
+"Heart is what separates the good from the great." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
