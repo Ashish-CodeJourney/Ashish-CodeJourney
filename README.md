@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Heart is what separates the good from the great." - Michael Jordan
+"No one can confidently say that he will still be living tomorrow." - Euripides
 ```
 <!--QUOTE:end-->
 
