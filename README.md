@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No one can confidently say that he will still be living tomorrow." - Euripides
+"Aim for the moon. If you miss, you may hit a star." - W. Clement Stone
 ```
 <!--QUOTE:end-->
 
