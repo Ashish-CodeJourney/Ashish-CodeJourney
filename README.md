@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Aim for the moon. If you miss, you may hit a star." - W. Clement Stone
+"You are the average of the five people you spend most time with." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
