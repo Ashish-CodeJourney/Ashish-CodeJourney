@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You are the average of the five people you spend most time with." - Jim Rohn
+"The sweetest pleasure arises from difficulties overcome." - Publilius Syrus
 ```
 <!--QUOTE:end-->
 
