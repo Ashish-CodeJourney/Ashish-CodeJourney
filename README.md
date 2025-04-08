@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The sweetest pleasure arises from difficulties overcome." - Publilius Syrus
+"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change." - Mark Manson
 ```
 <!--QUOTE:end-->
 
