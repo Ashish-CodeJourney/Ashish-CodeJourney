@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change." - Mark Manson
+"To perceive is to suffer." - Aristotle
 ```
 <!--QUOTE:end-->
 
