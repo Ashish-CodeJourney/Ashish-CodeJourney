@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting." - Zig Ziglar
+"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." - Rumi
 ```
 <!--QUOTE:end-->
 
