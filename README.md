@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To perceive is to suffer." - Aristotle
+"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
