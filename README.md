@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Live calmly. The time will come when the flowers bloom by themselves." - Zen Proverb
+"There are two kinds of perfect people: those who are dead, and those who have not been born yet." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
