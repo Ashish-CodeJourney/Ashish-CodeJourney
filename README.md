@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." - Rumi
+"Live calmly. The time will come when the flowers bloom by themselves." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
