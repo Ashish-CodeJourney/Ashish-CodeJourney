@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The foolish reject what they see, not what they think; the wise reject what they think, not what they see." - Huang Po
+"If you get up one more time than you fall, you will make it through." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
