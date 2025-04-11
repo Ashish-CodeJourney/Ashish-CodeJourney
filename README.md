@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There are two kinds of perfect people: those who are dead, and those who have not been born yet." - Chinese Proverb
+"The foolish reject what they see, not what they think; the wise reject what they think, not what they see." - Huang Po
 ```
 <!--QUOTE:end-->
 
