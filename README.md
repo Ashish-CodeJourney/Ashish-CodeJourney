@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you get up one more time than you fall, you will make it through." - Chinese Proverb
+"What people say, what people do, and what they say they do are entirely different things. " - Margaret Mead
 ```
 <!--QUOTE:end-->
 
