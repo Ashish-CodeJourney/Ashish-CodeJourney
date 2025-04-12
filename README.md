@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What people say, what people do, and what they say they do are entirely different things. " - Margaret Mead
+"In order to attain the impossible, one must attempt the absurd." - Miguel de Cervantes
 ```
 <!--QUOTE:end-->
 
