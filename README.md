@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Let each man exercise the art he knows." - Aristophanes
+"Do not fear failure but rather fear not trying." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
