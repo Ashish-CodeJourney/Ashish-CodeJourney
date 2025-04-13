@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"In order to attain the impossible, one must attempt the absurd." - Miguel de Cervantes
+"Let each man exercise the art he knows." - Aristophanes
 ```
 <!--QUOTE:end-->
 
