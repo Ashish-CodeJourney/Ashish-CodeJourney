@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do not fear failure but rather fear not trying." - Roy T. Bennett
+"Luck is what happens when preparation meets opportunity.  " - Seneca
 ```
 <!--QUOTE:end-->
 
