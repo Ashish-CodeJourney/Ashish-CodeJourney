@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Luck is what happens when preparation meets opportunity.  " - Seneca
+"We ordinary people must forge our own beauty." - Kenji Miyazawa
 ```
 <!--QUOTE:end-->
 
