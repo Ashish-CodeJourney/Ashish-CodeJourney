@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you always do what you've always done, you'll always get what you've always got. " - Henry Ford
+"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." - Robert Greene
 ```
 <!--QUOTE:end-->
 
