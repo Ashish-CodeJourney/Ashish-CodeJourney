@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We ordinary people must forge our own beauty." - Kenji Miyazawa
+"If you always do what you've always done, you'll always get what you've always got. " - Henry Ford
 ```
 <!--QUOTE:end-->
 
