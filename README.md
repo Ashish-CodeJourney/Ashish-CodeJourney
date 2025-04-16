@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." - Robert Greene
+"Quality means doing it right when no one is looking." - Henry Ford
 ```
 <!--QUOTE:end-->
 
