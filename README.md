@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Quality means doing it right when no one is looking." - Henry Ford
+"Nothing important is learned; it is simply remembered." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
