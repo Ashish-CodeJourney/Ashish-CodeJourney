@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Decide whether or not the goal is worth the risks involved. If it is, stop worrying." - Amelia Earhart
+"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. " - St. Jerome
 ```
 <!--QUOTE:end-->
 
