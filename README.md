@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing important is learned; it is simply remembered." - Carlos Ruiz Zafon
+"Decide whether or not the goal is worth the risks involved. If it is, stop worrying." - Amelia Earhart
 ```
 <!--QUOTE:end-->
 
