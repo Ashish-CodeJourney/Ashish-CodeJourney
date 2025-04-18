@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. " - St. Jerome
+"To some degree, you control your life by controlling your time." - Conrad Hilton
 ```
 <!--QUOTE:end-->
 
