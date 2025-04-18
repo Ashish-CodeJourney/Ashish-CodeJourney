@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To some degree, you control your life by controlling your time." - Conrad Hilton
+"Don't give up the fight, Stand up for your rights." - Bob Marley
 ```
 <!--QUOTE:end-->
 
