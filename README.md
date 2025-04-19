@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you need inspiration, don't do it." - Elon Musk
+"Emancipate yourself from mental slavery, none but ourselves can free our mind." - Bob Marley
 ```
 <!--QUOTE:end-->
 
