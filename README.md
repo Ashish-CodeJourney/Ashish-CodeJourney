@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't give up the fight, Stand up for your rights." - Bob Marley
+"If you need inspiration, don't do it." - Elon Musk
 ```
 <!--QUOTE:end-->
 
