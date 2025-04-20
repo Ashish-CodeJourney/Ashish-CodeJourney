@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never give up work. Work gives you meaning and purpose and life is empty without it." - Stephen Hawking
+"Some men see things as they are and ask why. Others dream things that never were and ask why not." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
