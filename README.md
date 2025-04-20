@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Emancipate yourself from mental slavery, none but ourselves can free our mind." - Bob Marley
+"Never give up work. Work gives you meaning and purpose and life is empty without it." - Stephen Hawking
 ```
 <!--QUOTE:end-->
 
