@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Some men see things as they are and ask why. Others dream things that never were and ask why not." - George Bernard Shaw
+"The best dreams happen when you're awake." - Cherie Gilderbloom
 ```
 <!--QUOTE:end-->
 
