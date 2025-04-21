@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The best dreams happen when you're awake." - Cherie Gilderbloom
+"We turn not older with years but newer every day." - Emily Dickinson
 ```
 <!--QUOTE:end-->
 
