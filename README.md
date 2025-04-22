@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The energy of the mind is the essence of life." - Aristotle
+"Not how long, but how well you have lived is the main thing." - Seneca
 ```
 <!--QUOTE:end-->
 
