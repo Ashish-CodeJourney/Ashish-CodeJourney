@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We turn not older with years but newer every day." - Emily Dickinson
+"The energy of the mind is the essence of life." - Aristotle
 ```
 <!--QUOTE:end-->
 
