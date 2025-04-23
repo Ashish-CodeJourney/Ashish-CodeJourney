@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When the root is strong, the fruit is sweet." - Bob Marley
+"If everyone is moving forward together, then success takes care of itself." - Henry Ford
 ```
 <!--QUOTE:end-->
 
