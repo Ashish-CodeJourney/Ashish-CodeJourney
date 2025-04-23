@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Not how long, but how well you have lived is the main thing." - Seneca
+"When the root is strong, the fruit is sweet." - Bob Marley
 ```
 <!--QUOTE:end-->
 
