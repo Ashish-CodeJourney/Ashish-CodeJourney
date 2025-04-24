@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It doesn't matter where you are, you are nowhere compared to where you can go." - Bob Proctor
+"The heart wants what it wants. There's no logic. " - Woody Allen
 ```
 <!--QUOTE:end-->
 
