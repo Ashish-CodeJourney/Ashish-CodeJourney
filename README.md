@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If everyone is moving forward together, then success takes care of itself." - Henry Ford
+"It doesn't matter where you are, you are nowhere compared to where you can go." - Bob Proctor
 ```
 <!--QUOTE:end-->
 
