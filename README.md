@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The heart wants what it wants. There's no logic. " - Woody Allen
+"Go as far as you can see and you will see further.  " - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
