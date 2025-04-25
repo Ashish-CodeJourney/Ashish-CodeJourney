@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Go as far as you can see and you will see further.  " - Zig Ziglar
+"The time is always right to do what is right." - Martin Luther King, Jr.
 ```
 <!--QUOTE:end-->
 
