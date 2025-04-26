@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The time is always right to do what is right." - Martin Luther King, Jr.
+"There is no truth. There is only perception." - Gustave Flaubert
 ```
 <!--QUOTE:end-->
 
