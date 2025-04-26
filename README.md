@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is no truth. There is only perception." - Gustave Flaubert
+"What one does is what counts. Not what one had the intention of doing." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
