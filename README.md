@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What one does is what counts. Not what one had the intention of doing." - Pablo Picasso
+"Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
