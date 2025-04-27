@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." - Kamal Ravikant
 ```
 <!--QUOTE:end-->
 
