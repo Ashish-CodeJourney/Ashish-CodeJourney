@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable." - Earl Nightingale
+"Your goals are the road maps that guide you and show you what is possible for your life." - Les Brown
 ```
 <!--QUOTE:end-->
 
