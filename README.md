@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." - Kamal Ravikant
+"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable." - Earl Nightingale
 ```
 <!--QUOTE:end-->
 
