@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your goals are the road maps that guide you and show you what is possible for your life." - Les Brown
+"The friendship that can cease has never been real. " - St. Jerome
 ```
 <!--QUOTE:end-->
 
