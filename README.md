@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The friendship that can cease has never been real. " - St. Jerome
+"To lead an orchestra, you must turn your back on the crowd." - Aristotle
 ```
 <!--QUOTE:end-->
 
