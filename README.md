@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To lead an orchestra, you must turn your back on the crowd." - Aristotle
+"Awakening is possible only for those who seek it and want it." - G.I. Gurdjieff
 ```
 <!--QUOTE:end-->
 
