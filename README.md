@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Awakening is possible only for those who seek it and want it." - G.I. Gurdjieff
+"There is no greater agony than bearing an untold story inside you." - Maya Angelou
 ```
 <!--QUOTE:end-->
 
