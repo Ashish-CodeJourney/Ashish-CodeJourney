@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is no greater agony than bearing an untold story inside you." - Maya Angelou
+"If you let your head get too big, it'll break your neck." - Elvis Presley
 ```
 <!--QUOTE:end-->
 
