@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you let your head get too big, it'll break your neck." - Elvis Presley
+"Curiosity is the most powerful thing you own." - James Cameron
 ```
 <!--QUOTE:end-->
 
