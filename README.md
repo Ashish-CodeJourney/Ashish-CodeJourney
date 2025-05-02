@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Curiosity is the most powerful thing you own." - James Cameron
+"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
