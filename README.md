@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned." - Ming-Dao Deng
+"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
