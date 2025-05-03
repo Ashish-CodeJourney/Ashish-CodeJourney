@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Best be yourself, imperial, plain, and true." - Robert Browning
+"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
