@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." - Norman Vincent Peale
+"Best be yourself, imperial, plain, and true." - Robert Browning
 ```
 <!--QUOTE:end-->
 
