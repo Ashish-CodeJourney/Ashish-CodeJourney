@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't know, the thing to do is not to get scared, but to learn." - Ayn Rand
+"Short cuts make long delays." - J.R.R. Tolkien
 ```
 <!--QUOTE:end-->
 
