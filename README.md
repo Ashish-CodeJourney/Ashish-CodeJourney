@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly." - Steve Maraboli
+"If you don't know, the thing to do is not to get scared, but to learn." - Ayn Rand
 ```
 <!--QUOTE:end-->
 
