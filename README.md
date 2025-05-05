@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!" - Tony Robbins
+"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy." - Elon Musk
 ```
 <!--QUOTE:end-->
 
