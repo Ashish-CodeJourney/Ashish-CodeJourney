@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy." - Elon Musk
+"Judgments prevent us from seeing the good that lies beyond appearances.  " - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
