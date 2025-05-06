@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Judgments prevent us from seeing the good that lies beyond appearances.  " - Wayne Dyer
+"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. " - George Washington
 ```
 <!--QUOTE:end-->
 
