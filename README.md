@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. " - George Washington
+"The secret of life isn't what happens to you, but what you do with what happens to you." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
