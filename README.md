@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The secret of life isn't what happens to you, but what you do with what happens to you." - Norman Vincent Peale
+"Wake up and smile! Wake up and be grateful!" - Steve Harvey
 ```
 <!--QUOTE:end-->
 
