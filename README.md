@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month." - Theodore Roosevelt
+"Work is always an antidote to depression." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
