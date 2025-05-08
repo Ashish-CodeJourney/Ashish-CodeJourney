@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Wake up and smile! Wake up and be grateful!" - Steve Harvey
+"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
