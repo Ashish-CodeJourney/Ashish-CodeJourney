@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You may be disappointed if you fail, but you are doomed if you don't try." - Beverly Sills
+"Discipline yourself, and others won't need to." - John Wooden
 ```
 <!--QUOTE:end-->
 
