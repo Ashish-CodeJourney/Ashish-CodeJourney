@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Work is always an antidote to depression." - Eleanor Roosevelt
+"You may be disappointed if you fail, but you are doomed if you don't try." - Beverly Sills
 ```
 <!--QUOTE:end-->
 
