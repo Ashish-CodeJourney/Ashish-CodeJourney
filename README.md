@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Discipline yourself, and others won't need to." - John Wooden
+"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. " - Denis Waitley
 ```
 <!--QUOTE:end-->
 
