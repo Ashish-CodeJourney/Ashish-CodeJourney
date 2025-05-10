@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. " - Denis Waitley
+"Only when one allows themself the right to die, do they then give yourself the permission to live." - C. Sean McGee
 ```
 <!--QUOTE:end-->
 
