@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Only when one allows themself the right to die, do they then give yourself the permission to live." - C. Sean McGee
+"If there were no God, there would be no atheists." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
