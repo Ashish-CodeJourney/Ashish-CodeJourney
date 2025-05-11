@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If there were no God, there would be no atheists." - Gilbert Chesterton
+"Among the things you can give and still keep are your word, a smile, and a grateful heart." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
