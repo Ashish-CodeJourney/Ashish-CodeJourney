@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Motivation gets you going and habit gets you there.  " - Zig Ziglar
+"No man becomes rich unless he enriches others." - Andrew Carnegie
 ```
 <!--QUOTE:end-->
 
