@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Among the things you can give and still keep are your word, a smile, and a grateful heart." - Zig Ziglar
+"Motivation gets you going and habit gets you there.  " - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
