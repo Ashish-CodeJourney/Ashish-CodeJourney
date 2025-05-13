@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Misfortune shows those who are not really friends." - Aristotle
+"You have to make time, even for something as universal as staring at the stars." - W.P. Kinsella
 ```
 <!--QUOTE:end-->
 
