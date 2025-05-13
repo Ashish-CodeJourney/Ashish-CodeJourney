@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No man becomes rich unless he enriches others." - Andrew Carnegie
+"Misfortune shows those who are not really friends." - Aristotle
 ```
 <!--QUOTE:end-->
 
