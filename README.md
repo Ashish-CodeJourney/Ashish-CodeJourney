@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You have to make time, even for something as universal as staring at the stars." - W.P. Kinsella
+"Your life does not get better by chance, it gets better by change." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
