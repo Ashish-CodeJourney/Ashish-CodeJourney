@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your life does not get better by chance, it gets better by change." - Jim Rohn
+"Make your life a mission - not an intermission." - Unknown
 ```
 <!--QUOTE:end-->
 
