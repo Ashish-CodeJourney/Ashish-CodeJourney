@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Make your life a mission - not an intermission." - Unknown
+"Failure is a prerequisite for great success. If you want success faster, double your rate of failure." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
