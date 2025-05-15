@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Failure is a prerequisite for great success. If you want success faster, double your rate of failure." - Brian Tracy
+"The opportunity of defeating the enemy is provided by the enemy himself." - Sun Tzu
 ```
 <!--QUOTE:end-->
 
