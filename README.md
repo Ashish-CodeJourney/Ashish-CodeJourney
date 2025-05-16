@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The opportunity of defeating the enemy is provided by the enemy himself." - Sun Tzu
+"The longer we dwell on our misfortunes, the greater is their power to harm us." - Voltaire
 ```
 <!--QUOTE:end-->
 
