@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The longer we dwell on our misfortunes, the greater is their power to harm us." - Voltaire
+"Never allow someone to be your priority while allowing yourself to be their option." - Mark Twain
 ```
 <!--QUOTE:end-->
 
