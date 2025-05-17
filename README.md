@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never allow someone to be your priority while allowing yourself to be their option." - Mark Twain
+"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
