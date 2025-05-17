@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood." - Charles Dickens
+"Don't let the behavior of others destroy your inner peace." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
