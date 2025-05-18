@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't program yourself, life will program you." - Les Brown
+"Nothing is hopeless; we must hope for everything." - Euripides
 ```
 <!--QUOTE:end-->
 
