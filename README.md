@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't let the behavior of others destroy your inner peace." - Dalai Lama
+"If you don't program yourself, life will program you." - Les Brown
 ```
 <!--QUOTE:end-->
 
