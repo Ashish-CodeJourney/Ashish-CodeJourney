@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is what we make out of what we have, not what we are given, that separates one person from another." - Nelson Mandela
+"The grass is greener where you water it." - Neil Barringham
 ```
 <!--QUOTE:end-->
 
