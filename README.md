@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing is hopeless; we must hope for everything." - Euripides
+"It is what we make out of what we have, not what we are given, that separates one person from another." - Nelson Mandela
 ```
 <!--QUOTE:end-->
 
