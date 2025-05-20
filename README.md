@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The grass is greener where you water it." - Neil Barringham
+"We ordinary people must forge our own beauty." - Kenji Miyazawa
 ```
 <!--QUOTE:end-->
 
