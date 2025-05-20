@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We ordinary people must forge our own beauty." - Kenji Miyazawa
+"Men are equal; it is not birth but virtue that makes the difference." - Voltaire
 ```
 <!--QUOTE:end-->
 
