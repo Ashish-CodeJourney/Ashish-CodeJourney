@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Men are equal; it is not birth but virtue that makes the difference." - Voltaire
+"Faithless is he that says farewell when the road darkens." - J.R.R. Tolkien
 ```
 <!--QUOTE:end-->
 
