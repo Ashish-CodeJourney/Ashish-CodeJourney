@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Faithless is he that says farewell when the road darkens." - J.R.R. Tolkien
+"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
