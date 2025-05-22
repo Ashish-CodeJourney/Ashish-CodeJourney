@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." - Jack Butcher
+"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way." - William James
 ```
 <!--QUOTE:end-->
 
