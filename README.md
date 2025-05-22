@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way." - William James
+"Let the beauty of what you love be what you do." - Rumi
 ```
 <!--QUOTE:end-->
 
