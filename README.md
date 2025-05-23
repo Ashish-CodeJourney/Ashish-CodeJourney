@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness must be grown in one's own garden." - Mary Engelbreit
+"The energy of the mind is the essence of life." - Aristotle
 ```
 <!--QUOTE:end-->
 
