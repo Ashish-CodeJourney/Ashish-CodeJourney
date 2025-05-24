@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The energy of the mind is the essence of life." - Aristotle
+"It is in changing that we find purpose." - Heraclitus
 ```
 <!--QUOTE:end-->
 
