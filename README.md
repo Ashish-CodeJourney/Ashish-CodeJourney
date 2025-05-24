@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is in changing that we find purpose." - Heraclitus
+"My powers are ordinary. Only my application brings me success." - Isaac Newton
 ```
 <!--QUOTE:end-->
 
