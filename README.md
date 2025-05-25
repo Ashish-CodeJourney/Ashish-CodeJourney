@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in." - Virginia Woolf
+"No one can compete with you on being you. Most of life is a search for who and what needs you the most." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
