@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"My powers are ordinary. Only my application brings me success." - Isaac Newton
+"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in." - Virginia Woolf
 ```
 <!--QUOTE:end-->
 
