@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Every blessing ignored becomes a curse." - Paulo Coelho
+"Embrace the life you have and stop wishing that you could be someone else." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
