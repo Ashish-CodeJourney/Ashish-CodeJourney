@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Embrace the life you have and stop wishing that you could be someone else." - Joyce Meyer
+"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed." - Mark Twain
 ```
 <!--QUOTE:end-->
 
