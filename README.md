@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed." - Mark Twain
+"Any idea, plan, or purpose may be placed in the mind through repetition of thought." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
