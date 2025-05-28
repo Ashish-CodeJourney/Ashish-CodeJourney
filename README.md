@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Any idea, plan, or purpose may be placed in the mind through repetition of thought." - Napoleon Hill
+"Winners never quit and quitters never win." - Vince Lombardi
 ```
 <!--QUOTE:end-->
 
