@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I never dwell on what happened. You can't change it. Move forward." - Joan Rivers
+"Everyone you meet is fighting a battle you know nothing about. Be kind. Always." - Robin Williams
 ```
 <!--QUOTE:end-->
 
