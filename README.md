@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everyone you meet is fighting a battle you know nothing about. Be kind. Always." - Robin Williams
+"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future." - Nicolas Chamfort
 ```
 <!--QUOTE:end-->
 
