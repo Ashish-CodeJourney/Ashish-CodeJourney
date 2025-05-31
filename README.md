@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Learn from the mistakes of others. You can't live long enough to make them all yourself." - Eleanor Roosevelt
+"We cannot expect to be happy always... by experiencing evil as well as good we become wise." - Hans Christian Andersen
 ```
 <!--QUOTE:end-->
 
