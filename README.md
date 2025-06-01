@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you truly expect something to be difficult, it will be." - Peter A. Cohen
+"Fear can hold you prisoner. Hope can set you free." - Stephen King
 ```
 <!--QUOTE:end-->
 
