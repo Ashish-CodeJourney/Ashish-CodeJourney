@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Fear can hold you prisoner. Hope can set you free." - Stephen King
+"Never confuse a single defeat with a final defeat." - F. Scott Fitzgerald
 ```
 <!--QUOTE:end-->
 
