@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never confuse a single defeat with a final defeat." - F. Scott Fitzgerald
+"The time is now, the place is here. Stay in the present." - Dan Millman
 ```
 <!--QUOTE:end-->
 
