@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If your happiness depends on what somebody else does, I guess you do have a problem." - Richard Bach
+"It is in the darkness that one finds the light." - Meister Eckhart
 ```
 <!--QUOTE:end-->
 
