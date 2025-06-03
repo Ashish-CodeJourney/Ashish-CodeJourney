@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The time is now, the place is here. Stay in the present." - Dan Millman
+"If your happiness depends on what somebody else does, I guess you do have a problem." - Richard Bach
 ```
 <!--QUOTE:end-->
 
