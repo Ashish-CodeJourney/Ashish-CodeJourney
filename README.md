@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Adventure is worthwhile in itself." - Amelia Earhart
+"Change your thoughts and you change your world." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
