@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is in the darkness that one finds the light." - Meister Eckhart
+"Adventure is worthwhile in itself." - Amelia Earhart
 ```
 <!--QUOTE:end-->
 
