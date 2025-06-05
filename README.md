@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Change your thoughts and you change your world." - Norman Vincent Peale
+"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'" - Brian Tracy
 ```
 <!--QUOTE:end-->
 
