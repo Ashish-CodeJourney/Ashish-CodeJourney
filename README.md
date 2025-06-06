@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest." - Pema Chodron
+"Whatever you do in life, surround yourself with smart people who'll argue with you." - John Wooden
 ```
 <!--QUOTE:end-->
 
