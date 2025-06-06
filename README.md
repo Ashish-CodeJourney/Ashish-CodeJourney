@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Whatever you do in life, surround yourself with smart people who'll argue with you." - John Wooden
+"All know the way; few actually walk it. " - Bodhidharma
 ```
 <!--QUOTE:end-->
 
