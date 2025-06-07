@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. " - Margaret Mead
+"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass." - Unknown
 ```
 <!--QUOTE:end-->
 
