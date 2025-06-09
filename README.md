@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Storms don't last forever." - Unknown
+"When you can't make them see the light, make them feel the heat." - Ronald Reagan
 ```
 <!--QUOTE:end-->
 
