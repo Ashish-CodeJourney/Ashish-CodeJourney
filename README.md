@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only thing new in the world is the history you do not know." - Harry S. Truman
+"Storms don't last forever." - Unknown
 ```
 <!--QUOTE:end-->
 
