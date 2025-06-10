@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Words used to attract the dull of wit are not to be relied on." - Huang Po
+"What are we doing here, that is the question." - Samuel Beckett
 ```
 <!--QUOTE:end-->
 
