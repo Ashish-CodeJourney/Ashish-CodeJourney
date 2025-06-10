@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you can't make them see the light, make them feel the heat." - Ronald Reagan
+"Words used to attract the dull of wit are not to be relied on." - Huang Po
 ```
 <!--QUOTE:end-->
 
