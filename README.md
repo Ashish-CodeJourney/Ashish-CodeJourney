@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is but one dream flowing into another." - Ming-Dao Deng
+"Nothing is hopeless; we must hope for everything." - Euripides
 ```
 <!--QUOTE:end-->
 
