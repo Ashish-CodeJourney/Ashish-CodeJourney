@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What are we doing here, that is the question." - Samuel Beckett
+"Life is but one dream flowing into another." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
