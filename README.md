@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing is hopeless; we must hope for everything." - Euripides
+"Courage is fear that has said its prayers and decided to go forward anyway." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
