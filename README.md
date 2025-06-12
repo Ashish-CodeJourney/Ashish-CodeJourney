@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Courage is fear that has said its prayers and decided to go forward anyway." - Joyce Meyer
+"You can put lipstick on a pig. It's still a pig." - Barack Obama
 ```
 <!--QUOTE:end-->
 
