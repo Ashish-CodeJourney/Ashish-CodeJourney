@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can put lipstick on a pig. It's still a pig." - Barack Obama
+"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." - Peter Drucker
 ```
 <!--QUOTE:end-->
 
