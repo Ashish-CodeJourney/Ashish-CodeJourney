@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You get in life what you have the courage to ask for." - Oprah Winfrey
+"Truth is the offspring of silence and meditation." - Isaac Newton
 ```
 <!--QUOTE:end-->
 
