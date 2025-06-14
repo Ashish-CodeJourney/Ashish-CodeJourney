@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Truth is the offspring of silence and meditation." - Isaac Newton
+"Don't settle, and don't struggle." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
