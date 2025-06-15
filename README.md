@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No one has ever become poor by giving." - Anne Frank
+"Problems remain as problems because people are busy defending them rather than finding solutions." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
