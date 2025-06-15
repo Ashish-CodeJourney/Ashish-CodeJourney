@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't settle, and don't struggle." - Naval Ravikant
+"No one has ever become poor by giving." - Anne Frank
 ```
 <!--QUOTE:end-->
 
