@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Problems remain as problems because people are busy defending them rather than finding solutions." - Celestine Chua
+"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." - Buddha
 ```
 <!--QUOTE:end-->
 
