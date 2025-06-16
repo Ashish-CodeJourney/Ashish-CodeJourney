@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." - Buddha
+"If there were no God, there would be no atheists." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
