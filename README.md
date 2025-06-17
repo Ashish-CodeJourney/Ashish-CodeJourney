@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do something to move yourself toward your major goal every day." - Brian Tracy
+"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts." - Alfred Adler
 ```
 <!--QUOTE:end-->
 
