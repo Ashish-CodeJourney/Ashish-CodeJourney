@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If there were no God, there would be no atheists." - Gilbert Chesterton
+"Do something to move yourself toward your major goal every day." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
