@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts." - Alfred Adler
+"Surround yourself only with people who are going to take you higher." - Oprah Winfrey
 ```
 <!--QUOTE:end-->
 
