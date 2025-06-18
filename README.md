@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Surround yourself only with people who are going to take you higher." - Oprah Winfrey
+"Fishing is much more than fish." - Herbert Hoover
 ```
 <!--QUOTE:end-->
 
