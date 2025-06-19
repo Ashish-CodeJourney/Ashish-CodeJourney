@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Fishing is much more than fish." - Herbert Hoover
+"The scariest moment is always just before you start. After that, things can only get better." - Stephen King
 ```
 <!--QUOTE:end-->
 
