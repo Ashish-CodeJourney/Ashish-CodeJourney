@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't look for meaning in the words. Listen to the silences." - Samuel Beckett
+"Life has more imagination than we carry in our dreams." - Christopher Columbus
 ```
 <!--QUOTE:end-->
 
