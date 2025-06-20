@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Have a vision. Be demanding." - Colin Powell
+"Don't look for meaning in the words. Listen to the silences." - Samuel Beckett
 ```
 <!--QUOTE:end-->
 
