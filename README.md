@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't think money does everything or you are going to end up doing everything for money." - Voltaire
+"If you want to make God laugh, tell him about your plans. " - Woody Allen
 ```
 <!--QUOTE:end-->
 
