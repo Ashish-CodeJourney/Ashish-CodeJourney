@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life has more imagination than we carry in our dreams." - Christopher Columbus
+"Don't think money does everything or you are going to end up doing everything for money." - Voltaire
 ```
 <!--QUOTE:end-->
 
