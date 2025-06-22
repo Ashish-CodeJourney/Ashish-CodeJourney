@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Courage is not having the strength to go on; it is going on when you don't have the strength." - Theodore Roosevelt
+"It is not how much we have, but how much we enjoy, that makes happiness." - Charles Spurgeon
 ```
 <!--QUOTE:end-->
 
