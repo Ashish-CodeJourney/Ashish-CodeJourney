@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you want to make God laugh, tell him about your plans. " - Woody Allen
+"Courage is not having the strength to go on; it is going on when you don't have the strength." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
