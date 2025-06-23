@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is not how much we have, but how much we enjoy, that makes happiness." - Charles Spurgeon
+"The more you extend kindness to yourself, the more it will become your automatic response to others." - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
