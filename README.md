@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The more you extend kindness to yourself, the more it will become your automatic response to others." - Wayne Dyer
+"Quality means doing it right when no one is looking." - Henry Ford
 ```
 <!--QUOTE:end-->
 
