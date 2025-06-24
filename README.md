@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Quality means doing it right when no one is looking." - Henry Ford
+"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." - Stephen Hawking
 ```
 <!--QUOTE:end-->
 
