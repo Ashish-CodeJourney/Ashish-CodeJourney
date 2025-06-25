@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Storms don't last forever." - Unknown
+"I think self-awareness is probably the most important thing towards being a champion. " - Billie Jean King
 ```
 <!--QUOTE:end-->
 
