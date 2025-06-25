@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind." - F. Scott Fitzgerald
+"Storms don't last forever." - Unknown
 ```
 <!--QUOTE:end-->
 
