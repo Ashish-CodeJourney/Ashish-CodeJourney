@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life goes by fast. Enjoy it. Calm down. It's all funny." - Joan Rivers
+"It is useless to attempt to reason a man out of a thing he was never reasoned into." - Jonathan Swift
 ```
 <!--QUOTE:end-->
 
