@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I think self-awareness is probably the most important thing towards being a champion. " - Billie Jean King
+"Life goes by fast. Enjoy it. Calm down. It's all funny." - Joan Rivers
 ```
 <!--QUOTE:end-->
 
