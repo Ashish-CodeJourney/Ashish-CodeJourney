@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Good luck is opportunity meeting preparedness." - Deepak Chopra
+"Smell the cheese often so you know when it is getting old." - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
