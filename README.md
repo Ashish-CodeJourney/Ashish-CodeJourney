@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is useless to attempt to reason a man out of a thing he was never reasoned into." - Jonathan Swift
+"Good luck is opportunity meeting preparedness." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
