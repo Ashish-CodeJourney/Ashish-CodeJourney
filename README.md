@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Smell the cheese often so you know when it is getting old." - Spencer Johnson
+"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
