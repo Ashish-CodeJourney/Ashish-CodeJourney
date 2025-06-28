@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions." - Ming-Dao Deng
+"The only reason to be alive is to enjoy it." - Rita Mae Brown
 ```
 <!--QUOTE:end-->
 
