@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+"The best answer to anger is silence." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
