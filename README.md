@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only reason to be alive is to enjoy it." - Rita Mae Brown
+"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
