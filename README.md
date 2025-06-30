@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Who you are is defined by what you're willing to struggle for." - Mark Manson
+"I know of only one duty, and that is to love." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
