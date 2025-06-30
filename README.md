@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The best answer to anger is silence." - Marcus Aurelius
+"Who you are is defined by what you're willing to struggle for." - Mark Manson
 ```
 <!--QUOTE:end-->
 
