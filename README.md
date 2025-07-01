@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I know of only one duty, and that is to love." - George Bernard Shaw
+"Forever is composed of now's." - Emily Dickinson
 ```
 <!--QUOTE:end-->
 
