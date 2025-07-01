@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Forever is composed of now's." - Emily Dickinson
+"When something comes from within, when it is a part of you, you have no choice but to live it, to express it." - Kamal Ravikant
 ```
 <!--QUOTE:end-->
 
