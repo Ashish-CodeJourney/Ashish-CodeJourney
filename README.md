@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When something comes from within, when it is a part of you, you have no choice but to live it, to express it." - Kamal Ravikant
+"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." - Alfred Adler
 ```
 <!--QUOTE:end-->
 
