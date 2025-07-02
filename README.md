@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." - Alfred Adler
+"The quality, not the longevity, of one's life is what is important." - Martin Luther King, Jr.
 ```
 <!--QUOTE:end-->
 
