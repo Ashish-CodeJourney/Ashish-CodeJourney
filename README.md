@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Actions are the seeds of fate. Deeds grow into destiny." - Harry S. Truman
+"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future." - Elon Musk
 ```
 <!--QUOTE:end-->
 
