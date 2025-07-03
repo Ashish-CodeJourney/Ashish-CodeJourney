@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The quality, not the longevity, of one's life is what is important." - Martin Luther King, Jr.
+"Actions are the seeds of fate. Deeds grow into destiny." - Harry S. Truman
 ```
 <!--QUOTE:end-->
 
