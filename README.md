@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You are never too old to become younger." - Mae West
+"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " - Steve Jobs
 ```
 <!--QUOTE:end-->
 
