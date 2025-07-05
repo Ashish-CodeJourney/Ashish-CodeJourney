@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " - Steve Jobs
+"Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard
 ```
 <!--QUOTE:end-->
 
