@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard
+"In peace, sons bury their fathers. In war, fathers bury their sons. " - Herodotus
 ```
 <!--QUOTE:end-->
 
