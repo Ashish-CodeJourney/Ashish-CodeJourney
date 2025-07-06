@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Love is the absence of judgment." - Dalai Lama
+"The guest will judge better of a feast than the cook." - Aristotle
 ```
 <!--QUOTE:end-->
 
