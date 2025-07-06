@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"In peace, sons bury their fathers. In war, fathers bury their sons. " - Herodotus
+"Love is the absence of judgment." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
