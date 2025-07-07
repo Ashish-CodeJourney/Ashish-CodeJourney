@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The guest will judge better of a feast than the cook." - Aristotle
+"You're always free to change your mind and choose a different future, or a different past." - Richard Bach
 ```
 <!--QUOTE:end-->
 
