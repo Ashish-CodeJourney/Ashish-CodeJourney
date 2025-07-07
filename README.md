@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You're always free to change your mind and choose a different future, or a different past." - Richard Bach
+"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form." - Paramahansa Yogananda
 ```
 <!--QUOTE:end-->
 
