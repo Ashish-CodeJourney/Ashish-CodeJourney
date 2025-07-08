@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form." - Paramahansa Yogananda
+"The heart wants what it wants. There's no logic. " - Woody Allen
 ```
 <!--QUOTE:end-->
 
