@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable." - Bhagavad Gita
+"You can live a whole life time never being awake." - Dan Millman
 ```
 <!--QUOTE:end-->
 
