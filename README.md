@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can live a whole life time never being awake." - Dan Millman
+"You can, you should, and if you're brave enough to start, you will." - Stephen King
 ```
 <!--QUOTE:end-->
 
