@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Death smiles at us all. All we can do is smile back." - Marcus Aurelius
+"Behind every beautiful thing, there's some kind of pain." - Bob Dylan
 ```
 <!--QUOTE:end-->
 
