@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can, you should, and if you're brave enough to start, you will." - Stephen King
+"Death smiles at us all. All we can do is smile back." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
