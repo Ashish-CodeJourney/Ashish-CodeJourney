@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To affect the quality of the day, that is the highest of arts." - Henry David Thoreau
+"The future is no more uncertain than the present." - Walt Whitman
 ```
 <!--QUOTE:end-->
 
