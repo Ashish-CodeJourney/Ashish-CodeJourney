@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Behind every beautiful thing, there's some kind of pain." - Bob Dylan
+"To affect the quality of the day, that is the highest of arts." - Henry David Thoreau
 ```
 <!--QUOTE:end-->
 
