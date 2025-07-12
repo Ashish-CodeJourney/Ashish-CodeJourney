@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." - Norman Vincent Peale
+"A gentleman is one who puts more into the world than he takes out." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
