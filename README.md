@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The future is no more uncertain than the present." - Walt Whitman
+"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
