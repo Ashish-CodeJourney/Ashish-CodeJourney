@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A gentleman is one who puts more into the world than he takes out." - George Bernard Shaw
+"Those who know, do. Those that understand, teach." - Aristotle
 ```
 <!--QUOTE:end-->
 
