@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Those who know, do. Those that understand, teach." - Aristotle
+"Most of us will do anything to avoid facing ourselves." - Lolly Daskal
 ```
 <!--QUOTE:end-->
 
