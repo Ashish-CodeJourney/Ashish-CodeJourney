@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You are the average of the five people you spend most time with." - Jim Rohn
+"If your happiness depends on what somebody else does, I guess you do have a problem." - Richard Bach
 ```
 <!--QUOTE:end-->
 
