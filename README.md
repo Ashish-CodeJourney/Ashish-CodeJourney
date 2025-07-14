@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Most of us will do anything to avoid facing ourselves." - Lolly Daskal
+"You are the average of the five people you spend most time with." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
