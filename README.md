@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If your happiness depends on what somebody else does, I guess you do have a problem." - Richard Bach
+"Success does not consist in never making mistakes but in never making the same one a second time." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
