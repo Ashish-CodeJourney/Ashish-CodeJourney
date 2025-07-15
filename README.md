@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Success does not consist in never making mistakes but in never making the same one a second time." - George Bernard Shaw
+"The only person you should try to be better than is the person you were yesterday." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
