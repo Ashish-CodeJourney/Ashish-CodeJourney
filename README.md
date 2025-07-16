@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only person you should try to be better than is the person you were yesterday." - Brian Tracy
+"Be brave to stand for what you believe in even if you stand alone." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
