@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be brave to stand for what you believe in even if you stand alone." - Roy T. Bennett
+"If you don't like something, change it. If you can't change it, change your attitude." - Maya Angelou
 ```
 <!--QUOTE:end-->
 
