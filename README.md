@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't like something, change it. If you can't change it, change your attitude." - Maya Angelou
+"We have to live life with a sense of urgency so not a minute is wasted." - Les Brown
 ```
 <!--QUOTE:end-->
 
