@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We have to live life with a sense of urgency so not a minute is wasted." - Les Brown
+"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
