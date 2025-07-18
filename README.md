@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously." - Steve Maraboli
+"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
