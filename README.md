@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." - Richard Bach
+"Happiness is the meaning and the purpose of life, the whole aim and end of human existence." - Aristotle
 ```
 <!--QUOTE:end-->
 
