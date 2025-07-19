@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The enemy is a very good teacher." - Dalai Lama
+"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." - Richard Bach
 ```
 <!--QUOTE:end-->
 
