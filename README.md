@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Great deeds are usually wrought at great risks." - Herodotus
+"Make your mind your own business." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
