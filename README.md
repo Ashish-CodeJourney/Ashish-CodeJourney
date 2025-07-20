@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness is the meaning and the purpose of life, the whole aim and end of human existence." - Aristotle
+"Great deeds are usually wrought at great risks." - Herodotus
 ```
 <!--QUOTE:end-->
 
