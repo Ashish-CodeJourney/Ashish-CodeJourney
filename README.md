@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Where focus goes, energy flows." - Tony Robbins
+"Numbing the pain for a while will only make it worse when you finally feel it." - Albus Dumbledore
 ```
 <!--QUOTE:end-->
 
