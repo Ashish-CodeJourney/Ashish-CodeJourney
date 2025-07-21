@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Make your mind your own business." - Jack Butcher
+"Where focus goes, energy flows." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
