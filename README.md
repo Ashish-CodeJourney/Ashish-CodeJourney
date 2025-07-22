@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Numbing the pain for a while will only make it worse when you finally feel it." - Albus Dumbledore
+"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
