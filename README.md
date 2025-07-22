@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality." - Brian Tracy
+"There are no accidents... there is only some purpose that we haven't yet understood." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
