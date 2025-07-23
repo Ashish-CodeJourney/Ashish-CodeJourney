@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon
+"Time is a game played beautifully by children." - Heraclitus
 ```
 <!--QUOTE:end-->
 
