@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There are no accidents... there is only some purpose that we haven't yet understood." - Deepak Chopra
+"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
