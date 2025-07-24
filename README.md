@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your imagination is your preview of life's coming attractions." - Albert Einstein
+"Sometimes it is harder to deprive oneself of a pain than of a pleasure." - F. Scott Fitzgerald
 ```
 <!--QUOTE:end-->
 
