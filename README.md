@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Time is a game played beautifully by children." - Heraclitus
+"Your imagination is your preview of life's coming attractions." - Albert Einstein
 ```
 <!--QUOTE:end-->
 
