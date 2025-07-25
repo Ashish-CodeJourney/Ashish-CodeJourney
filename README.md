@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head." - Eric Hoffer
+"Storms don't last forever." - Unknown
 ```
 <!--QUOTE:end-->
 
