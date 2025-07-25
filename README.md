@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Sometimes it is harder to deprive oneself of a pain than of a pleasure." - F. Scott Fitzgerald
+"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
