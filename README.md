@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more." - Tony Robbins
+"Respect is earned by effort not age, all things age without effort." - C. Sean McGee
 ```
 <!--QUOTE:end-->
 
