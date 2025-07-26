@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Storms don't last forever." - Unknown
+"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
