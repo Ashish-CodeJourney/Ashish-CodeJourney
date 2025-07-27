@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Respect is earned by effort not age, all things age without effort." - C. Sean McGee
+"Everyone is a moon, and has a dark side which he never shows to anybody." - Mark Twain
 ```
 <!--QUOTE:end-->
 
