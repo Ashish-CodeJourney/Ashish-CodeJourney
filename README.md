@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everyone is a moon, and has a dark side which he never shows to anybody." - Mark Twain
+"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
