@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
+"No one returns from a long journey the same person they were before." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
