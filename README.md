@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No one returns from a long journey the same person they were before." - Zen Proverb
+"Knowing is not enough, we must apply. Willing is not enough, we must do." - Johann Wolfgang von Goethe
 ```
 <!--QUOTE:end-->
 
