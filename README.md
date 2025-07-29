@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Knowing is not enough, we must apply. Willing is not enough, we must do." - Johann Wolfgang von Goethe
+"Who wishes to fight must first count the cost." - Sun Tzu
 ```
 <!--QUOTE:end-->
 
