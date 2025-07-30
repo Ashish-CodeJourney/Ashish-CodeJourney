@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Who wishes to fight must first count the cost." - Sun Tzu
+"Forever is composed of now's." - Emily Dickinson
 ```
 <!--QUOTE:end-->
 
