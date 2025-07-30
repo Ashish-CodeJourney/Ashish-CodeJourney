@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Forever is composed of now's." - Emily Dickinson
+"My instinct is always to seek out challenges as opposed to avoiding them." - Josh Waitzkin
 ```
 <!--QUOTE:end-->
 
