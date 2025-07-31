@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"My instinct is always to seek out challenges as opposed to avoiding them." - Josh Waitzkin
+"There are two things a person should never be angry at, what they can help, and what they cannot." - Plato
 ```
 <!--QUOTE:end-->
 
