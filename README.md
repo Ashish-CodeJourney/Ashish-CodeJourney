@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There are two things a person should never be angry at, what they can help, and what they cannot." - Plato
+"Every second you have on this planet is very precious and it's your responsibility that you're happy." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
