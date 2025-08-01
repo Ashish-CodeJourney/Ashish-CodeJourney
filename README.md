@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"By words the mind is winged." - Aristophanes
+"Nothing has any power over me other than that which I give it through my conscious thoughts." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
