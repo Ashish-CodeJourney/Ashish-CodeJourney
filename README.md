@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing has any power over me other than that which I give it through my conscious thoughts." - Tony Robbins
+"Happiness is the spiritual experience of living every minute with love, grace and gratitude." - Denis Waitley
 ```
 <!--QUOTE:end-->
 
