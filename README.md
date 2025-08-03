@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." - Kahlil Gibran
+"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." - Richard Bach
 ```
 <!--QUOTE:end-->
 
