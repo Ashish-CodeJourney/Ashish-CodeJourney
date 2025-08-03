@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you." - Paramahansa Yogananda
+"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." - Kahlil Gibran
 ```
 <!--QUOTE:end-->
 
