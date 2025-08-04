@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't change your mind just because people are offended; change your mind if you're wrong." - Criss Jami
+"A change is brought about because ordinary people do extraordinary things." - Barack Obama
 ```
 <!--QUOTE:end-->
 
