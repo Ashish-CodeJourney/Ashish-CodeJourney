@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." - Richard Bach
+"Don't change your mind just because people are offended; change your mind if you're wrong." - Criss Jami
 ```
 <!--QUOTE:end-->
 
