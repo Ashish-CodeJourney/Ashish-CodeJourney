@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A change is brought about because ordinary people do extraordinary things." - Barack Obama
+"Even when a friend does something you do not like, he continues to be your friend. " - Genghis Khan
 ```
 <!--QUOTE:end-->
 
