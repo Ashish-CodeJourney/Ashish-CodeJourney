@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Even when a friend does something you do not like, he continues to be your friend. " - Genghis Khan
+"Success is built sequentially. It's one thing at a time." - Gary Keller
 ```
 <!--QUOTE:end-->
 
