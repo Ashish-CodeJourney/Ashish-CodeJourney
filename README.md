@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Success is built sequentially. It's one thing at a time." - Gary Keller
+"The greatest step towards a life of simplicity is to learn to let go." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
