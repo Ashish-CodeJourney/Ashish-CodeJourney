@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The greatest step towards a life of simplicity is to learn to let go." - Steve Maraboli
+"People think about what they don't want and attract more of the same." - Unknown
 ```
 <!--QUOTE:end-->
 
