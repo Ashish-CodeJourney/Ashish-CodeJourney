@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"People think about what they don't want and attract more of the same." - Unknown
+"Because a thing seems difficult for you, do not think it impossible." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
