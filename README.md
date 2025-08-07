@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Because a thing seems difficult for you, do not think it impossible." - Marcus Aurelius
+"In order to control myself I must first accept myself by going with and not against my nature." - Bruce Lee
 ```
 <!--QUOTE:end-->
 
