@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." - Criss Jami
+"If you can handle rejection, you'll learn to get everything you want." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
