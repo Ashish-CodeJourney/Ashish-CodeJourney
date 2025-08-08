@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"In order to control myself I must first accept myself by going with and not against my nature." - Bruce Lee
+"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." - Criss Jami
 ```
 <!--QUOTE:end-->
 
