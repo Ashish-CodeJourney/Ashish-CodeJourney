@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We have more possibilities available in each moment than we realize." - Thich Nhat Hanh
+"The friend is the man who knows all about you, and still likes you." - Elbert Hubbard
 ```
 <!--QUOTE:end-->
 
