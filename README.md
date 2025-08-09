@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you can handle rejection, you'll learn to get everything you want." - Tony Robbins
+"We have more possibilities available in each moment than we realize." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
