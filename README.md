@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The friend is the man who knows all about you, and still likes you." - Elbert Hubbard
+"The ego wants to go fast. The soul needs to go slow." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
