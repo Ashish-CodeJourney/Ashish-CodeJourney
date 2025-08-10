@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The ego wants to go fast. The soul needs to go slow." - Maxime Lagace
+"Obstacles are those frightful things you see when you take your eyes off your goal." - Henry Ford
 ```
 <!--QUOTE:end-->
 
