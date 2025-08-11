@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"As soon as you truly commit to making something happen, the 'how' will reveal itself." - Tony Robbins
+"He suffers more than necessary, who suffers before it is necessary.  " - Seneca
 ```
 <!--QUOTE:end-->
 
