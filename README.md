@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Obstacles are those frightful things you see when you take your eyes off your goal." - Henry Ford
+"As soon as you truly commit to making something happen, the 'how' will reveal itself." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
