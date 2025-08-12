@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A comfort zone is a beautiful place, but nothing ever grows there." - Unknown
+"The two most powerful warriors are patience and time." - Leo Tolstoy
 ```
 <!--QUOTE:end-->
 
