@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Only the educated are free." - Epictetus
+"A comfort zone is a beautiful place, but nothing ever grows there." - Unknown
 ```
 <!--QUOTE:end-->
 
