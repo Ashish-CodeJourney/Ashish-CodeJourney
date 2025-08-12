@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He suffers more than necessary, who suffers before it is necessary.  " - Seneca
+"Only the educated are free." - Epictetus
 ```
 <!--QUOTE:end-->
 
