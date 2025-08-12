@@ -132,7 +132,7 @@ def ashish_facts():
 ---
 <div align="center">
 
-### 💭 Programming Wisdom
+### 💭 Wisdom
     
 <!--QUOTE:start-->
 ```javascript
