@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The two most powerful warriors are patience and time." - Leo Tolstoy
+"There is nothing in the world so irresistibly contagious as laughter and good humor." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
