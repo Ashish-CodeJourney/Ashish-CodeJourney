@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is nothing in the world so irresistibly contagious as laughter and good humor." - Charles Dickens
+"Do one thing every day that scares you." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
