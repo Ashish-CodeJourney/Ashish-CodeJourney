@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The key to success is failure." - Michael Jordan
+"When you're at the end of your rope, tie a knot and hold on." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
