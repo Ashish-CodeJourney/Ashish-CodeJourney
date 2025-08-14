@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do one thing every day that scares you." - Eleanor Roosevelt
+"The key to success is failure." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
