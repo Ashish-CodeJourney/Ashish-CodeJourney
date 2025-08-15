@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you're at the end of your rope, tie a knot and hold on." - Theodore Roosevelt
+"The dreamers are the saviors of the worlds." - James Allen
 ```
 <!--QUOTE:end-->
 
