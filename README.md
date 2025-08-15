@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The dreamers are the saviors of the worlds." - James Allen
+"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." - Amelia Earhart
 ```
 <!--QUOTE:end-->
 
