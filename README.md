@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." - Amelia Earhart
+"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." - James Matthew Barrie
 ```
 <!--QUOTE:end-->
 
