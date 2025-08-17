@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't try to steer the river." - Deepak Chopra
+"Life is either a daring adventure, or it is nothing." - Helen Keller
 ```
 <!--QUOTE:end-->
 
