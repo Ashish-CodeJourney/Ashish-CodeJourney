@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is either a daring adventure, or it is nothing." - Helen Keller
+"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts." - Alfred Adler
 ```
 <!--QUOTE:end-->
 
