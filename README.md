@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts." - Alfred Adler
+"Change is hard at first, messy in the middle and gorgeous at the end." - Robin Sharma
 ```
 <!--QUOTE:end-->
 
