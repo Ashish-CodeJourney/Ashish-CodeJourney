@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them." - W. Clement Stone
+"The highest level of wisdom is when you not only accept but love adversity." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
