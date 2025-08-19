@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The highest level of wisdom is when you not only accept but love adversity." - Maxime Lagace
+"Yesterday is gone. Tomorrow has not yet come. We have only today." - Mother Teresa
 ```
 <!--QUOTE:end-->
 
