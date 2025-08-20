@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Yesterday is gone. Tomorrow has not yet come. We have only today." - Mother Teresa
+"Meditate. It won't be fun but it will surface what you need to deal with." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
