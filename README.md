@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Meditate. It won't be fun but it will surface what you need to deal with." - Naval Ravikant
+"You can put lipstick on a pig. It's still a pig." - Barack Obama
 ```
 <!--QUOTE:end-->
 
