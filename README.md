@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can put lipstick on a pig. It's still a pig." - Barack Obama
+"The more you extend kindness to yourself, the more it will become your automatic response to others." - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
