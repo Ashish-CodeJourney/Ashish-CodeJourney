@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The more you extend kindness to yourself, the more it will become your automatic response to others." - Wayne Dyer
+"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will." - Epictetus
 ```
 <!--QUOTE:end-->
 
