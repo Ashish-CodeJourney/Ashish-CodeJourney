@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Money poisons you when you've got it, and starves you when you haven't." - D. H. Lawrence
+"The day is for honest men, the night for thieves." - Euripides
 ```
 <!--QUOTE:end-->
 
