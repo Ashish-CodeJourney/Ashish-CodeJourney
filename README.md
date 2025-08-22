@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will." - Epictetus
+"Money poisons you when you've got it, and starves you when you haven't." - D. H. Lawrence
 ```
 <!--QUOTE:end-->
 
