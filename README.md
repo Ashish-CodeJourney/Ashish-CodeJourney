@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The day is for honest men, the night for thieves." - Euripides
+"It's not about what it is, it's about what it can become." - Dr. Seuss
 ```
 <!--QUOTE:end-->
 
