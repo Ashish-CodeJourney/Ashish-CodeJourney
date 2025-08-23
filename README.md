@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's not about what it is, it's about what it can become." - Dr. Seuss
+"No man is free who is not master of himself." - Epictetus
 ```
 <!--QUOTE:end-->
 
