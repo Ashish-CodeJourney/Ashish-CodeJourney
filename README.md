@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No man is free who is not master of himself." - Epictetus
+"Words can only have a positive effect on others if and when they are ready to listen." - Christopher Reeve
 ```
 <!--QUOTE:end-->
 
