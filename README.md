@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Words can only have a positive effect on others if and when they are ready to listen." - Christopher Reeve
+"Those who can make you believe absurdities can make you commit atrocities. " - Voltaire
 ```
 <!--QUOTE:end-->
 
