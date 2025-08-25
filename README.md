@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Those who can make you believe absurdities can make you commit atrocities. " - Voltaire
+"Your worth consists in what you are and not in what you have." - Thomas Edison
 ```
 <!--QUOTE:end-->
 
