@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your worth consists in what you are and not in what you have." - Thomas Edison
+"Do not fight with pigs - you will be smeared in mud but the pig will like it." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
