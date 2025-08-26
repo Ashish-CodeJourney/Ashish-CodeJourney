@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do not fight with pigs - you will be smeared in mud but the pig will like it." - George Bernard Shaw
+"Let us rather run the risk of wearing out than rusting out." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
