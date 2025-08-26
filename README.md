@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Let us rather run the risk of wearing out than rusting out." - Theodore Roosevelt
+"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you." - Jeffrey Gitomer
 ```
 <!--QUOTE:end-->
 
