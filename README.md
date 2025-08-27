@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Time goes from present to past." - Shunryu Suzuki
+"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!" - Charles Darwin
 ```
 <!--QUOTE:end-->
 
