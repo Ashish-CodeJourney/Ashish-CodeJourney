@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!" - Charles Darwin
+"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
 ```
 <!--QUOTE:end-->
 
