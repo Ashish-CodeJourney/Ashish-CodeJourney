@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
+"He who cannot be a good follower cannot be a good leader." - Aristotle
 ```
 <!--QUOTE:end-->
 
