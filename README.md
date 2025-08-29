@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Best be yourself, imperial, plain, and true." - Robert Browning
+"Not all readers are leaders, but all leaders are readers." - Harry S. Truman
 ```
 <!--QUOTE:end-->
 
