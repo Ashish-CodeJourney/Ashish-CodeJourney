@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He who cannot be a good follower cannot be a good leader." - Aristotle
+"Best be yourself, imperial, plain, and true." - Robert Browning
 ```
 <!--QUOTE:end-->
 
