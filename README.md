@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Those who cannot change their minds cannot change anything." - George Bernard Shaw
+"Through discipline comes freedom." - Aristotle
 ```
 <!--QUOTE:end-->
 
