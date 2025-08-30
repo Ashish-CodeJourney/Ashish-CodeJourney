@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Not all readers are leaders, but all leaders are readers." - Harry S. Truman
+"Those who cannot change their minds cannot change anything." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
