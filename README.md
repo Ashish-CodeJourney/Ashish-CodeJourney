@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Simplicity is a difficult thing to achieve.  " - Charlie Chaplin
+"If you have to be in a soap opera try not to be cast in the worst role." - Judy Garland
 ```
 <!--QUOTE:end-->
 
