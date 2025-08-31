@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Through discipline comes freedom." - Aristotle
+"Simplicity is a difficult thing to achieve.  " - Charlie Chaplin
 ```
 <!--QUOTE:end-->
 
