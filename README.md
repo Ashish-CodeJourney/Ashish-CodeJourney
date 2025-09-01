@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach." - Benjamin Mays
+"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." - Earl Nightingale
 ```
 <!--QUOTE:end-->
 
