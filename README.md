@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you have to be in a soap opera try not to be cast in the worst role." - Judy Garland
+"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach." - Benjamin Mays
 ```
 <!--QUOTE:end-->
 
