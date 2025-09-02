@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." - Earl Nightingale
+"The best dreams happen when you're awake." - Cherie Gilderbloom
 ```
 <!--QUOTE:end-->
 
