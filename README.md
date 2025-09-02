@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The best dreams happen when you're awake." - Cherie Gilderbloom
+"Happiness is only real, when shared." - Christopher McCandless
 ```
 <!--QUOTE:end-->
 
