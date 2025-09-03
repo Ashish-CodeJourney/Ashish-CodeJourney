@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you." - Criss Jami
+"Make each day your masterpiece." - John Wooden
 ```
 <!--QUOTE:end-->
 
