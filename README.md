@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Embrace the life you have and stop wishing that you could be someone else." - Joyce Meyer
+"Nothing brings down walls as surely as acceptance." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
