@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Make each day your masterpiece." - John Wooden
+"Embrace the life you have and stop wishing that you could be someone else." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
