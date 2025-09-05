@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing brings down walls as surely as acceptance." - Deepak Chopra
+"Once you choose hope, anything's possible." - Christopher Reeve
 ```
 <!--QUOTE:end-->
 
