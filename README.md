@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"How many times do you have to get hit over the head until you figure out who's hitting you?" - Harry S. Truman
+"If I can stop one heart from breaking, I shall not live in vain." - Emily Dickinson
 ```
 <!--QUOTE:end-->
 
