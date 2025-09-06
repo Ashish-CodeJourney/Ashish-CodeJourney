@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." - Roy T. Bennett
+"How many times do you have to get hit over the head until you figure out who's hitting you?" - Harry S. Truman
 ```
 <!--QUOTE:end-->
 
