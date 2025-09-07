@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If I can stop one heart from breaking, I shall not live in vain." - Emily Dickinson
+"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right." - Albus Dumbledore
 ```
 <!--QUOTE:end-->
 
