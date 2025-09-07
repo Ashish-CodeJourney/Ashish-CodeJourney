@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right." - Albus Dumbledore
+"Acknowledging the good that you already have in your life is the foundation for all abundance." - Eckhart Tolle
 ```
 <!--QUOTE:end-->
 
