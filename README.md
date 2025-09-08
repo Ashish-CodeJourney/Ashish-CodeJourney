@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over." - Joan Rivers
+"Most people fail in life not because they aim too high and miss, but because they aim too low and hit." - Les Brown
 ```
 <!--QUOTE:end-->
 
