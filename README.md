@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Acknowledging the good that you already have in your life is the foundation for all abundance." - Eckhart Tolle
+"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over." - Joan Rivers
 ```
 <!--QUOTE:end-->
 
