@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Most people fail in life not because they aim too high and miss, but because they aim too low and hit." - Les Brown
+"In youth we run into difficulties. In old age difficulties run into us. " - Beverly Sills
 ```
 <!--QUOTE:end-->
 
