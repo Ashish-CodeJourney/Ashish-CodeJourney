@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest." - Seungsahn
+"The ego wants to go fast. The soul needs to go slow." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
