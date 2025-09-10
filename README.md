@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The ego wants to go fast. The soul needs to go slow." - Maxime Lagace
+"You're braver than you believe, and stronger than you seem, and smarter than you think." - A.A. Milne
 ```
 <!--QUOTE:end-->
 
