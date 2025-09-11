@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You're braver than you believe, and stronger than you seem, and smarter than you think." - A.A. Milne
+"Leaders think and talk about solutions. Followers think and talk about the problems." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
