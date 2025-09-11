@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Leaders think and talk about solutions. Followers think and talk about the problems." - Brian Tracy
+"From error to error one discovers the entire truth." - Sigmund Freud
 ```
 <!--QUOTE:end-->
 
