@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"From error to error one discovers the entire truth." - Sigmund Freud
+"What is planted in each person's soul will sprout.  " - Rumi
 ```
 <!--QUOTE:end-->
 
