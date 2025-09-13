@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The highest level of wisdom is when you not only accept but love adversity." - Maxime Lagace
+"Do not regret the past. Look to the future." - Soyen Shaku
 ```
 <!--QUOTE:end-->
 
