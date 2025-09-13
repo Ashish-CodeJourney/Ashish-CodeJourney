@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you." - Paramahansa Yogananda
+"The highest level of wisdom is when you not only accept but love adversity." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
