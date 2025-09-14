@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do not regret the past. Look to the future." - Soyen Shaku
+"In order to be walked over, you have to be lying down." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
