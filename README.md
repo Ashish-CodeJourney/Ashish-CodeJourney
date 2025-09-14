@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"In order to be walked over, you have to be lying down." - Celestine Chua
+"Only when I fall do I get up again." - Vincent van Gogh
 ```
 <!--QUOTE:end-->
 
