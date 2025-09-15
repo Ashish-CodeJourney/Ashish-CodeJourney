@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Only when I fall do I get up again." - Vincent van Gogh
+"Character is doing what you don't want to do but know you should do." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
