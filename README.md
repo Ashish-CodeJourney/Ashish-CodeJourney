@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A good system shortens the road to the goal. " - Orison Swett Marden
+"Never put off to tomorrow what you can do to-day." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
