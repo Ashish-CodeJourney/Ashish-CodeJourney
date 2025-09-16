@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Focused, hard work is the real key to success." - John Carmack
+"A good system shortens the road to the goal. " - Orison Swett Marden
 ```
 <!--QUOTE:end-->
 
