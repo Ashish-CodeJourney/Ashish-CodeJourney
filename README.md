@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Being wrong opens us up to the possibility of change." - Mark Manson
+"You will face many defeats in life, but never let yourself be defeated." - Maya Angelou
 ```
 <!--QUOTE:end-->
 
