@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never put off to tomorrow what you can do to-day." - Thomas Jefferson
+"Being wrong opens us up to the possibility of change." - Mark Manson
 ```
 <!--QUOTE:end-->
 
