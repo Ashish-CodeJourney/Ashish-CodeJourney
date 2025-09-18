@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You will face many defeats in life, but never let yourself be defeated." - Maya Angelou
+"Don't allow your mind to tell your heart what to do. The mind gives up easily." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
