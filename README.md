@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't allow your mind to tell your heart what to do. The mind gives up easily." - Paulo Coelho
+"In nature there is no alienation. Everything belongs." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
