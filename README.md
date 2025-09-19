@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"In nature there is no alienation. Everything belongs." - Ming-Dao Deng
+"Even if you persuade me, you won't persuade me." - Aristophanes
 ```
 <!--QUOTE:end-->
 
