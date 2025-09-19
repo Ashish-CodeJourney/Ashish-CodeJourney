@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Even if you persuade me, you won't persuade me." - Aristophanes
+"When you know what you want, and want it bad enough, you will find a way to get it." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
