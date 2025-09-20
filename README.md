@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you know what you want, and want it bad enough, you will find a way to get it." - Jim Rohn
+"Why do you stay in prison when the door is so wide open?" - Rumi
 ```
 <!--QUOTE:end-->
 
