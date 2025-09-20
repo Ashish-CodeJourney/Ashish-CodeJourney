@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Why do you stay in prison when the door is so wide open?" - Rumi
+"Happiness cannot be traveled to, owned, earned, worn or consumed." - Denis Waitley
 ```
 <!--QUOTE:end-->
 
