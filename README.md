@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness cannot be traveled to, owned, earned, worn or consumed." - Denis Waitley
+"You can do two things at once, but you can't focus effectively on two things at once." - Gary Keller
 ```
 <!--QUOTE:end-->
 
