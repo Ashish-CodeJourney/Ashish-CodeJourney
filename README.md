@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can do two things at once, but you can't focus effectively on two things at once." - Gary Keller
+"Happiness is not something ready made. It comes from your own actions." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
