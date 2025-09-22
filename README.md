@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness is not something ready made. It comes from your own actions." - Dalai Lama
+"Be willing to be a beginner every single morning." - Meister Eckhart
 ```
 <!--QUOTE:end-->
 
