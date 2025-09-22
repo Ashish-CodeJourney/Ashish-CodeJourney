@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be willing to be a beginner every single morning." - Meister Eckhart
+"Knowing is not enough, we must apply. Willing is not enough, we must do.  " - Bruce Lee
 ```
 <!--QUOTE:end-->
 
