@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way." - Alan Watts
+"If you want something new, you have to stop doing something old." - Peter Drucker
 ```
 <!--QUOTE:end-->
 
