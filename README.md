@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Knowing is not enough, we must apply. Willing is not enough, we must do.  " - Bruce Lee
+"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way." - Alan Watts
 ```
 <!--QUOTE:end-->
 
