@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you want something new, you have to stop doing something old." - Peter Drucker
+"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest." - Seungsahn
 ```
 <!--QUOTE:end-->
 
