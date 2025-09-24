@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest." - Seungsahn
+"Your vision will become clear only when you can look into your own heart." - Lolly Daskal
 ```
 <!--QUOTE:end-->
 
