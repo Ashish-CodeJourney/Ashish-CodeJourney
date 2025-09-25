@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never give way to laziness." - Bhagavad Gita
+"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
