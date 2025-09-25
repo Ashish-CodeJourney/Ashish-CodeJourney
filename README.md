@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your vision will become clear only when you can look into your own heart." - Lolly Daskal
+"Never give way to laziness." - Bhagavad Gita
 ```
 <!--QUOTE:end-->
 
