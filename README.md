@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. " - George Washington
+"We would accomplish many more things if we did not think of them as impossible." - Vince Lombardi
 ```
 <!--QUOTE:end-->
 
