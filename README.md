@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." - Zig Ziglar
+"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. " - George Washington
 ```
 <!--QUOTE:end-->
 
