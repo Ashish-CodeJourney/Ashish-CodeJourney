@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We would accomplish many more things if we did not think of them as impossible." - Vince Lombardi
+"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison
 ```
 <!--QUOTE:end-->
 
