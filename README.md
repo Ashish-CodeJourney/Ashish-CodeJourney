@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison
+"Let us rather run the risk of wearing out than rusting out." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
