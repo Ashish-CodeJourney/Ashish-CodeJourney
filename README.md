@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The quieter you become, the more you are able to hear." - Rumi
+"Decide upon your major definite purpose in life and then organize all your activities around it." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
