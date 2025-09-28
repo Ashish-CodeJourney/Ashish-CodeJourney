@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Let us rather run the risk of wearing out than rusting out." - Theodore Roosevelt
+"The quieter you become, the more you are able to hear." - Rumi
 ```
 <!--QUOTE:end-->
 
