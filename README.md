@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Decide upon your major definite purpose in life and then organize all your activities around it." - Brian Tracy
+"Nothing is particularly hard if you divide it into small jobs. " - Henry Ford
 ```
 <!--QUOTE:end-->
 
