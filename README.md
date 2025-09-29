@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing is particularly hard if you divide it into small jobs. " - Henry Ford
+"Laziness may appear attractive, but work gives satisfaction." - Anne Frank
 ```
 <!--QUOTE:end-->
 
