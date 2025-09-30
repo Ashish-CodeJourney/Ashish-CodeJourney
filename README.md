@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Laziness may appear attractive, but work gives satisfaction." - Anne Frank
+"Like it or not, this moment is all we really have to work with." - Jon Kabat-Zinn
 ```
 <!--QUOTE:end-->
 
