@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Like it or not, this moment is all we really have to work with." - Jon Kabat-Zinn
+"I am not what happened to me, I am what I choose to become." - Carl Jung
 ```
 <!--QUOTE:end-->
 
