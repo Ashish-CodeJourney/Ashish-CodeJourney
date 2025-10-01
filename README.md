@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Invisible things are the only realities." - Edgar Allan Poe
+"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams." - Robert Greene
 ```
 <!--QUOTE:end-->
 
