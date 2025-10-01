@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I am not what happened to me, I am what I choose to become." - Carl Jung
+"Invisible things are the only realities." - Edgar Allan Poe
 ```
 <!--QUOTE:end-->
 
