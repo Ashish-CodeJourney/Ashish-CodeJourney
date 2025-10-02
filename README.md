@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place." - Bhagavad Gita
+"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you." - Sonia Ricotti
 ```
 <!--QUOTE:end-->
 
