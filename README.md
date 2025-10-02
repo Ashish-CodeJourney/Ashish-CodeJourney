@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams." - Robert Greene
+"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place." - Bhagavad Gita
 ```
 <!--QUOTE:end-->
 
