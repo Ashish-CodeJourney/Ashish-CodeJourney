@@ -87,7 +87,7 @@ const ashish = {
 </td>
 <td align="center">
 <a href="https://dpeuniversity.gradle.com/app/certificate/ce3034e4-633b-44f4-ae8e-434feb0cafc5">
-<img src="https://www.ashishcodejourney.xyz/assets/GradleCertificate-599a5WfV.png" width="100"/>
+<img src="https://ashishcodejourney.vercel.app/assets/GradleCertificate-599a5WfV.png" width="100"/>
 </a>
 </td>
 </tr>
