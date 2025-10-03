@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Find something you love and do it better than everyone else." - Gurbaksh Chahal
+"When you change what you believe, you change what you do." - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
