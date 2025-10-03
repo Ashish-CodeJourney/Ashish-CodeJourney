@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you." - Sonia Ricotti
+"Find something you love and do it better than everyone else." - Gurbaksh Chahal
 ```
 <!--QUOTE:end-->
 
