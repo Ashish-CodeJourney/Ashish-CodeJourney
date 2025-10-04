@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you change what you believe, you change what you do." - Spencer Johnson
+"No one can compete with you on being you. Most of life is a search for who and what needs you the most." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
