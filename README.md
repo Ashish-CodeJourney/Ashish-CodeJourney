@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No one can compete with you on being you. Most of life is a search for who and what needs you the most." - Naval Ravikant
+"The heart wants what it wants - or else it does not care." - Emily Dickinson
 ```
 <!--QUOTE:end-->
 
