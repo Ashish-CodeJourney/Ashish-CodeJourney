@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The heart wants what it wants - or else it does not care." - Emily Dickinson
+"When you're the only sane person, you look like the only insane person." - Criss Jami
 ```
 <!--QUOTE:end-->
 
