@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you're the only sane person, you look like the only insane person." - Criss Jami
+"You'll never find rainbows if you're looking down.  " - Charlie Chaplin
 ```
 <!--QUOTE:end-->
 
