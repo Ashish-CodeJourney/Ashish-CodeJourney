@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We love the things we love for what they are." - Robert Frost
+"You are never too old to set another goal or to dream a new dream." - Les Brown
 ```
 <!--QUOTE:end-->
 
