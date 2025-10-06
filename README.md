@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You'll never find rainbows if you're looking down.  " - Charlie Chaplin
+"We love the things we love for what they are." - Robert Frost
 ```
 <!--QUOTE:end-->
 
