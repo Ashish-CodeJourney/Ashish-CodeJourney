@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only person you should try to be better than is the person you were yesterday." - Brian Tracy
+"I know of only one duty, and that is to love." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
