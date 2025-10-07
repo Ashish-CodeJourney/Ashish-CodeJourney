@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You are never too old to set another goal or to dream a new dream." - Les Brown
+"The only person you should try to be better than is the person you were yesterday." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
