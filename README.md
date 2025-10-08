@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't have time to do it right, when will you have time to do it over?" - John Wooden
+"The constant assertion of belief is an indication of fear." - Jiddu Krishnamurti
 ```
 <!--QUOTE:end-->
 
