@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I know of only one duty, and that is to love." - George Bernard Shaw
+"If you don't have time to do it right, when will you have time to do it over?" - John Wooden
 ```
 <!--QUOTE:end-->
 
