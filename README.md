@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The constant assertion of belief is an indication of fear." - Jiddu Krishnamurti
+"As you love yourself, life loves you back." - Kamal Ravikant
 ```
 <!--QUOTE:end-->
 
