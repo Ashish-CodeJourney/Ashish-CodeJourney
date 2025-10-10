@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Turn your face to the sun, as flowers know how to do." - Ming-Dao Deng
+"Attitude, not aptitude, determines altitude.  " - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
