@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"All animals except man know that the principal business of life is to enjoy it." - Samuel Butler
+"Turn your face to the sun, as flowers know how to do." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
