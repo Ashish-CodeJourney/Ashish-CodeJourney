@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He who has overcome his fears will truly be free." - Aristotle
+"Success comes from knowing that you did your best to become the best that you are capable of becoming." - John Wooden
 ```
 <!--QUOTE:end-->
 
