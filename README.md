@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Attitude, not aptitude, determines altitude.  " - Zig Ziglar
+"He who has overcome his fears will truly be free." - Aristotle
 ```
 <!--QUOTE:end-->
 
