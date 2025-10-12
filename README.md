@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  " - David Brinkley
+"Thinking is difficult, that's why most people judge." - Carl Jung
 ```
 <!--QUOTE:end-->
 
