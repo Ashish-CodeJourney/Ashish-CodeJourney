@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Success comes from knowing that you did your best to become the best that you are capable of becoming." - John Wooden
+"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  " - David Brinkley
 ```
 <!--QUOTE:end-->
 
