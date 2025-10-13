@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Thinking is difficult, that's why most people judge." - Carl Jung
+"Poverty and hardship are created by false thinking." - Bodhidharma
 ```
 <!--QUOTE:end-->
 
