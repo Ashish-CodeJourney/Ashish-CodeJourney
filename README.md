@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Change your thoughts and you change your world." - Norman Vincent Peale
+"All power is from within and therefore under our control." - Robert Collier
 ```
 <!--QUOTE:end-->
 
