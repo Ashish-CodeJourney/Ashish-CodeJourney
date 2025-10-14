@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You don't need anybody to tell you who you are or what you are. You are what you are!" - John Lennon
+"Change your thoughts and you change your world." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
