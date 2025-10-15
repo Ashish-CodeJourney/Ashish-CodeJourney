@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"All power is from within and therefore under our control." - Robert Collier
+"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it." - Josh Waitzkin
 ```
 <!--QUOTE:end-->
 
