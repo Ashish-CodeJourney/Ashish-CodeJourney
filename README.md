@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it." - Josh Waitzkin
+"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
