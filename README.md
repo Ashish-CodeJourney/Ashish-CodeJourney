@@ -77,7 +77,7 @@ const ashish = {
 <tr>
 <td align="center">
 <a href="https://www.credly.com/badges/c203200e-ba86-49c2-801a-65b503dcb69d/public_url">
-<img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100"/>
+<img src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100"/>
 </a>
 </td>
 <td align="center">
