@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you are ever the smartest person in the room, you are in the wrong room." - C. Sean McGee
+"So we beat on, boats against the current, borne back ceaselessly into the past." - F. Scott Fitzgerald
 ```
 <!--QUOTE:end-->
 
