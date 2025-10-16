@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT." - Deepak Chopra
+"If you are ever the smartest person in the room, you are in the wrong room." - C. Sean McGee
 ```
 <!--QUOTE:end-->
 
