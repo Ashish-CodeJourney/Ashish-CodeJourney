@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"So we beat on, boats against the current, borne back ceaselessly into the past." - F. Scott Fitzgerald
+"He who laughs at himself never runs out of things to laugh at." - Epictetus
 ```
 <!--QUOTE:end-->
 
