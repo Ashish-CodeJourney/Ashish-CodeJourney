@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He who laughs at himself never runs out of things to laugh at." - Epictetus
+"Each day your life grows a day shorter. Make every move count." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
