@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Each day your life grows a day shorter. Make every move count." - Ming-Dao Deng
+"Not all those who wander are lost." - J.R.R. Tolkien
 ```
 <!--QUOTE:end-->
 
