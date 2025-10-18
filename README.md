@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Not all those who wander are lost." - J.R.R. Tolkien
+"Desire for the fruits of work must never be your motive in working." - Bhagavad Gita
 ```
 <!--QUOTE:end-->
 
