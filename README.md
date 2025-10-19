@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Go as far as you can see and you will see further.  " - Zig Ziglar
+"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." - Buddha
 ```
 <!--QUOTE:end-->
 
