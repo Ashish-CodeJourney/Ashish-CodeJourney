@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Desire for the fruits of work must never be your motive in working." - Bhagavad Gita
+"Go as far as you can see and you will see further.  " - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
