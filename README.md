@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world." - Gabor Mate
+"Don't let the noise of others opinions drown out your inner voice." - Steve Jobs
 ```
 <!--QUOTE:end-->
 
