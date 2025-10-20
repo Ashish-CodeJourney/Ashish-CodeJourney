@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." - Buddha
+"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world." - Gabor Mate
 ```
 <!--QUOTE:end-->
 
