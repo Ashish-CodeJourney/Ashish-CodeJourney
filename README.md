@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Before you can see the Light, you have to deal with the darkness." - Dan Millman
+"All problems are illusions of the mind." - Eckhart Tolle
 ```
 <!--QUOTE:end-->
 
