@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't let the noise of others opinions drown out your inner voice." - Steve Jobs
+"Before you can see the Light, you have to deal with the darkness." - Dan Millman
 ```
 <!--QUOTE:end-->
 
