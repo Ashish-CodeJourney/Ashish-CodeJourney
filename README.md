@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's not the men in your life that matters, it's the life in your men." - Mae West
+"Courage is resistance to fear, mastery of fear - not absence of fear." - Mark Twain
 ```
 <!--QUOTE:end-->
 
