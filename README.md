@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"All problems are illusions of the mind." - Eckhart Tolle
+"It's not the men in your life that matters, it's the life in your men." - Mae West
 ```
 <!--QUOTE:end-->
 
