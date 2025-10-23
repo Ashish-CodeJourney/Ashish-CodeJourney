@@ -136,7 +136,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Courage is resistance to fear, mastery of fear - not absence of fear." - Mark Twain
+"Don't try to steer the river." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
