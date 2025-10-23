@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't try to steer the river." - Deepak Chopra
+"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." - Franklin D. Roosevelt
 ```
 <!--QUOTE:end-->
 
