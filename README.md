@@ -109,6 +109,8 @@ const ashish = {
 - 🌟 Open Source enthusiast with various personal projects
 - 💻 Focused on writing clean, maintainable code
 
+[![An image of @ashishcodejourney's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishcodejourney#badges)](https://holopin.io/@ashishcodejourney#badges)
+
 ## ☕ Fun Facts
 
 ```python
