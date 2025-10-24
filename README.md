@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." - Franklin D. Roosevelt
+"Instead of thinking outside the box, get rid of the box." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
