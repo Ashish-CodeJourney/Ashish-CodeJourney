@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Instead of thinking outside the box, get rid of the box." - Deepak Chopra
+"The more you are motivated by Love, The more Fearless & Free your action will be." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
