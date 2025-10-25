@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The more you are motivated by Love, The more Fearless & Free your action will be." - Dalai Lama
+"Investing in yourself is the best investment you will ever make." - Robin Sharma
 ```
 <!--QUOTE:end-->
 
