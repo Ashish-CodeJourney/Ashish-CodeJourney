@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Investing in yourself is the best investment you will ever make." - Robin Sharma
+"Self-knowledge is the beginning of self-correction." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
