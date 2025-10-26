@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You don't earn loyalty in a day. You earn loyalty day-by-day." - Jeffrey Gitomer
+"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him." - Confucius
 ```
 <!--QUOTE:end-->
 
