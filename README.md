@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Self-knowledge is the beginning of self-correction." - Norman Vincent Peale
+"You don't earn loyalty in a day. You earn loyalty day-by-day." - Jeffrey Gitomer
 ```
 <!--QUOTE:end-->
 
