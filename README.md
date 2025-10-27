@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously." - Steve Maraboli
+"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
