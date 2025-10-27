@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him." - Confucius
+"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
