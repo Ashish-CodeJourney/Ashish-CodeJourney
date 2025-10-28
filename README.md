@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly." - Marcus Aurelius
+"A hero is an ordinary person doing things in an extra ordinary way." - Christopher Reeve
 ```
 <!--QUOTE:end-->
 
