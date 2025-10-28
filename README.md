@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A hero is an ordinary person doing things in an extra ordinary way." - Christopher Reeve
+"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. " - Denis Waitley
 ```
 <!--QUOTE:end-->
 
