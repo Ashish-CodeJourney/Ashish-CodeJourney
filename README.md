@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Sometimes you will never know the value of something, until it becomes a memory." - Dr. Seuss
+"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do." - Nelson Mandela
 ```
 <!--QUOTE:end-->
 
