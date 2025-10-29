@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. " - Denis Waitley
+"Sometimes you will never know the value of something, until it becomes a memory." - Dr. Seuss
 ```
 <!--QUOTE:end-->
 
