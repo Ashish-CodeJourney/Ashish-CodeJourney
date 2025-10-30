@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A creative man is motivated by the desire to achieve, not by the desire to beat others." - Ayn Rand
+"We are all different. Don't judge, understand instead." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
