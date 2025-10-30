@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do." - Nelson Mandela
+"A creative man is motivated by the desire to achieve, not by the desire to beat others." - Ayn Rand
 ```
 <!--QUOTE:end-->
 
