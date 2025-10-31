@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We are all different. Don't judge, understand instead." - Roy T. Bennett
+"The more I want to get something done, the less I call it work." - Richard Bach
 ```
 <!--QUOTE:end-->
 
