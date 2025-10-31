@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The more I want to get something done, the less I call it work." - Richard Bach
+"You get in life what you have the courage to ask for." - Oprah Winfrey
 ```
 <!--QUOTE:end-->
 
