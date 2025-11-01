@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You get in life what you have the courage to ask for." - Oprah Winfrey
+"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you." - Richard Bach
 ```
 <!--QUOTE:end-->
 
