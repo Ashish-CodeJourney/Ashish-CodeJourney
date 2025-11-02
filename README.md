@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It does not matter how slowly you go so long as you do not stop." - Confucius
+"Ask no questions, and you'll be told no lies." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
