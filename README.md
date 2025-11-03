@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Help others and give something back." - Arnold Schwarzenegger
+"Not how long, but how well you have lived is the main thing." - Seneca
 ```
 <!--QUOTE:end-->
 
