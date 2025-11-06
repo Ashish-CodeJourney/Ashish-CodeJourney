@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Fortunate are those who take the first steps." - Paulo Coelho
+"The only people without problems are those in cemeteries." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
