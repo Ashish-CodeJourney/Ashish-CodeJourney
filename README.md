@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only people without problems are those in cemeteries." - Tony Robbins
+"Stay away from people who makes you feel like you are wasting their time." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
