@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you can't feed a hundred people, then feed just one." - Mother Teresa
+"Go and do the things you can't. That is how you get to do them." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
