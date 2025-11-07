@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Stay away from people who makes you feel like you are wasting their time." - Paulo Coelho
+"If you can't feed a hundred people, then feed just one." - Mother Teresa
 ```
 <!--QUOTE:end-->
 
