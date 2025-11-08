@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Go and do the things you can't. That is how you get to do them." - Pablo Picasso
+"Realistic people do not accomplish extraordinary things." - John Eliot
 ```
 <!--QUOTE:end-->
 
