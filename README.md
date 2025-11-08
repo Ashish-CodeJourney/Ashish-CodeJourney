@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Realistic people do not accomplish extraordinary things." - John Eliot
+"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." - Kamal Ravikant
 ```
 <!--QUOTE:end-->
 
