@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." - Kamal Ravikant
+"Thinking will not overcome fear but action will. " - W. Clement Stone
 ```
 <!--QUOTE:end-->
 
