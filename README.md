@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Thinking will not overcome fear but action will. " - W. Clement Stone
+"Fashion fades, only style remains the same." - Coco Chanel
 ```
 <!--QUOTE:end-->
 
