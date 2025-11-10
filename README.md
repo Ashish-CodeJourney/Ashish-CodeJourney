@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Fashion fades, only style remains the same." - Coco Chanel
+"There are as many opinions as there are experts." - Franklin D. Roosevelt
 ```
 <!--QUOTE:end-->
 
