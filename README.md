@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Death smiles at us all. All we can do is smile back." - Marcus Aurelius
+"Life is about not knowing and then doing something anyway." - Mark Manson
 ```
 <!--QUOTE:end-->
 
