@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is about not knowing and then doing something anyway." - Mark Manson
+"It is those who concentrate on but one thing at a time who advance in this world." - Gary Keller
 ```
 <!--QUOTE:end-->
 
