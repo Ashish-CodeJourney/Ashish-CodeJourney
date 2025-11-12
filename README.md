@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is those who concentrate on but one thing at a time who advance in this world." - Gary Keller
+"The art of being happy lies in the power of extracting happiness from common things." - Henry Ward Beecher
 ```
 <!--QUOTE:end-->
 
