@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is useless to meet revenge with revenge; it will heal nothing." - J.R.R. Tolkien
+"Life is either a daring adventure, or it is nothing." - Helen Keller
 ```
 <!--QUOTE:end-->
 
