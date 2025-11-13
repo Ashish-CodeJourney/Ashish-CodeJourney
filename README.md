@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The art of being happy lies in the power of extracting happiness from common things." - Henry Ward Beecher
+"It is useless to meet revenge with revenge; it will heal nothing." - J.R.R. Tolkien
 ```
 <!--QUOTE:end-->
 
