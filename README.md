@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is either a daring adventure, or it is nothing." - Helen Keller
+"It's your road, and yours alone, others may walk it with you, but no one can walk it for you." - Rumi
 ```
 <!--QUOTE:end-->
 
