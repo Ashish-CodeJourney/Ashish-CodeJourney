@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's your road, and yours alone, others may walk it with you, but no one can walk it for you." - Rumi
+"Hope is not a strategy. Luck is not a factor. Fear is not an option." - James Cameron
 ```
 <!--QUOTE:end-->
 
