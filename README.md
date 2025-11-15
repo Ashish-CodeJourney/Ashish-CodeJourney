@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Hope is not a strategy. Luck is not a factor. Fear is not an option." - James Cameron
+"Never stand begging for that which you have the power to earn." - Miguel de Cervantes
 ```
 <!--QUOTE:end-->
 
