@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never stand begging for that which you have the power to earn." - Miguel de Cervantes
+"You have the ability, now apply yourself." - Benjamin Mays
 ```
 <!--QUOTE:end-->
 
