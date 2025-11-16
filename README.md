@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You have the ability, now apply yourself." - Benjamin Mays
+"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
