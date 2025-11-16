@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists." - Eric Hoffer
+"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in." - Virginia Woolf
 ```
 <!--QUOTE:end-->
 
