@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I know of only one duty, and that is to love." - George Bernard Shaw
+"A needle is not sharp at both ends. " - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
