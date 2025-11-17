@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in." - Virginia Woolf
+"I know of only one duty, and that is to love." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
