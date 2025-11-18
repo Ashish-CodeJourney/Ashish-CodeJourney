@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A needle is not sharp at both ends. " - Chinese Proverb
+"The more you take responsibility for your past and present, the more you are able to create the future you seek." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
