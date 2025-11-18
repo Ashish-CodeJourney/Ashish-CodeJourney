@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The more you take responsibility for your past and present, the more you are able to create the future you seek." - Celestine Chua
+"Everyone is a moon, and has a dark side which he never shows to anybody." - Mark Twain
 ```
 <!--QUOTE:end-->
 
