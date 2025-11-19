@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everyone is a moon, and has a dark side which he never shows to anybody." - Mark Twain
+"Normal is the average of deviance." - Rita Mae Brown
 ```
 <!--QUOTE:end-->
 
