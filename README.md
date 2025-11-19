@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Normal is the average of deviance." - Rita Mae Brown
+"Life is a balance of holding on and letting go." - Rumi
 ```
 <!--QUOTE:end-->
 
