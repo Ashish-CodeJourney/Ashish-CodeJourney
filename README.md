@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is a balance of holding on and letting go." - Rumi
+"The more you give, the more comes back to you." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
