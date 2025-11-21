@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
+"You purchase pain with all that joy can give and die of nothing but a rage to live." - Alexander Pope
 ```
 <!--QUOTE:end-->
 
