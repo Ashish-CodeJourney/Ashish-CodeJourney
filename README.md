@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The strength of a wall is neither greater nor less than the courage of the men who defend it. " - Genghis Khan
+"A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
 ```
 <!--QUOTE:end-->
 
