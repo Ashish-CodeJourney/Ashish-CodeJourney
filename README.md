@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you're not failing every now and again, it's a sign you're not doing anything very innovative." - Woody Allen
+"Don't let your mind stop you." - Steve Harvey
 ```
 <!--QUOTE:end-->
 
