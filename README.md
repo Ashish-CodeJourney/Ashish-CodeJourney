@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You purchase pain with all that joy can give and die of nothing but a rage to live." - Alexander Pope
+"If you're not failing every now and again, it's a sign you're not doing anything very innovative." - Woody Allen
 ```
 <!--QUOTE:end-->
 
