@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only limits in our life are those we impose on ourselves." - Bob Proctor
+"Life is too important to be taken seriously." - Oscar Wilde
 ```
 <!--QUOTE:end-->
 
