@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't let your mind stop you." - Steve Harvey
+"The only limits in our life are those we impose on ourselves." - Bob Proctor
 ```
 <!--QUOTE:end-->
 
