@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is too important to be taken seriously." - Oscar Wilde
+"You may forget with whom you laughed, but you will never forget with whom you wept.  " - Kahlil Gibran
 ```
 <!--QUOTE:end-->
 
