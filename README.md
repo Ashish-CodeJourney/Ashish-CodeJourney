@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You may forget with whom you laughed, but you will never forget with whom you wept.  " - Kahlil Gibran
+"Confidence is what you have before you understand the problem." - Woody Allen
 ```
 <!--QUOTE:end-->
 
