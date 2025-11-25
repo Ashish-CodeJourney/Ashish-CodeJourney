@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He who knows best knows how little he knows." - Thomas Jefferson
+"Belief creates the actual fact." - William James
 ```
 <!--QUOTE:end-->
 
