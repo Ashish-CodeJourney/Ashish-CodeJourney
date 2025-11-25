@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Confidence is what you have before you understand the problem." - Woody Allen
+"He who knows best knows how little he knows." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
