@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Belief creates the actual fact." - William James
+"Only the hand that erases can write the true thing." - Meister Eckhart
 ```
 <!--QUOTE:end-->
 
