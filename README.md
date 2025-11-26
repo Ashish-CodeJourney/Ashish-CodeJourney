@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Only the hand that erases can write the true thing." - Meister Eckhart
+"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." - Abraham Lincoln
 ```
 <!--QUOTE:end-->
 
