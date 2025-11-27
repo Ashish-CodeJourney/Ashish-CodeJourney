@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." - Abraham Lincoln
+"If I cannot do great things. I can do small things in a great way." - Martin Luther King, Jr.
 ```
 <!--QUOTE:end-->
 
