@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes." - Alfred Adler
+"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." - Gary Keller
 ```
 <!--QUOTE:end-->
 
