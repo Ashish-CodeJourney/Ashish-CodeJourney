@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." - Gary Keller
+"There are two things a person should never be angry at, what they can help, and what they cannot." - Plato
 ```
 <!--QUOTE:end-->
 
