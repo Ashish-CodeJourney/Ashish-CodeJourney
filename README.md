@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"High thoughts must have high language." - Aristophanes
+"Talent is luck. The important thing in life is courage." - Woody Allen
 ```
 <!--QUOTE:end-->
 
