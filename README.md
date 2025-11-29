@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There are two things a person should never be angry at, what they can help, and what they cannot." - Plato
+"High thoughts must have high language." - Aristophanes
 ```
 <!--QUOTE:end-->
 
