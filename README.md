@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Talent is luck. The important thing in life is courage." - Woody Allen
+"Superstars think like superstars long before the fans or the press anoint them." - John Eliot
 ```
 <!--QUOTE:end-->
 
