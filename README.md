@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Superstars think like superstars long before the fans or the press anoint them." - John Eliot
+"Never feel shame for trying and failing, for he who has never failed is he who has never tried." - Og Mandino
 ```
 <!--QUOTE:end-->
 
