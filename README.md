@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never feel shame for trying and failing, for he who has never failed is he who has never tried." - Og Mandino
+"Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford
 ```
 <!--QUOTE:end-->
 
