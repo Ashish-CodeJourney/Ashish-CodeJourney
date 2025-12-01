@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford
+"Remember, hope is a good thing, maybe the best of things." - Stephen King
 ```
 <!--QUOTE:end-->
 
