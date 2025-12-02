@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Winning isn't always championships." - Michael Jordan
+"To achieve, you need thought. You have to know what you are doing and that's real power." - Ayn Rand
 ```
 <!--QUOTE:end-->
 
