@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Remember, hope is a good thing, maybe the best of things." - Stephen King
+"Winning isn't always championships." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
