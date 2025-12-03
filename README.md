@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Avoiding danger is no safer in the long run than exposure." - Helen Keller
+"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." - Criss Jami
 ```
 <!--QUOTE:end-->
 
