@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Building+elegant+solutions;Test-Driven+Development+Enthusiast;Open+Source+Contributor;Crafting+Quality+Software)](https://linkedin.com/in/ashish-codejourney)
 
+![Terminal](/assets/terminal.svg)
+
 <table>
 <tr>
 <td>
