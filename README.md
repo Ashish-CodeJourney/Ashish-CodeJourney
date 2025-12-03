@@ -138,7 +138,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To achieve, you need thought. You have to know what you are doing and that's real power." - Ayn Rand
+"Avoiding danger is no safer in the long run than exposure." - Helen Keller
 ```
 <!--QUOTE:end-->
 
