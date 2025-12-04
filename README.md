@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon
+"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed." - William Faulkner
 ```
 <!--QUOTE:end-->
 
