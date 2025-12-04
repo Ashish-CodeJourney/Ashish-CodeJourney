@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." - Criss Jami
+"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
