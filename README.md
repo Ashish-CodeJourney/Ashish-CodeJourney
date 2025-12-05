@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We're kept from our goal not by obstacles, but by a clear path to a lesser goal." - Bhagavad Gita
+"Courage is knowing what not to fear." - Plato
 ```
 <!--QUOTE:end-->
 
