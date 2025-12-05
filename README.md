@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed." - William Faulkner
+"We're kept from our goal not by obstacles, but by a clear path to a lesser goal." - Bhagavad Gita
 ```
 <!--QUOTE:end-->
 
