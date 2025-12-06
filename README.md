@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Those who know, do. Those that understand, teach." - Aristotle
+"Maybe you are searching among the branches, for what only appears in the roots." - Rumi
 ```
 <!--QUOTE:end-->
 
