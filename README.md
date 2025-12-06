@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Courage is knowing what not to fear." - Plato
+"Those who know, do. Those that understand, teach." - Aristotle
 ```
 <!--QUOTE:end-->
 
