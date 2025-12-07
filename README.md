@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Maybe you are searching among the branches, for what only appears in the roots." - Rumi
+"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting." - Bhagavad Gita
 ```
 <!--QUOTE:end-->
 
