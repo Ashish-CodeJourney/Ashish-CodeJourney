@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We create the world and ourselves;" - Ming-Dao Deng
+"Be regular and orderly in your life, so that you may be violent and original in your work." - Gustave Flaubert
 ```
 <!--QUOTE:end-->
 
