@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be regular and orderly in your life, so that you may be violent and original in your work." - Gustave Flaubert
+"If we will be quiet and ready enough, we shall find compensation in every disappointment." - Henry David Thoreau
 ```
 <!--QUOTE:end-->
 
