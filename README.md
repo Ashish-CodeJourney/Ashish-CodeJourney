@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If we will be quiet and ready enough, we shall find compensation in every disappointment." - Henry David Thoreau
+"He who cannot be a good follower cannot be a good leader." - Aristotle
 ```
 <!--QUOTE:end-->
 
