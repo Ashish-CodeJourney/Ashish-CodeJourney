@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"He who cannot be a good follower cannot be a good leader." - Aristotle
+"Making your mark on the world is hard. If it were easy, everybody would do it." - Barack Obama
 ```
 <!--QUOTE:end-->
 
