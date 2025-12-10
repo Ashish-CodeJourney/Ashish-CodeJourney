@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Making your mark on the world is hard. If it were easy, everybody would do it." - Barack Obama
+"Why live an ordinary life, when you can live an extraordinary one." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
