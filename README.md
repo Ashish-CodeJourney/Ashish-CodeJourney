@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Why live an ordinary life, when you can live an extraordinary one." - Tony Robbins
+"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
