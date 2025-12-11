@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" - Robert Kiyosaki
+"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all." - Dale Carnegie
 ```
 <!--QUOTE:end-->
 
