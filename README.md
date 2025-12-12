@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all." - Dale Carnegie
+"Exceptional thinkers ignore their critics and go about their business making history." - John Eliot
 ```
 <!--QUOTE:end-->
 
