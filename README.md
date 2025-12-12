@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Exceptional thinkers ignore their critics and go about their business making history." - John Eliot
+"Nothing important is learned; it is simply remembered." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
