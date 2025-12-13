@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can only lose something that you have, but you cannot lose something that you are." - Eckhart Tolle
+"Nature is pleased with simplicity. And nature is no dummy." - Isaac Newton
 ```
 <!--QUOTE:end-->
 
