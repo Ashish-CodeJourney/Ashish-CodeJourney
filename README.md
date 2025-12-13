@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing important is learned; it is simply remembered." - Carlos Ruiz Zafon
+"You can only lose something that you have, but you cannot lose something that you are." - Eckhart Tolle
 ```
 <!--QUOTE:end-->
 
