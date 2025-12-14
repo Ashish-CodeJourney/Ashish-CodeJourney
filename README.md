@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We will now discuss in a little more detail the Struggle for Existence." - Charles Darwin
+"No idea, no matter how good, will work if it doesn't get used." - Peter A. Cohen
 ```
 <!--QUOTE:end-->
 
