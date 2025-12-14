@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nature is pleased with simplicity. And nature is no dummy." - Isaac Newton
+"We will now discuss in a little more detail the Struggle for Existence." - Charles Darwin
 ```
 <!--QUOTE:end-->
 
