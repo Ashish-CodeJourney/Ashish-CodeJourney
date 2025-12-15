@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored." - Earl Nightingale
+"A mistake is only an error, it becomes a mistake when you fail to correct it." - John Lennon
 ```
 <!--QUOTE:end-->
 
