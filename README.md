@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No idea, no matter how good, will work if it doesn't get used." - Peter A. Cohen
+"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored." - Earl Nightingale
 ```
 <!--QUOTE:end-->
 
