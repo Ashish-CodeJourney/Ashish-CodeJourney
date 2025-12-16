@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I can think of nothing less pleasurable than a life devoted to pleasure." - John D. Rockefeller
+"The best teacher is experience and not through someone's distorted point of view." - Jack Kerouac
 ```
 <!--QUOTE:end-->
 
