@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A mistake is only an error, it becomes a mistake when you fail to correct it." - John Lennon
+"I can think of nothing less pleasurable than a life devoted to pleasure." - John D. Rockefeller
 ```
 <!--QUOTE:end-->
 
