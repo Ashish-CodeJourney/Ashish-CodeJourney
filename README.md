@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for." - Socrates
+"Never whine, never complain, never try to justify yourself." - Robert Greene
 ```
 <!--QUOTE:end-->
 
