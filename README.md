@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The best teacher is experience and not through someone's distorted point of view." - Jack Kerouac
+"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for." - Socrates
 ```
 <!--QUOTE:end-->
 
