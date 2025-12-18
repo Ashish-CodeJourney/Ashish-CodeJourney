@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never whine, never complain, never try to justify yourself." - Robert Greene
+"We need a backbone, not a wishbone." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
