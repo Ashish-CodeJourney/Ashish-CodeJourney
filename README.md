@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We need a backbone, not a wishbone." - Joyce Meyer
+"I am always doing that which I can not do, in order that I may learn how to do it." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
