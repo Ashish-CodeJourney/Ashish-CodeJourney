@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I am always doing that which I can not do, in order that I may learn how to do it." - Pablo Picasso
+"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound." - James Allen
 ```
 <!--QUOTE:end-->
 
