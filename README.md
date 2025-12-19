@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound." - James Allen
+"Absorb what is useful, discard what is useless and add what is specifically your own.  " - Bruce Lee
 ```
 <!--QUOTE:end-->
 
