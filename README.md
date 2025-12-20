@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Any game becomes important when you know and love the players." - W.P. Kinsella
+"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." - Richard Bach
 ```
 <!--QUOTE:end-->
 
