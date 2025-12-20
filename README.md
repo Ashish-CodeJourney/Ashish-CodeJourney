@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Absorb what is useful, discard what is useless and add what is specifically your own.  " - Bruce Lee
+"Any game becomes important when you know and love the players." - W.P. Kinsella
 ```
 <!--QUOTE:end-->
 
