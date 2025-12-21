@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Where we fall are the stepping-stones for our journey." - Lolly Daskal
+"A lot of people have gone further than they thought they could because someone else thought they could." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
