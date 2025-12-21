@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." - Richard Bach
+"Where we fall are the stepping-stones for our journey." - Lolly Daskal
 ```
 <!--QUOTE:end-->
 
