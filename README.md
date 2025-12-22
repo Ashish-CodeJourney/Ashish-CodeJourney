@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A lot of people have gone further than they thought they could because someone else thought they could." - Zig Ziglar
+"Embrace the life you have and stop wishing that you could be someone else." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
