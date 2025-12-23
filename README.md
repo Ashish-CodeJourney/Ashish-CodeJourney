@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is during our darkest moments that we must focus to see the light." - Aristotle
+"No need to hurry. No need to sparkle. No need to be anybody but oneself." - Virginia Woolf
 ```
 <!--QUOTE:end-->
 
