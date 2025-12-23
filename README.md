@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No need to hurry. No need to sparkle. No need to be anybody but oneself." - Virginia Woolf
+"Some of your greatest lessons come from your darkest moments." - Roger Lee
 ```
 <!--QUOTE:end-->
 
