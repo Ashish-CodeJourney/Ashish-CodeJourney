@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Setting goals is the first step in turning the invisible into the visible." - Tony Robbins
+"The only limits in our life are those we impose on ourselves." - Bob Proctor
 ```
 <!--QUOTE:end-->
 
