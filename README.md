@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Some of your greatest lessons come from your darkest moments." - Roger Lee
+"Setting goals is the first step in turning the invisible into the visible." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
