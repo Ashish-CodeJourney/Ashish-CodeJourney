@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only limits in our life are those we impose on ourselves." - Bob Proctor
+"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." - Elbert Hubbard
 ```
 <!--QUOTE:end-->
 
