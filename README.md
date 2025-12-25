@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." - Elbert Hubbard
+"Whenever you do a thing, act as if all the world were watching." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
