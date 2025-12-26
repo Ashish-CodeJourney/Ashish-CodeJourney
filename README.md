@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Whenever you do a thing, act as if all the world were watching." - Thomas Jefferson
+"A leader is one who knows the way, goes the way, and shows the way." - Unknown
 ```
 <!--QUOTE:end-->
 
