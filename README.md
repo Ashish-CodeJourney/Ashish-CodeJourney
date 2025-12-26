@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A leader is one who knows the way, goes the way, and shows the way." - Unknown
+"Thought is so cunning, so clever, that it distorts everything for its own convenience." - Jiddu Krishnamurti
 ```
 <!--QUOTE:end-->
 
