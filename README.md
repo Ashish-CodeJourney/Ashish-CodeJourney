@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you don't have time to do it right, when will you have time to do it over?" - John Wooden
+"Don't let the fear of losing be greater than the excitement of winning." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
