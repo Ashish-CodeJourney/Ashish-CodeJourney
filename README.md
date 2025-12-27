@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Thought is so cunning, so clever, that it distorts everything for its own convenience." - Jiddu Krishnamurti
+"If you don't have time to do it right, when will you have time to do it over?" - John Wooden
 ```
 <!--QUOTE:end-->
 
