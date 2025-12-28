@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't let the fear of losing be greater than the excitement of winning." - Robert Kiyosaki
+"Actions are the seeds of fate. Deeds grow into destiny." - Harry S. Truman
 ```
 <!--QUOTE:end-->
 
