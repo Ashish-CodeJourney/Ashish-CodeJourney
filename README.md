@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Actions are the seeds of fate. Deeds grow into destiny." - Harry S. Truman
+"Good things aren't supposed to just fall into your lap." - Audrey Hepburn
 ```
 <!--QUOTE:end-->
 
