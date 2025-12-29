@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Good things aren't supposed to just fall into your lap." - Audrey Hepburn
+"Nothing has more strength than dire necessity." - Euripides
 ```
 <!--QUOTE:end-->
 
