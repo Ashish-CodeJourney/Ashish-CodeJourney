@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing has more strength than dire necessity." - Euripides
+"Goodness is the only investment that never fails." - Henry David Thoreau
 ```
 <!--QUOTE:end-->
 
