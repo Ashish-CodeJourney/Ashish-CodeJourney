@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Goodness is the only investment that never fails." - Henry David Thoreau
+"Life is not meant to be easy my child, but take courage: it can be delightful." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
