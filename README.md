@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is not meant to be easy my child, but take courage: it can be delightful." - George Bernard Shaw
+"To be of use to the world is the only way to be happy." - Hans Christian Andersen
 ```
 <!--QUOTE:end-->
 
