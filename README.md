@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To be of use to the world is the only way to be happy." - Hans Christian Andersen
+"Failure is not fatal, but failure to change might be." - John Wooden
 ```
 <!--QUOTE:end-->
 
