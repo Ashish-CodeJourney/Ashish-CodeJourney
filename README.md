@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Failure is not fatal, but failure to change might be." - John Wooden
+"You can't climb the ladder of success with your hands in your pockets." - Arnold Schwarzenegger
 ```
 <!--QUOTE:end-->
 
