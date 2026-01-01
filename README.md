@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do not be so open-minded that your brains fall out." - Gilbert Chesterton
+"The Art of Peace begins with you." - Morihei Ueshiba
 ```
 <!--QUOTE:end-->
 
