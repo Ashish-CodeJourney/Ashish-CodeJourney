@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can't climb the ladder of success with your hands in your pockets." - Arnold Schwarzenegger
+"Do not be so open-minded that your brains fall out." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
