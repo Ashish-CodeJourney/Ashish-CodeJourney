@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The Art of Peace begins with you." - Morihei Ueshiba
+"Every moment is a fresh beginning." - T.S. Eliot
 ```
 <!--QUOTE:end-->
 
