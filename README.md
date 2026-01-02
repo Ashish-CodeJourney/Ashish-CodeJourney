@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Every moment is a fresh beginning." - T.S. Eliot
+"With the new day comes new strength and new thoughts." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
