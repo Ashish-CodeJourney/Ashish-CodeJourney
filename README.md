@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Failure is an option, fear is not." - James Cameron
+"Sometimes you have to shut your eyes, so you can see the real beauty." - Kilian Jornet
 ```
 <!--QUOTE:end-->
 
