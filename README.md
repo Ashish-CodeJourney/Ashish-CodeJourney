@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"With the new day comes new strength and new thoughts." - Eleanor Roosevelt
+"Failure is an option, fear is not." - James Cameron
 ```
 <!--QUOTE:end-->
 
