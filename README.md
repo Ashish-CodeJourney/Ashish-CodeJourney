@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy." - Norman Vincent Peale
+"If you cannot understand something, then you have understood it incorrectly." - Kabir
 ```
 <!--QUOTE:end-->
 
