@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Sometimes you have to shut your eyes, so you can see the real beauty." - Kilian Jornet
+"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
