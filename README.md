@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A fall into a ditch makes you wiser." - Chinese Proverb
+"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." - Amelia Earhart
 ```
 <!--QUOTE:end-->
 
