@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you cannot understand something, then you have understood it incorrectly." - Kabir
+"A fall into a ditch makes you wiser." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
