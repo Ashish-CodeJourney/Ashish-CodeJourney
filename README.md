@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everything has its beauty, but not everyone sees it. " - Confucius
+"All men are equal before fish." - Herbert Hoover
 ```
 <!--QUOTE:end-->
 
