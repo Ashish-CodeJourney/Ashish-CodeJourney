@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." - Amelia Earhart
+"Everything has its beauty, but not everyone sees it. " - Confucius
 ```
 <!--QUOTE:end-->
 
