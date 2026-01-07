@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The goal is not to show how great you are to others, but how vulnerable you are to yourself." - Maxime Lagace
+"Strive for excellence, not perfection, because we don't live in a perfect world." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
