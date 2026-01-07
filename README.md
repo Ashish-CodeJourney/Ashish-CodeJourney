@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"All men are equal before fish." - Herbert Hoover
+"The goal is not to show how great you are to others, but how vulnerable you are to yourself." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
