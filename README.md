@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Strive for excellence, not perfection, because we don't live in a perfect world." - Joyce Meyer
+"Words, once they are printed, have a life of their own." - Carol Burnett
 ```
 <!--QUOTE:end-->
 
