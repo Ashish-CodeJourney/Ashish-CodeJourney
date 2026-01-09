@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Progress is impossible without change, and those who cannot change their minds cannot change anything." - George Bernard Shaw
+"To lose your temper is only useful once a year." - Colin R. Davis
 ```
 <!--QUOTE:end-->
 
