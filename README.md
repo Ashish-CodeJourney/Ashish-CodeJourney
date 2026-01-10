@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To lose your temper is only useful once a year." - Colin R. Davis
+"Greatest success comes just one step beyond the point at which defeat overtakes you." - Unknown
 ```
 <!--QUOTE:end-->
 
