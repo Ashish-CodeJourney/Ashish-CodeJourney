@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Greatest success comes just one step beyond the point at which defeat overtakes you." - Unknown
+"The worst part of success is trying to find someone who is happy for you." - Bette Midler
 ```
 <!--QUOTE:end-->
 
