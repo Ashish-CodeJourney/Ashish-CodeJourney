@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only way to 'find out if it will work out' is to do it." - Simon Sinek
+"Some people feel the rain. Others just get wet. " - Bob Dylan
 ```
 <!--QUOTE:end-->
 
