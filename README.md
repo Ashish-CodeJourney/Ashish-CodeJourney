@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Some people feel the rain. Others just get wet. " - Bob Dylan
+"Every man gotta right to decide his own destiny." - Bob Marley
 ```
 <!--QUOTE:end-->
 
