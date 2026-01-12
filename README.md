@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Every man gotta right to decide his own destiny." - Bob Marley
+"You change the world by being yourself." - Yoko Ono
 ```
 <!--QUOTE:end-->
 
