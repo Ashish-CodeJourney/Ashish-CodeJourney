@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Show me a hero, and I'll write you a tragedy." - F. Scott Fitzgerald
+"Comedy = tragedy + time." - Carol Burnett
 ```
 <!--QUOTE:end-->
 
