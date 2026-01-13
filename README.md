@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You change the world by being yourself." - Yoko Ono
+"Show me a hero, and I'll write you a tragedy." - F. Scott Fitzgerald
 ```
 <!--QUOTE:end-->
 
