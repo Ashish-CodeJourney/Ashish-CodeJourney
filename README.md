@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Comedy = tragedy + time." - Carol Burnett
+"Never trust he who trusts everyone." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
