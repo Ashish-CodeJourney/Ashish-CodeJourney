@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never trust he who trusts everyone." - Carlos Ruiz Zafon
+"The first step is to establish that something is possible; then probability will occur." - Elon Musk
 ```
 <!--QUOTE:end-->
 
