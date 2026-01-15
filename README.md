@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can have the mind or you can have the moment." - Naval Ravikant
+"People spend too much time doing and not enough time thinking about what they should be doing." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
