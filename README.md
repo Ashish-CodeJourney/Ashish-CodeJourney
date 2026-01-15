@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The first step is to establish that something is possible; then probability will occur." - Elon Musk
+"You can have the mind or you can have the moment." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
