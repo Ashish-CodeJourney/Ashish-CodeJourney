@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"People spend too much time doing and not enough time thinking about what they should be doing." - Naval Ravikant
+"Not everything that weighs you down is yours to carry." - Unknown
 ```
 <!--QUOTE:end-->
 
