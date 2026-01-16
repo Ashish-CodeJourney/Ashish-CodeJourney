@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Not everything that weighs you down is yours to carry." - Unknown
+"The greatest gift that you can give to others is the gift of unconditional love and acceptance. " - Brian Tracy
 ```
 <!--QUOTE:end-->
 
