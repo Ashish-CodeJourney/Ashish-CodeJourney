@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You cannot change your destination overnight but you can change your direction overnight." - Jim Rohn
+"If you quit once it becomes a habit." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
