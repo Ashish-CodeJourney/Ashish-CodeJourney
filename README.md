@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The greatest gift that you can give to others is the gift of unconditional love and acceptance. " - Brian Tracy
+"You cannot change your destination overnight but you can change your direction overnight." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
