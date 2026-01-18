@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you quit once it becomes a habit." - Michael Jordan
+"Before preparing to improve the world, first look around your own home three times. " - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
