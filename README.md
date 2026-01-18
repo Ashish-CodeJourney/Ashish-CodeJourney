@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Before preparing to improve the world, first look around your own home three times. " - Chinese Proverb
+"None of us can change our yesterdays but all of us can change our tomorrows." - Colin Powell
 ```
 <!--QUOTE:end-->
 
