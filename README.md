@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Work harder on yourself than you do on your job." - Jim Rohn
+"A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
 ```
 <!--QUOTE:end-->
 
