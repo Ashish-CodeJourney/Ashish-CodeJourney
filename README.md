@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"None of us can change our yesterdays but all of us can change our tomorrows." - Colin Powell
+"Work harder on yourself than you do on your job." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
