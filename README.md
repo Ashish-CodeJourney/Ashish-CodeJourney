@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
+"Don't let the past steal your present." - Cherralea Morgen
 ```
 <!--QUOTE:end-->
 
