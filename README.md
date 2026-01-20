@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't let the past steal your present." - Cherralea Morgen
+"Self-control is strength." - James Allen
 ```
 <!--QUOTE:end-->
 
