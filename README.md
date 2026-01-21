@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey." - Roy T. Bennett
+"Always turn a negative situation into a positive situation." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
