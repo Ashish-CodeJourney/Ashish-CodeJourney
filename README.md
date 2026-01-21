@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Self-control is strength." - James Allen
+"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
