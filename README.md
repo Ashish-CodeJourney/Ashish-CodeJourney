@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"True friendship ought never to conceal what it thinks. " - St. Jerome
+"Chase your passion, not your pension. " - Denis Waitley
 ```
 <!--QUOTE:end-->
 
