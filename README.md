@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Always turn a negative situation into a positive situation." - Michael Jordan
+"True friendship ought never to conceal what it thinks. " - St. Jerome
 ```
 <!--QUOTE:end-->
 
