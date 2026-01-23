@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." - Alfred Adler
+"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
