@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Chase your passion, not your pension. " - Denis Waitley
+"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." - Alfred Adler
 ```
 <!--QUOTE:end-->
 
