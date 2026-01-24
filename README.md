@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." - Celestine Chua
+"Help others achieve their dreams and you will achieve yours." - Les Brown
 ```
 <!--QUOTE:end-->
 
