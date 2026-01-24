@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Help others achieve their dreams and you will achieve yours." - Les Brown
+"The greatest test of courage on earth is to bear defeat without losing heart." - Robert Greene
 ```
 <!--QUOTE:end-->
 
