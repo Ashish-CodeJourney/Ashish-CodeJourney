@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The greatest test of courage on earth is to bear defeat without losing heart." - Robert Greene
+"Until you change how you get things done, you'll never know what works best." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
