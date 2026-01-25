@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Until you change how you get things done, you'll never know what works best." - Roy T. Bennett
+"The healthiest response to life is joy." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
