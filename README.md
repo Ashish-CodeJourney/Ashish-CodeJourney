@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is no fear for one whose mind is not filled with desires." - Buddha
+"I am not what happened to me, I am what I choose to become." - Carl Jung
 ```
 <!--QUOTE:end-->
 
