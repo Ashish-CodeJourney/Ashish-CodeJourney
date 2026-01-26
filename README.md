@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The healthiest response to life is joy." - Deepak Chopra
+"There is no fear for one whose mind is not filled with desires." - Buddha
 ```
 <!--QUOTE:end-->
 
