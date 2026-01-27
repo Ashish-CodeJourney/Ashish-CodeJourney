@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I am not what happened to me, I am what I choose to become." - Carl Jung
+"Others can stop you temporarily - you are the only one who can do it permanently." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
