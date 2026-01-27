@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Others can stop you temporarily - you are the only one who can do it permanently." - Zig Ziglar
+"Where you are right now doesn't have to determine where you'll end up." - Barack Obama
 ```
 <!--QUOTE:end-->
 
