@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's not how much money you make, it's how much money you keep." - Robert Kiyosaki
+"Success is about doing the right thing, not about doing everything right." - Gary Keller
 ```
 <!--QUOTE:end-->
 
