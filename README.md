@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Where you are right now doesn't have to determine where you'll end up." - Barack Obama
+"It's not how much money you make, it's how much money you keep." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
