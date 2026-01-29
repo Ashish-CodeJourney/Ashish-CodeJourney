@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Success is about doing the right thing, not about doing everything right." - Gary Keller
+"No man is free who is not master of himself." - Epictetus
 ```
 <!--QUOTE:end-->
 
