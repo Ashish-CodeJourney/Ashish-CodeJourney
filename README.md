@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No man is free who is not master of himself." - Epictetus
+"Always try to be a little kinder than necessary." - James Matthew Barrie
 ```
 <!--QUOTE:end-->
 
