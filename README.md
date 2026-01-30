@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Always try to be a little kinder than necessary." - James Matthew Barrie
+"It isn't what you do, but how you do it." - John Wooden
 ```
 <!--QUOTE:end-->
 
