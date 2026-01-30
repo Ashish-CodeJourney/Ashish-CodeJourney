@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It isn't what you do, but how you do it." - John Wooden
+"You can have the mind or you can have the moment." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
