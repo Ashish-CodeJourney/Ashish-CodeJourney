@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can have the mind or you can have the moment." - Naval Ravikant
+"Whatever your mind can conceive and believe, it can achieve." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
