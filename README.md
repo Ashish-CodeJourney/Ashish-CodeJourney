@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Whatever your mind can conceive and believe, it can achieve." - Napoleon Hill
+"I'd rather welcome change than cling to the past." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
