@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If there were no God, there would be no atheists." - Gilbert Chesterton
+"Nothing is impossible. The word itself says 'I'm possible!'" - Audrey Hepburn
 ```
 <!--QUOTE:end-->
 
