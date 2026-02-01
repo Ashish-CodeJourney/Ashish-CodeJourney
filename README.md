@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I'd rather welcome change than cling to the past." - Robert Kiyosaki
+"If there were no God, there would be no atheists." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
