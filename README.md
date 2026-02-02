@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing is impossible. The word itself says 'I'm possible!'" - Audrey Hepburn
+"Every artist dips his brush in his own soul, and paints his own nature into his pictures." - Henry Ward Beecher
 ```
 <!--QUOTE:end-->
 
