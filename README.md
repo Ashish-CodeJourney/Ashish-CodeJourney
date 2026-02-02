@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Every artist dips his brush in his own soul, and paints his own nature into his pictures." - Henry Ward Beecher
+"Failure is an option here. If things are not failing, you are not innovating enough." - Elon Musk
 ```
 <!--QUOTE:end-->
 
