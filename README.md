@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Failure is an option here. If things are not failing, you are not innovating enough." - Elon Musk
+"We must create our own world or we will die from inaction." - Robert Greene
 ```
 <!--QUOTE:end-->
 
