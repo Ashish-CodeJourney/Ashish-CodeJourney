@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We must create our own world or we will die from inaction." - Robert Greene
+"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way." - Alan Watts
 ```
 <!--QUOTE:end-->
 
