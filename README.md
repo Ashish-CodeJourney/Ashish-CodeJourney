@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A Rolling Stone Gathers No Moss." - Publilius Syrus
+"All human beings can alter their lives by altering their attitudes." - Andrew Carnegie
 ```
 <!--QUOTE:end-->
 
