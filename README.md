@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"All human beings can alter their lives by altering their attitudes." - Andrew Carnegie
+"Give a girl the right shoes, and she can conquer the world." - Bette Midler
 ```
 <!--QUOTE:end-->
 
