@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Give a girl the right shoes, and she can conquer the world." - Bette Midler
+"All wealth is the product of labor." - John Locke
 ```
 <!--QUOTE:end-->
 
