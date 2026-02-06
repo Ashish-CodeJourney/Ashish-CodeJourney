@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"All wealth is the product of labor." - John Locke
+"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
