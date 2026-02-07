@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is peace even in the storm." - Vincent van Gogh
+"Much learning does not teach understanding." - Heraclitus
 ```
 <!--QUOTE:end-->
 
