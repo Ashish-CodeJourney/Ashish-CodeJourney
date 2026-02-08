@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer." - Morihei Ueshiba
+"Numbing the pain for a while will make it worse when you finally feel it." - Albus Dumbledore
 ```
 <!--QUOTE:end-->
 
