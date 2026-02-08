@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Much learning does not teach understanding." - Heraclitus
+"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer." - Morihei Ueshiba
 ```
 <!--QUOTE:end-->
 
