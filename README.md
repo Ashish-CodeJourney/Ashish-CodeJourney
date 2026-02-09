@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Numbing the pain for a while will make it worse when you finally feel it." - Albus Dumbledore
+"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you." - Sonia Ricotti
 ```
 <!--QUOTE:end-->
 
