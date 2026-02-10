@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Without the confidence, nothing can be accomplished." - Sathya Sai Baba
+"To arrive at the simplest truth requires years of contemplation." - Isaac Newton
 ```
 <!--QUOTE:end-->
 
