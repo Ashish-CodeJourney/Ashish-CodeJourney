@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To arrive at the simplest truth requires years of contemplation." - Isaac Newton
+"Fallacies do not cease to be fallacies because they become fashions." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
