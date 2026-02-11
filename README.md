@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Fallacies do not cease to be fallacies because they become fashions." - Gilbert Chesterton
+"If there is a book that you want to read, but it hasn't been written yet, then you must write it." - Toni Morrison
 ```
 <!--QUOTE:end-->
 
