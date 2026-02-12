@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If there is a book that you want to read, but it hasn't been written yet, then you must write it." - Toni Morrison
+"There is nothing in the world so irresistibly contagious as laughter and good humor." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
