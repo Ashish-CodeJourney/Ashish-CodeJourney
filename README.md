@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There is nothing in the world so irresistibly contagious as laughter and good humor." - Charles Dickens
+"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi
 ```
 <!--QUOTE:end-->
 
