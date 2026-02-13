@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Sometimes letting things go is an act of far greater power than defending or hanging on." - Eckhart Tolle
+"The biggest room in the world is the room for improvement." - Unknown
 ```
 <!--QUOTE:end-->
 
