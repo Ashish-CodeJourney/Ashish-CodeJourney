@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi
+"Sometimes letting things go is an act of far greater power than defending or hanging on." - Eckhart Tolle
 ```
 <!--QUOTE:end-->
 
