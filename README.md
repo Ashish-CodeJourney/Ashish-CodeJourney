@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The biggest room in the world is the room for improvement." - Unknown
+"Life is a question and how we live it is our answer." - Gary Keller
 ```
 <!--QUOTE:end-->
 
