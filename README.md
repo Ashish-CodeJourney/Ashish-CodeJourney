@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Life is a question and how we live it is our answer." - Gary Keller
+"We are all born ignorant, but one must work hard to remain stupid." - Benjamin Franklin
 ```
 <!--QUOTE:end-->
 
