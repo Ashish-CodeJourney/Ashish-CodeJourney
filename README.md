@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " - Nikola Tesla
+"I do not seek. I find." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
