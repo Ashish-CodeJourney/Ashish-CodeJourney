@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We are all born ignorant, but one must work hard to remain stupid." - Benjamin Franklin
+"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " - Nikola Tesla
 ```
 <!--QUOTE:end-->
 
