@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I do not seek. I find." - Pablo Picasso
+"You have the ability, now apply yourself." - Benjamin Mays
 ```
 <!--QUOTE:end-->
 
