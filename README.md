@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You have the ability, now apply yourself." - Benjamin Mays
+"The greatest doer must also be a great dreamer." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
