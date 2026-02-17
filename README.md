@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No one is useless in this world who lightens the burdens of another." - Charles Dickens
+"Wisdom is doing now what you are going to be happy with later on." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
