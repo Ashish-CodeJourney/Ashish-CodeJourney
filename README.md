@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The greatest doer must also be a great dreamer." - Theodore Roosevelt
+"No one is useless in this world who lightens the burdens of another." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
