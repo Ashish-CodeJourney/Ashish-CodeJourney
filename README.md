@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Wisdom is doing now what you are going to be happy with later on." - Joyce Meyer
+"Every blessing ignored becomes a curse." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
