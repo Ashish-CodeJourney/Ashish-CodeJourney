@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Every blessing ignored becomes a curse." - Paulo Coelho
+"The farther backward you can look, the farther forward you are likely to see." - Winston Churchill
 ```
 <!--QUOTE:end-->
 
