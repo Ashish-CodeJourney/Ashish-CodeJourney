@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The farther backward you can look, the farther forward you are likely to see." - Winston Churchill
+"Not how long, but how well you have lived is the main thing." - Seneca
 ```
 <!--QUOTE:end-->
 
