@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." - Carl Jung
+"You may delay, but time will not." - Benjamin Franklin
 ```
 <!--QUOTE:end-->
 
