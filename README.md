@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You may delay, but time will not." - Benjamin Franklin
+"Don't spend time beating on a wall, hoping to transform it into a door." - Coco Chanel
 ```
 <!--QUOTE:end-->
 
