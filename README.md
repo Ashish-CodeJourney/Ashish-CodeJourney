@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only thing we have to fear is fear itself." - Franklin D. Roosevelt
+"A strong man overcomes an obstacle, a wise man goes the whole way." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
