@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't spend time beating on a wall, hoping to transform it into a door." - Coco Chanel
+"The only thing we have to fear is fear itself." - Franklin D. Roosevelt
 ```
 <!--QUOTE:end-->
 
