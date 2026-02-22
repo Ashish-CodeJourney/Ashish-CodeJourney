@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A strong man overcomes an obstacle, a wise man goes the whole way." - Zen Proverb
+"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." - Pema Chodron
 ```
 <!--QUOTE:end-->
 
