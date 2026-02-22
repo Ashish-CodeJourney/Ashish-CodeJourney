@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." - Pema Chodron
+"The key to immortality is first living a life worth remembering. " - Bruce Lee
 ```
 <!--QUOTE:end-->
 
