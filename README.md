@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Character is the result of two things: mental attitude and the way we spend our time." - Elbert Hubbard
+"The Art of Peace begins with you." - Morihei Ueshiba
 ```
 <!--QUOTE:end-->
 
