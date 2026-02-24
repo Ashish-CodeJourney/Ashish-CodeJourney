@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The Art of Peace begins with you." - Morihei Ueshiba
+"Think and wonder, wonder and think." - Dr. Seuss
 ```
 <!--QUOTE:end-->
 
