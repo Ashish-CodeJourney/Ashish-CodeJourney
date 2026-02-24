@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Think and wonder, wonder and think." - Dr. Seuss
+"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." - Elbert Hubbard
 ```
 <!--QUOTE:end-->
 
