@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The clock indicates the moment...but what does eternity indicate?" - Walt Whitman
+"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
