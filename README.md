@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." - Elbert Hubbard
+"The clock indicates the moment...but what does eternity indicate?" - Walt Whitman
 ```
 <!--QUOTE:end-->
 
