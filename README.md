@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Never lose hope. Storms make people stronger and never last forever." - Roy T. Bennett
+"The important thing is not what one is born with but what use one makes of that equipment." - Alfred Adler
 ```
 <!--QUOTE:end-->
 
