@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities." - Charles Dickens
+"Never lose hope. Storms make people stronger and never last forever." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
