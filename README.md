@@ -38,14 +38,22 @@
 
 ## 🎯 Current Focus
 
-```javascript
-const ashish = {
-    currentlyWorking at Nelkinda Software Craft,
-    learning: ["Spring Boot", "MongoDB"],
-    passionateAbout: ["Clean Code", "TDD", "Software Craftsmanship"],
-    askMeAbout: ["Linux", "Java", "Kotlin", "JavaScript", "Python"],
-    challenge: "Mastering the art of writing maintainable code"
-};
+```kotlin
+data class Developer(
+    val currentlyWorkingAt: String,
+    val learning: List<String>,
+    val passionateAbout: List<String>,
+    val askMeAbout: List<String>,
+    val challenge: String
+)
+
+val ashish = Developer(
+    currentlyWorkingAt = "Nelkinda Software Craft",
+    learning = listOf("Spring Boot", "MongoDB"),
+    passionateAbout = listOf("Clean Code", "TDD", "Software Craftsmanship"),
+    askMeAbout = listOf("Linux", "Java", "Kotlin", "JavaScript", "Python"),
+    challenge = "Mastering the art of writing maintainable code"
+)
 ```
 
 ## 🛠️ Tech Arsenal
