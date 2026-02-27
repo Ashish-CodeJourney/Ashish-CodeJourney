@@ -140,7 +140,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The important thing is not what one is born with but what use one makes of that equipment." - Alfred Adler
+"When it comes to mastering a skill, time is the magic ingredient." - Robert Greene
 ```
 <!--QUOTE:end-->
 
