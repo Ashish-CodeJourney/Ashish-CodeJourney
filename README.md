@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When it comes to mastering a skill, time is the magic ingredient." - Robert Greene
+"Some people want it to happen, some wish it would happen, others make it happen." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
