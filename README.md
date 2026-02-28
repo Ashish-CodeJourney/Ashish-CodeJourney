@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Some people want it to happen, some wish it would happen, others make it happen." - Michael Jordan
+"If you change the way you look at things, the things you look at change. " - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
