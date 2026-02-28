@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you change the way you look at things, the things you look at change. " - Wayne Dyer
+"What the caterpillar calls the end of the world, the master calls a butterfly." - Richard Bach
 ```
 <!--QUOTE:end-->
 
