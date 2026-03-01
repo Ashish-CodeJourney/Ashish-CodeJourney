@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What the caterpillar calls the end of the world, the master calls a butterfly." - Richard Bach
+"You are what you believe in. You become that which you believe you can become." - Bhagavad Gita
 ```
 <!--QUOTE:end-->
 
