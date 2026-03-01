@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You are what you believe in. You become that which you believe you can become." - Bhagavad Gita
+"Knowing your own darkness is the best method for dealing with the darknesses of other people." - Carl Jung
 ```
 <!--QUOTE:end-->
 
