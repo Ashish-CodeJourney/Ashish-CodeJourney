@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Knowing your own darkness is the best method for dealing with the darknesses of other people." - Carl Jung
+"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
