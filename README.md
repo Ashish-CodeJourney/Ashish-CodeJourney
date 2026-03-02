@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." - Maxime Lagace
+"To travel is to be alive, but to get somewhere is to be dead." - Alan Watts
 ```
 <!--QUOTE:end-->
 
