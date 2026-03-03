@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"To travel is to be alive, but to get somewhere is to be dead." - Alan Watts
+"Not why the addiction but why the pain." - Gabor Mate
 ```
 <!--QUOTE:end-->
 
