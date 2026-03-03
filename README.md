@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Not why the addiction but why the pain." - Gabor Mate
+"You can put lipstick on a pig. It's still a pig." - Barack Obama
 ```
 <!--QUOTE:end-->
 
