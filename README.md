@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The destiny of man is in his own soul. " - Herodotus
+"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
