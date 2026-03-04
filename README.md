@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can put lipstick on a pig. It's still a pig." - Barack Obama
+"The destiny of man is in his own soul. " - Herodotus
 ```
 <!--QUOTE:end-->
 
