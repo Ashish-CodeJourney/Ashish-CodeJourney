@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future." - Deepak Chopra
+"What keeps life fascinating is the constant creativity of the soul." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
