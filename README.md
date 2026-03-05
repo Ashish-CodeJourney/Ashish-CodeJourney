@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"What keeps life fascinating is the constant creativity of the soul." - Deepak Chopra
+"Forget safety. Live where you fear to live." - Rumi
 ```
 <!--QUOTE:end-->
 
