@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Forget safety. Live where you fear to live." - Rumi
+"Nothing ever goes away until it has taught us what we need to know." - Pema Chodron
 ```
 <!--QUOTE:end-->
 
