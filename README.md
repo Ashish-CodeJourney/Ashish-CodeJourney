@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Nothing ever goes away until it has taught us what we need to know." - Pema Chodron
+"You can't wait for inspiration. You have to go after it with a club. " - Jack London
 ```
 <!--QUOTE:end-->
 
