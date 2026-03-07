@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You can't wait for inspiration. You have to go after it with a club. " - Jack London
+"No man can get rich himself unless he enriches others." - Earl Nightingale
 ```
 <!--QUOTE:end-->
 
