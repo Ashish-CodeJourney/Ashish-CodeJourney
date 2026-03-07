@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No man can get rich himself unless he enriches others." - Earl Nightingale
+"Enthusiasm is a vital element toward the individual success of every man or woman." - Conrad Hilton
 ```
 <!--QUOTE:end-->
 
