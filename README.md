@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Children are our greatest natural resource." - Herbert Hoover
+"It's your life-but only if you make it so." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
