@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Enthusiasm is a vital element toward the individual success of every man or woman." - Conrad Hilton
+"Children are our greatest natural resource." - Herbert Hoover
 ```
 <!--QUOTE:end-->
 
