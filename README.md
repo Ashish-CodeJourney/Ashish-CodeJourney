@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy." - Elon Musk
+"The biggest adventure is what lies ahead." - J.R.R. Tolkien
 ```
 <!--QUOTE:end-->
 
