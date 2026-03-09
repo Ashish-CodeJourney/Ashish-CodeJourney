@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's your life-but only if you make it so." - Eleanor Roosevelt
+"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy." - Elon Musk
 ```
 <!--QUOTE:end-->
 
