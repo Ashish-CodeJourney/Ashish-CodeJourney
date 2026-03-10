@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The biggest adventure is what lies ahead." - J.R.R. Tolkien
+"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
