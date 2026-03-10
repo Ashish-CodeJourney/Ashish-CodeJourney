@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism." - Norman Vincent Peale
+"The goal of an artist is to create the definitive work that cannot be surpassed." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
