@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"One mistake does not have to rule a person's entire life." - Joyce Meyer
+"It is in your moments of decision that your destiny is shaped." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
