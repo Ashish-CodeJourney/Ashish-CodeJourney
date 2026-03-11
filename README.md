@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The goal of an artist is to create the definitive work that cannot be surpassed." - George Bernard Shaw
+"One mistake does not have to rule a person's entire life." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
