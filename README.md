@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A crisis is an opportunity riding the dangerous wind." - Chinese Proverb
+"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
