@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It is in your moments of decision that your destiny is shaped." - Tony Robbins
+"A crisis is an opportunity riding the dangerous wind." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
