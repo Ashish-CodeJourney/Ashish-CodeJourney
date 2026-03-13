@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." - Roy T. Bennett
+"The only place where success comes before work is in the dictionary." - Vidal Sassoon
 ```
 <!--QUOTE:end-->
 
