@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." - Robert Kiyosaki
+"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
