@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The source of a true smile is an awakened mind." - Thich Nhat Hanh
+"The more you praise and celebrate your life, the more there is in life to celebrate. " - Oprah Winfrey
 ```
 <!--QUOTE:end-->
 
