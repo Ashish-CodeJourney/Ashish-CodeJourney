@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The only place where success comes before work is in the dictionary." - Vidal Sassoon
+"The source of a true smile is an awakened mind." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
