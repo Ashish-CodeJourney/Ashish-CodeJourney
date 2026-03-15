@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The more you praise and celebrate your life, the more there is in life to celebrate. " - Oprah Winfrey
+"Don't cry because it's over. Smile because it happened." - Dr. Seuss
 ```
 <!--QUOTE:end-->
 
