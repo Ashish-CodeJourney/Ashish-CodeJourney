@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Don't cry because it's over. Smile because it happened." - Dr. Seuss
+"Be yourself; everyone else is already taken " - Oscar Wilde
 ```
 <!--QUOTE:end-->
 
