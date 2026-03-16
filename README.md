@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Learn from the rejection and turn it into an opportunity!" - Mary Engelbreit
+"I want the fishing rod, not the fish." - Yanni
 ```
 <!--QUOTE:end-->
 
