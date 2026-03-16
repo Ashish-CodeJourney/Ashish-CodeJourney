@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be yourself; everyone else is already taken " - Oscar Wilde
+"Learn from the rejection and turn it into an opportunity!" - Mary Engelbreit
 ```
 <!--QUOTE:end-->
 
