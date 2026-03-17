@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If it's not broken, tinker with it till you find out how it works." - Bob Proctor
+"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
