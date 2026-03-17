@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I want the fishing rod, not the fish." - Yanni
+"If it's not broken, tinker with it till you find out how it works." - Bob Proctor
 ```
 <!--QUOTE:end-->
 
