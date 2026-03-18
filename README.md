@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"When you are able to employ your will always for constructive purposes, you become the controller of your destiny." - Paramahansa Yogananda
+"If you want to see things just as they are, then you yourself must practice just as you are." - Dogen
 ```
 <!--QUOTE:end-->
 
