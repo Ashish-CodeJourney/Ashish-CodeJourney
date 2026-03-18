@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes." - Charles Dickens
+"When you are able to employ your will always for constructive purposes, you become the controller of your destiny." - Paramahansa Yogananda
 ```
 <!--QUOTE:end-->
 
