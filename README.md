@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings." - Henry Ward Beecher
+"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
