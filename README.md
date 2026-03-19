@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you want to see things just as they are, then you yourself must practice just as you are." - Dogen
+"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings." - Henry Ward Beecher
 ```
 <!--QUOTE:end-->
 
