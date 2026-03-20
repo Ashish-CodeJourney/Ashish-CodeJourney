@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Be royal in your own fashion: act like a king to be treated like one." - Robert Greene
+"Everything will be ok in the end. If it's not ok, it's not the end." - John Lennon
 ```
 <!--QUOTE:end-->
 
