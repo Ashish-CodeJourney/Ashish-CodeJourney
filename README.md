@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We live only now. Everything else is either passed or is unknown." - Marcus Aurelius
+"Darkness is the absence of light." - Kamal Ravikant
 ```
 <!--QUOTE:end-->
 
