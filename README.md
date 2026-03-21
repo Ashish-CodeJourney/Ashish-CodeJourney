@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Everything will be ok in the end. If it's not ok, it's not the end." - John Lennon
+"We live only now. Everything else is either passed or is unknown." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
