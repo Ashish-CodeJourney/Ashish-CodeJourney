@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A good teacher opens the door for you, but you must enter the room by yourself." - Zen Proverb
+"I believe that potential is unlimited - success depends on daring to act on dreams.   " - Estee Lauder
 ```
 <!--QUOTE:end-->
 
