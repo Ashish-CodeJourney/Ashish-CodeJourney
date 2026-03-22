@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Darkness is the absence of light." - Kamal Ravikant
+"A good teacher opens the door for you, but you must enter the room by yourself." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
