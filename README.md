@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"I believe that potential is unlimited - success depends on daring to act on dreams.   " - Estee Lauder
+"There are no shortcuts to any place worth going. " - Beverly Sills
 ```
 <!--QUOTE:end-->
 
