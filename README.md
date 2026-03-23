@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"There are no shortcuts to any place worth going. " - Beverly Sills
+"One loses many laughs by not laughing at oneself." - Mary Engelbreit
 ```
 <!--QUOTE:end-->
 
