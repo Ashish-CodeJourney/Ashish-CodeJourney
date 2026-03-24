@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present." - Lao Tzu
+"Conquer the devils with a little thing called love." - Bob Marley
 ```
 <!--QUOTE:end-->
 
