@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Conquer the devils with a little thing called love." - Bob Marley
+"It will never rain roses: when we want to have more roses, we must plant more roses." - George Eliot
 ```
 <!--QUOTE:end-->
 
