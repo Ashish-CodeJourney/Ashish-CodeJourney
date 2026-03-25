@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"It will never rain roses: when we want to have more roses, we must plant more roses." - George Eliot
+"You only live once, but if you do it right, once is enough." - Mae West
 ```
 <!--QUOTE:end-->
 
