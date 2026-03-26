@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Others can stop you temporarily - you are the only one who can do it permanently." - Zig Ziglar
+"No man is free who is not master of himself." - Epictetus
 ```
 <!--QUOTE:end-->
 
