@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"You only live once, but if you do it right, once is enough." - Mae West
+"Others can stop you temporarily - you are the only one who can do it permanently." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
