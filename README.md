@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"We learn to walk by falling down. If we never fell down, we would never walk." - Robert Kiyosaki
+"Anyone who wants to achieve a dream must stay strong, focused and steady." - Estee Lauder
 ```
 <!--QUOTE:end-->
 
