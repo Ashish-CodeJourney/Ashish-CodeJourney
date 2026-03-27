@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"No man is free who is not master of himself." - Epictetus
+"We learn to walk by falling down. If we never fell down, we would never walk." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
