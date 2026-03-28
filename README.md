@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Only the educated are free." - Epictetus
+"If you want more luck, take more chances." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
