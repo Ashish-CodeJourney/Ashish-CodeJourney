@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"Anyone who wants to achieve a dream must stay strong, focused and steady." - Estee Lauder
+"Only the educated are free." - Epictetus
 ```
 <!--QUOTE:end-->
 
