@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you want more luck, take more chances." - Brian Tracy
+"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
