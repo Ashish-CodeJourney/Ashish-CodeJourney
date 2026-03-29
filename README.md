@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." - Robert Kiyosaki
+"A fall into a ditch makes you wiser." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
