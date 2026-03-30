@@ -148,7 +148,7 @@ def ashish_facts():
     
 <!--QUOTE:start-->
 ```javascript
-"A fall into a ditch makes you wiser." - Chinese Proverb
+"The wise learn many things from their enemies." - Aristophanes
 ```
 <!--QUOTE:end-->
 
