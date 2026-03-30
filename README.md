@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The wise learn many things from their enemies." - Aristophanes
+"Where the willingness is great, the difficulties cannot be great." - Niccolo Machiavelli
 ```
 <!--QUOTE:end-->
 
