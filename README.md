@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"20 percent of your activities will account for 80 percent of your results." - Brian Tracy
+"If there were no God, there would be no atheists." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
