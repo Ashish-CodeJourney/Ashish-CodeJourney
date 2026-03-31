@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Where the willingness is great, the difficulties cannot be great." - Niccolo Machiavelli
+"20 percent of your activities will account for 80 percent of your results." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
