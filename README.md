@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If there were no God, there would be no atheists." - Gilbert Chesterton
+"Only those who do nothing at all make no mistakes." - Unknown
 ```
 <!--QUOTE:end-->
 
