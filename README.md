@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Only those who do nothing at all make no mistakes." - Unknown
+"Listen to what you know instead of what you fear." - Richard Bach
 ```
 <!--QUOTE:end-->
 
