@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Courage is not having the strength to go on; it is going on when you don't have the strength." - Theodore Roosevelt
+"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
