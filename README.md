@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"A zen master's life is one continuous mistake." - Dogen
+"Definitions belong to the definers, not the defined." - Toni Morrison
 ```
 <!--QUOTE:end-->
 
