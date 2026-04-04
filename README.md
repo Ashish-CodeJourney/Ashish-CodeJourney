@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The only defense against the world is a thorough knowledge of it." - John Locke
+"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
