@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Definitions belong to the definers, not the defined." - Toni Morrison
+"The only defense against the world is a thorough knowledge of it." - John Locke
 ```
 <!--QUOTE:end-->
 
