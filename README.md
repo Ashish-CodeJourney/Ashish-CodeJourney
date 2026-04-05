@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you build the guts to do something, anything, then you better save enough to face the consequences." - Criss Jami
+"Through selfless service, you will always be fruitful and find the fulfillment of your desires." - Bhagavad Gita
 ```
 <!--QUOTE:end-->
 
