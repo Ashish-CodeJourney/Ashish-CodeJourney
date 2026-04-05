@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to." - Carlos Ruiz Zafon
+"If you build the guts to do something, anything, then you better save enough to face the consequences." - Criss Jami
 ```
 <!--QUOTE:end-->
 
