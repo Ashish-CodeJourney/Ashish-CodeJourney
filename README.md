@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"All has not been said and never will be." - Samuel Beckett
+"Not why the addiction but why the pain." - Gabor Mate
 ```
 <!--QUOTE:end-->
 
