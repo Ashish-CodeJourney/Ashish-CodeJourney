@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Through selfless service, you will always be fruitful and find the fulfillment of your desires." - Bhagavad Gita
+"All has not been said and never will be." - Samuel Beckett
 ```
 <!--QUOTE:end-->
 
