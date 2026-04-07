@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Not why the addiction but why the pain." - Gabor Mate
+"Leaders think and talk about solutions. Followers think and talk about the problems." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
