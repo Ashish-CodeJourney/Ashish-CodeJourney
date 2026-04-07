@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Leaders think and talk about solutions. Followers think and talk about the problems." - Brian Tracy
+"As you think, so shall you become. " - Bruce Lee
 ```
 <!--QUOTE:end-->
 
