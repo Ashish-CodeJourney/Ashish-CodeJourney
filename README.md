@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"As you think, so shall you become. " - Bruce Lee
+"I admire those who do good and expect nothing in return." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
