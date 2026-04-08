@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I admire those who do good and expect nothing in return." - Roy T. Bennett
+"Fear can hold you prisoner. Hope can set you free." - Stephen King
 ```
 <!--QUOTE:end-->
 
