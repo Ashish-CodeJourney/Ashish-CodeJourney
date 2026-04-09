@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You are never too old to set another goal or to dream a new dream." - Les Brown
+"The less you open your heart to others, the more your heart suffers." - Deepak Chopra
 ```
 <!--QUOTE:end-->
 
