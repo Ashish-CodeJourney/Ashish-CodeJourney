@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Fear can hold you prisoner. Hope can set you free." - Stephen King
+"You are never too old to set another goal or to dream a new dream." - Les Brown
 ```
 <!--QUOTE:end-->
 
