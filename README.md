@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The less you open your heart to others, the more your heart suffers." - Deepak Chopra
+"Nothing is too high for a man to reach, but he must climb with care and confidence" - Hans Christian Andersen
 ```
 <!--QUOTE:end-->
 
