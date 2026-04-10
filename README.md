@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Nothing is too high for a man to reach, but he must climb with care and confidence" - Hans Christian Andersen
+"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." - Herbert Hoover
 ```
 <!--QUOTE:end-->
 
