@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." - Herbert Hoover
+"It still holds true that man is most uniquely human when he turns obstacles into opportunities." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
