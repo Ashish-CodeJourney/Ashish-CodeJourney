@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It still holds true that man is most uniquely human when he turns obstacles into opportunities." - Eric Hoffer
+"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail." - Arnold Schwarzenegger
 ```
 <!--QUOTE:end-->
 
