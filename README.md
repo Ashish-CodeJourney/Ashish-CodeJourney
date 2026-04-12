@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail." - Arnold Schwarzenegger
+"The chief enemy of creativity is good sense." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
