@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The chief enemy of creativity is good sense." - Pablo Picasso
+"If I have seen further than others, it is by standing upon the shoulders of giants." - Isaac Newton
 ```
 <!--QUOTE:end-->
 
