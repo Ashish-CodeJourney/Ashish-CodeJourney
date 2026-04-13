@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Respect was invented to cover the empty place where love should be." - Leo Tolstoy
+"Victims recite problems, leaders provide solutions." - Robin Sharma
 ```
 <!--QUOTE:end-->
 
