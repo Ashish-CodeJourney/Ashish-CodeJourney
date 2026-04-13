@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If I have seen further than others, it is by standing upon the shoulders of giants." - Isaac Newton
+"Respect was invented to cover the empty place where love should be." - Leo Tolstoy
 ```
 <!--QUOTE:end-->
 
