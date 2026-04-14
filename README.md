@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Victims recite problems, leaders provide solutions." - Robin Sharma
+"The least deviation from truth will be multiplied later." - Aristotle
 ```
 <!--QUOTE:end-->
 
