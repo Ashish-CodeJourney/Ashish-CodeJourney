@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The least deviation from truth will be multiplied later." - Aristotle
+"Go as far as you can see and you will see further.  " - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
