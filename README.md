@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want." - Tony Robbins
+"The only real mistake is the one from which we learn nothing. " - Henry Ford
 ```
 <!--QUOTE:end-->
 
