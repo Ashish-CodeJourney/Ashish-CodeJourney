@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Better a diamond with a flaw than a pebble without one." - Chinese Proverb
+"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
