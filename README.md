@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You don't need a weatherman to know which way the wind blows." - Bob Dylan
+"People spend too much time doing and not enough time thinking about what they should be doing." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
