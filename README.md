@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The only real mistake is the one from which we learn nothing. " - Henry Ford
+"You don't need a weatherman to know which way the wind blows." - Bob Dylan
 ```
 <!--QUOTE:end-->
 
