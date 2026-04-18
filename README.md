@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The highest form of ignorance is when you reject something you don't know anything about. " - Wayne Dyer
+"The wisest men follow their own direction." - Euripides
 ```
 <!--QUOTE:end-->
 
