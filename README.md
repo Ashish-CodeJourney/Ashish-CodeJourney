@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"People spend too much time doing and not enough time thinking about what they should be doing." - Naval Ravikant
+"The highest form of ignorance is when you reject something you don't know anything about. " - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
