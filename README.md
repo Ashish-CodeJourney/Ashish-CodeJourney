@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"To be great is to be misunderstood." - Ralph Waldo Emerson
+"Every second you have on this planet is very precious and it's your responsibility that you're happy." - Naval Ravikant
 ```
 <!--QUOTE:end-->
 
