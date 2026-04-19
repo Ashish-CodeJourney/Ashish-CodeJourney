@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The wisest men follow their own direction." - Euripides
+"To be great is to be misunderstood." - Ralph Waldo Emerson
 ```
 <!--QUOTE:end-->
 
