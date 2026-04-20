@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Every second you have on this planet is very precious and it's your responsibility that you're happy." - Naval Ravikant
+"If light is in your heart, you will find your way home.  " - Rumi
 ```
 <!--QUOTE:end-->
 
