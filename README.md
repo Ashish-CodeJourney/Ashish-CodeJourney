@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If light is in your heart, you will find your way home.  " - Rumi
+"Faults are yours to fix, not to curse." - Colin Powell
 ```
 <!--QUOTE:end-->
 
