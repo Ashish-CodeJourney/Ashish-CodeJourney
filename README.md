@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Faults are yours to fix, not to curse." - Colin Powell
+"No man is happy who does not think himself so." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
