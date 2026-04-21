@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No man is happy who does not think himself so." - Norman Vincent Peale
+"It is in your moments of decision that your destiny is shaped." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
