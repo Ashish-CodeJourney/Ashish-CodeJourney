@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is in your moments of decision that your destiny is shaped." - Tony Robbins
+"Life begins where fear ends." - Osho
 ```
 <!--QUOTE:end-->
 
