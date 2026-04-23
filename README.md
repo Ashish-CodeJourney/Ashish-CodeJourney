@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson
+"Here and now...breathe and relax...in battle and in life." - Dan Millman
 ```
 <!--QUOTE:end-->
 
