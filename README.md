@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Here and now...breathe and relax...in battle and in life." - Dan Millman
+"You can easily judge the character of a man by how he treats those who can do nothing for him." - Johann Wolfgang von Goethe
 ```
 <!--QUOTE:end-->
 
