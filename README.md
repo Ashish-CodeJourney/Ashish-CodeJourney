@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You can easily judge the character of a man by how he treats those who can do nothing for him." - Johann Wolfgang von Goethe
+"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now." - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
