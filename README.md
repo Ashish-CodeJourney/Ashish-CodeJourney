@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now." - Spencer Johnson
+"He who fails to plan, plans to fail." - Unknown
 ```
 <!--QUOTE:end-->
 
