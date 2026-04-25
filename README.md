@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Decide whether or not the goal is worth the risks involved. If it is, stop worrying." - Amelia Earhart
+"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." - Steve Harvey
 ```
 <!--QUOTE:end-->
 
