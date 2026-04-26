@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." - Steve Harvey
+"Be thankful for everything that happens in your life; it's all an experience." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
