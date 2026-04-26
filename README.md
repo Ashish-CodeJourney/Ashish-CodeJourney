@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be thankful for everything that happens in your life; it's all an experience." - Roy T. Bennett
+"Write to help yourself, publish to help others." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
