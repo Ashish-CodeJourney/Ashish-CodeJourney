@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Write to help yourself, publish to help others." - Jack Butcher
+"Being in a good frame of mind helps keep one in the picture of health." - Unknown
 ```
 <!--QUOTE:end-->
 
