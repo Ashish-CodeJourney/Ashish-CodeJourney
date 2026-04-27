@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Being in a good frame of mind helps keep one in the picture of health." - Unknown
+"The Art of Peace begins with you." - Morihei Ueshiba
 ```
 <!--QUOTE:end-->
 
