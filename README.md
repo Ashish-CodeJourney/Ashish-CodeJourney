@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Words are the clothes thoughts wear." - Samuel Beckett
+"Today will never happen again. Don't waste it with a false start or no start at all." - Og Mandino
 ```
 <!--QUOTE:end-->
 
