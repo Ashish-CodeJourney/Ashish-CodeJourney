@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The Art of Peace begins with you." - Morihei Ueshiba
+"Words are the clothes thoughts wear." - Samuel Beckett
 ```
 <!--QUOTE:end-->
 
