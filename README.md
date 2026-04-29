@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The weak can never forgive. Forgiveness is the attribute of the strong." - Mahatma Gandhi
+"All men who have achieved great things have been great dreamers. " - Orison Swett Marden
 ```
 <!--QUOTE:end-->
 
