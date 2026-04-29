@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Today will never happen again. Don't waste it with a false start or no start at all." - Og Mandino
+"The weak can never forgive. Forgiveness is the attribute of the strong." - Mahatma Gandhi
 ```
 <!--QUOTE:end-->
 
