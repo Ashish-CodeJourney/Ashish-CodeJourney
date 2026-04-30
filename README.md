@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. " - Lao Tzu
+"The hardest arithmetic to master is that which enables us to count our blessings." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
