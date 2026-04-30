@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"All men who have achieved great things have been great dreamers. " - Orison Swett Marden
+"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. " - Lao Tzu
 ```
 <!--QUOTE:end-->
 
