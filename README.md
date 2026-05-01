@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you do not change direction, you may end up where you are heading." - Lao Tzu
+"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were." - Kahlil Gibran
 ```
 <!--QUOTE:end-->
 
