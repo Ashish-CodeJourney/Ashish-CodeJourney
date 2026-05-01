@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The hardest arithmetic to master is that which enables us to count our blessings." - Eric Hoffer
+"If you do not change direction, you may end up where you are heading." - Lao Tzu
 ```
 <!--QUOTE:end-->
 
