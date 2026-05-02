@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were." - Kahlil Gibran
+"Life is ours to be spent, not to be saved. " - D. H. Lawrence
 ```
 <!--QUOTE:end-->
 
