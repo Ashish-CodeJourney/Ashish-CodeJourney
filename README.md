@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Life is ours to be spent, not to be saved. " - D. H. Lawrence
+"Be strong. Be confident. Be the star of your own life." - Estee Lauder
 ```
 <!--QUOTE:end-->
 
