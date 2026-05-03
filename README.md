@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you do not change direction, you may end up where you are heading." - Lao Tzu
+"Just as true humor is laughter at oneself, true humanity is knowledge of oneself." - Alan Watts
 ```
 <!--QUOTE:end-->
 
