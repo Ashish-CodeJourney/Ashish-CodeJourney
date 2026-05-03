@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be strong. Be confident. Be the star of your own life." - Estee Lauder
+"If you do not change direction, you may end up where you are heading." - Lao Tzu
 ```
 <!--QUOTE:end-->
 
