@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Just as true humor is laughter at oneself, true humanity is knowledge of oneself." - Alan Watts
+"I never dwell on what happened. You can't change it. Move forward." - Joan Rivers
 ```
 <!--QUOTE:end-->
 
