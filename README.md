@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I never dwell on what happened. You can't change it. Move forward." - Joan Rivers
+"Nothing ever goes away until it has taught us what we need to know." - Pema Chodron
 ```
 <!--QUOTE:end-->
 
