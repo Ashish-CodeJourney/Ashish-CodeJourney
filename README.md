@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Nothing ever goes away until it has taught us what we need to know." - Pema Chodron
+"A tiny change today brings a dramatically different tomorrow." - Richard Bach
 ```
 <!--QUOTE:end-->
 
