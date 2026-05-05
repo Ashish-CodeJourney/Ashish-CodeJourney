@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"A tiny change today brings a dramatically different tomorrow." - Richard Bach
+"The less you talk about your shame, the more of it you have." - Mark Manson
 ```
 <!--QUOTE:end-->
 
