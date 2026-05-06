@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The less you talk about your shame, the more of it you have." - Mark Manson
+"Who looks outside, dreams; who looks inside, awakes." - Lolly Daskal
 ```
 <!--QUOTE:end-->
 
