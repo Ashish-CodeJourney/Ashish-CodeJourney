@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Who looks outside, dreams; who looks inside, awakes." - Lolly Daskal
+"The only reason to be alive is to enjoy it." - Rita Mae Brown
 ```
 <!--QUOTE:end-->
 
