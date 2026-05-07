@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." - George Eliot
+"Never allow a person to tell you no who doesn't have the power to say yes." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
