@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The only reason to be alive is to enjoy it." - Rita Mae Brown
+"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." - George Eliot
 ```
 <!--QUOTE:end-->
 
