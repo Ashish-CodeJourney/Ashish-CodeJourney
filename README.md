@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Never allow a person to tell you no who doesn't have the power to say yes." - Eleanor Roosevelt
+"Everything is in your own heart." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
