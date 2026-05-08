@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everything is in your own heart." - Thich Nhat Hanh
+"Supreme excellence consists of breaking the enemy's resistance without fighting." - Sun Tzu
 ```
 <!--QUOTE:end-->
 
