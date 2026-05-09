@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Supreme excellence consists of breaking the enemy's resistance without fighting." - Sun Tzu
+"Music is like creating an emotional painting. The sounds are the colors." - Yanni
 ```
 <!--QUOTE:end-->
 
