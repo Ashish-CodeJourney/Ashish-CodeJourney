@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Music is like creating an emotional painting. The sounds are the colors." - Yanni
+"The way of success is the way of continuous pursuit of knowledge." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
