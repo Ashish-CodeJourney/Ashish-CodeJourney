@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The way of success is the way of continuous pursuit of knowledge." - Napoleon Hill
+"Progress is impossible without change, and those who cannot change their minds cannot change anything." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
