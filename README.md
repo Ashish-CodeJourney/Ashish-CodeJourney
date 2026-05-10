@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Progress is impossible without change, and those who cannot change their minds cannot change anything." - George Bernard Shaw
+"Do what is right, not what is easy, nor what is popular." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
