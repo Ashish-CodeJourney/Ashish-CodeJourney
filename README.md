@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. " - Lao Tzu
+"Wherever you are, and whatever you do, be in love." - Rumi
 ```
 <!--QUOTE:end-->
 
