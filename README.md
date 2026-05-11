@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Do what is right, not what is easy, nor what is popular." - Roy T. Bennett
+"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. " - Lao Tzu
 ```
 <!--QUOTE:end-->
 
