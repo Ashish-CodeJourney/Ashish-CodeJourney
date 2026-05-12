@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Real learning comes about when the competitive spirit has ceased." - Jiddu Krishnamurti
+"Becoming a great leader doesn't mean being perfect. it means living with your imperfections." - Lolly Daskal
 ```
 <!--QUOTE:end-->
 
