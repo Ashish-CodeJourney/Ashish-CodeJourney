@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Wherever you are, and whatever you do, be in love." - Rumi
+"Real learning comes about when the competitive spirit has ceased." - Jiddu Krishnamurti
 ```
 <!--QUOTE:end-->
 
