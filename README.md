@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live." - Nicolas Chamfort
+"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." - Wayne Gretzky
 ```
 <!--QUOTE:end-->
 
