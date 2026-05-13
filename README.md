@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Becoming a great leader doesn't mean being perfect. it means living with your imperfections." - Lolly Daskal
+"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live." - Nicolas Chamfort
 ```
 <!--QUOTE:end-->
 
