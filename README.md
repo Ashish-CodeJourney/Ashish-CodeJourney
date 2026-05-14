@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." - Wayne Gretzky
+"Learn from the rejection and turn it into an opportunity!" - Mary Engelbreit
 ```
 <!--QUOTE:end-->
 
