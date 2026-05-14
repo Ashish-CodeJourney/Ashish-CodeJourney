@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Learn from the rejection and turn it into an opportunity!" - Mary Engelbreit
+"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." - George Eliot
 ```
 <!--QUOTE:end-->
 
