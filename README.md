@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." - George Eliot
+"To be totally at leisure for one day is to be immortal for one day. " - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
