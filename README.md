@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"To be totally at leisure for one day is to be immortal for one day. " - Chinese Proverb
+"Worry is a waste of emotional reserve." - Ayn Rand
 ```
 <!--QUOTE:end-->
 
