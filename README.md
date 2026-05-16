@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Worry is a waste of emotional reserve." - Ayn Rand
+"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
