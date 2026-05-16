@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." - Paulo Coelho
+"Life is a long lesson in humility. " - James Matthew Barrie
 ```
 <!--QUOTE:end-->
 
