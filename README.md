@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Being ignorant is not so much a shame, as being unwilling to learn." - Benjamin Franklin
+"The search for happiness is one of the chief sources of unhappiness." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
