@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." - Wayne Gretzky
+"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light." - Albus Dumbledore
 ```
 <!--QUOTE:end-->
 
