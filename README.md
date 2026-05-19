@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Favor focus over features."
+"Saying nothing sometimes says the most." - Emily Dickinson
 ```
 <!--QUOTE:end-->
 
