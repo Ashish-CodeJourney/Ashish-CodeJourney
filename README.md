@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Saying nothing sometimes says the most." - Emily Dickinson
+"We love the things we love for what they are." - Robert Frost
 ```
 <!--QUOTE:end-->
 
