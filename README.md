@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"We love the things we love for what they are." - Robert Frost
+"Only the educated are free." - Epictetus
 ```
 <!--QUOTE:end-->
 
