@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place." - Richard Bach
+"It matters not what someone is born, but what they grow to be." - Albus Dumbledore
 ```
 <!--QUOTE:end-->
 
