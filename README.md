@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It matters not what someone is born, but what they grow to be." - Albus Dumbledore
+"The greatest mistake you can make in life is to be continually fearing you will make one." - Elbert Hubbard
 ```
 <!--QUOTE:end-->
 
