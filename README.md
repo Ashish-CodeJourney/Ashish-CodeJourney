@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The greatest mistake you can make in life is to be continually fearing you will make one." - Elbert Hubbard
+"Don't let what you cannot do interfere with what you can do." - John Wooden
 ```
 <!--QUOTE:end-->
 
