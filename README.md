@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't let what you cannot do interfere with what you can do." - John Wooden
+"Sometimes you will never know the value of something, until it becomes a memory." - Dr. Seuss
 ```
 <!--QUOTE:end-->
 
