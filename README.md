@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Sometimes you will never know the value of something, until it becomes a memory." - Dr. Seuss
+"He is richest who is content with the least, for content is the wealth of nature." - Socrates
 ```
 <!--QUOTE:end-->
 
