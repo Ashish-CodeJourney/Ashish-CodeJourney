@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"There are as many opinions as there are experts." - Franklin D. Roosevelt
+"Your time is limited, don't waste it living someone else's life." - Colin R. Davis
 ```
 <!--QUOTE:end-->
 
