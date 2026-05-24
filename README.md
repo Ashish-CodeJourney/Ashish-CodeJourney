@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"He is richest who is content with the least, for content is the wealth of nature." - Socrates
+"There are as many opinions as there are experts." - Franklin D. Roosevelt
 ```
 <!--QUOTE:end-->
 
