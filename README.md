@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Your time is limited, don't waste it living someone else's life." - Colin R. Davis
+"No one can confidently say that he will still be living tomorrow." - Euripides
 ```
 <!--QUOTE:end-->
 
