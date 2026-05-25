@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No one can confidently say that he will still be living tomorrow." - Euripides
+"In spite of everything, I shall rise again." - Vincent van Gogh
 ```
 <!--QUOTE:end-->
 
