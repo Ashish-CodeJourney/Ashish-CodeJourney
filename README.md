@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"In spite of everything, I shall rise again." - Vincent van Gogh
+"Success is a poor teacher." - Robert Kiyosaki
 ```
 <!--QUOTE:end-->
 
