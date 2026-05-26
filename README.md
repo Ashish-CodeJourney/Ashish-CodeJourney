@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Success is a poor teacher." - Robert Kiyosaki
+"Closing your eyes and listening to silence is self-care." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
