@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon
+"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence." - Sydney Smith
 ```
 <!--QUOTE:end-->
 
