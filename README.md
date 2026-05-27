@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Closing your eyes and listening to silence is self-care." - Maxime Lagace
+"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
