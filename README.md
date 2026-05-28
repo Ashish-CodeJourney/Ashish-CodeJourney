@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence." - Sydney Smith
+"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." - Herbert Hoover
 ```
 <!--QUOTE:end-->
 
