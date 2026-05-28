@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." - Herbert Hoover
+"In youth we run into difficulties. In old age difficulties run into us." - Beverly Sills
 ```
 <!--QUOTE:end-->
 
