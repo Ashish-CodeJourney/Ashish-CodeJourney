@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly." - Steve Maraboli
+"Making your mark on the world is hard. If it were easy, everybody would do it." - Barack Obama
 ```
 <!--QUOTE:end-->
 
