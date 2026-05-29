@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"In youth we run into difficulties. In old age difficulties run into us." - Beverly Sills
+"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
