@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Making your mark on the world is hard. If it were easy, everybody would do it." - Barack Obama
+"Words are clothes that thoughts wear" - Samuel Butler
 ```
 <!--QUOTE:end-->
 
