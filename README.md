@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Words are clothes that thoughts wear" - Samuel Butler
+"Passion is born deaf and dumb." - Honore de Balzac
 ```
 <!--QUOTE:end-->
 
