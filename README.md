@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The present moment is filled with joy and happiness. If you are attentive, you will see it." - Thich Nhat Hanh
+"Don't bother people for help without first trying to solve the problem yourself." - Colin Powell
 ```
 <!--QUOTE:end-->
 
