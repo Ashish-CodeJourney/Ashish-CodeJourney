@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Passion is born deaf and dumb." - Honore de Balzac
+"The present moment is filled with joy and happiness. If you are attentive, you will see it." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
