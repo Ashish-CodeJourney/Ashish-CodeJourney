@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't bother people for help without first trying to solve the problem yourself." - Colin Powell
+"To be calm is the highest achievement of the self." - Zen Proverb
 ```
 <!--QUOTE:end-->
 
