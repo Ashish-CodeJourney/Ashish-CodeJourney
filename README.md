@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"To be calm is the highest achievement of the self." - Zen Proverb
+"Pursue what catches your heart, not what catches your eyes." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
