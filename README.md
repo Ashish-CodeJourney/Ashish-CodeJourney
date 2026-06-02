@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When you know what you want, and want it bad enough, you will find a way to get it." - Jim Rohn
+"Being kind is more important than being right." - David Brinkley
 ```
 <!--QUOTE:end-->
 
