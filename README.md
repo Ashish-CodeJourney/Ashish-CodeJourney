@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Pursue what catches your heart, not what catches your eyes." - Roy T. Bennett
+"When you know what you want, and want it bad enough, you will find a way to get it." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
