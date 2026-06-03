@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Being kind is more important than being right." - David Brinkley
+"Your life does not get better by chance, it gets better by change." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
