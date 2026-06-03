@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Your life does not get better by chance, it gets better by change." - Jim Rohn
+"It is the power of the mind to be unconquerable." - Seneca
 ```
 <!--QUOTE:end-->
 
