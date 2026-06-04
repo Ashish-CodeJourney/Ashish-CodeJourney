@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Love is not about possession. Love is about appreciation." - Osho
+"Half measures are as bad as nothing at all."
 ```
 <!--QUOTE:end-->
 
