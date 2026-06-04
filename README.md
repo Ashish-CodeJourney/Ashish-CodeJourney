@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is the power of the mind to be unconquerable." - Seneca
+"Love is not about possession. Love is about appreciation." - Osho
 ```
 <!--QUOTE:end-->
 
