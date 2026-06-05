@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Half measures are as bad as nothing at all."
+"Although the world is full of suffering, it is also full of the overcoming of it." - Helen Keller
 ```
 <!--QUOTE:end-->
 
