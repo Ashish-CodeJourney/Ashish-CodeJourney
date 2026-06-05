@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Although the world is full of suffering, it is also full of the overcoming of it." - Helen Keller
+"The only limits in your life are those that you set yourself." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
