@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The more you are motivated by Love, The more Fearless & Free your action will be." - Dalai Lama
+"You are free, and that is why you are lost." - Franz Kafka
 ```
 <!--QUOTE:end-->
 
