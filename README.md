@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The only limits in your life are those that you set yourself." - Celestine Chua
+"The more you are motivated by Love, The more Fearless & Free your action will be." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
