@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You are free, and that is why you are lost." - Franz Kafka
+"The wisdom of life consists in the elimination of the nonessentials." - Lin Yutang
 ```
 <!--QUOTE:end-->
 
