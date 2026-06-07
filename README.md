@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The wisdom of life consists in the elimination of the nonessentials." - Lin Yutang
+"Accessible for all."
 ```
 <!--QUOTE:end-->
 
