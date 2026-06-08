@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"True prayer has no set form." - Morihei Ueshiba
+"Don't let the noise of others opinions drown out your inner voice." - Steve Jobs
 ```
 <!--QUOTE:end-->
 
