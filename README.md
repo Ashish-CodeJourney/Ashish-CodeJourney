@@ -56,11 +56,6 @@ val ashish = Developer(
 
 <div align="center">
 
-<a href="https://github.com/Ashish-CodeJourney">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ashish-CodeJourney&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-CodeJourney&hide_border=true&count_private=true&layout=compact&theme=tokyonight&bg_color=0d1117"/>
-</a>
-
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ashish-CodeJourney&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
