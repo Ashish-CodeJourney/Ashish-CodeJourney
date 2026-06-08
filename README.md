@@ -108,7 +108,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Accessible for all."
+"True prayer has no set form." - Morihei Ueshiba
 ```
 <!--QUOTE:end-->
 
