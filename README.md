@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The meaning of life is to find your gift. The purpose of life is to give it away." - Pablo Picasso
+"The ego wants comfort and certainty. The soul wants to live fully." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
