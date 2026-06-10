@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The ego wants comfort and certainty. The soul wants to live fully." - Maxime Lagace
+"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new." - Og Mandino
 ```
 <!--QUOTE:end-->
 
