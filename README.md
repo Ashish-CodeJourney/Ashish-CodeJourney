@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new." - Og Mandino
+"It is never too late to be what you might have been." - George Eliot
 ```
 <!--QUOTE:end-->
 
