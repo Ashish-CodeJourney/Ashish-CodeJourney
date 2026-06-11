@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering." - Charles Dickens
+"Confidence is what you have before you understand the problem." - Woody Allen
 ```
 <!--QUOTE:end-->
 
