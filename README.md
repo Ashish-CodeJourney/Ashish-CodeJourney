@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is never too late to be what you might have been." - George Eliot
+"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
