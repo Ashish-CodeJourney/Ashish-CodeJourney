@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Learn to sit back and observe, not everything needs a reaction." - Unknown
+"When people are free to do as they please, they usually imitate each other." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
