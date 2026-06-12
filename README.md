@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Confidence is what you have before you understand the problem." - Woody Allen
+"Learn to sit back and observe, not everything needs a reaction." - Unknown
 ```
 <!--QUOTE:end-->
 
