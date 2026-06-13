@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When people are free to do as they please, they usually imitate each other." - Eric Hoffer
+"Those who bring sunshine into the lives of others cannot keep it from themselves." - James Matthew Barrie
 ```
 <!--QUOTE:end-->
 
