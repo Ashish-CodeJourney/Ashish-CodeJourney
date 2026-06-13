@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Those who bring sunshine into the lives of others cannot keep it from themselves." - James Matthew Barrie
+"Don't learn to do, but learn in doing." - Samuel Butler
 ```
 <!--QUOTE:end-->
 
