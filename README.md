@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't learn to do, but learn in doing." - Samuel Butler
+"Not why the addiction but why the pain." - Gabor Mate
 ```
 <!--QUOTE:end-->
 
