@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Not why the addiction but why the pain." - Gabor Mate
+"Life begins at the end of our comfort zone." - Neale Donald Walsch
 ```
 <!--QUOTE:end-->
 
