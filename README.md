@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to." - Carlos Ruiz Zafon
+"Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!" - Alfred Adler
 ```
 <!--QUOTE:end-->
 
