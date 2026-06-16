@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The less you respond to negative people, the more positive your life will become." - Paulo Coelho
+"Talk does not cook rice." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
