@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Courage is fear that has said its prayers and decided to go forward anyway." - Joyce Meyer
+"Half measures are as bad as nothing at all."
 ```
 <!--QUOTE:end-->
 
