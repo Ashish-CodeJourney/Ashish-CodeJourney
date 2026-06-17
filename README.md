@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Talk does not cook rice." - Chinese Proverb
+"Courage is fear that has said its prayers and decided to go forward anyway." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
