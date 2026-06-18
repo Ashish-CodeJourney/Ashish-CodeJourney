@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Half measures are as bad as nothing at all."
+"Accessible for all."
 ```
 <!--QUOTE:end-->
 
