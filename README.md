@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Accessible for all."
+"The more you are motivated by Love, The more Fearless & Free your action will be." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
