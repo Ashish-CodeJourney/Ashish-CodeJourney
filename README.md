@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You can never get enough of what you don't need to make you happy." - Eric Hoffer
+"When we strive to become better than we are, everything around us becomes better, too." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
