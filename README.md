@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Before preparing to improve the world, first look around your own home three times." - Chinese Proverb
+"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
