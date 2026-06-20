@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When we strive to become better than we are, everything around us becomes better, too." - Paulo Coelho
+"Before preparing to improve the world, first look around your own home three times." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
