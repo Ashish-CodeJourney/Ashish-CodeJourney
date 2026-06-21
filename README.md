@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"New opinions are always suspected, and usually opposed, without any other reason but because they are not common." - John Locke
+"First learn the meaning of what you say, and then speak." - Epictetus
 ```
 <!--QUOTE:end-->
 
