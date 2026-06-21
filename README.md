@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." - Celestine Chua
+"New opinions are always suspected, and usually opposed, without any other reason but because they are not common." - John Locke
 ```
 <!--QUOTE:end-->
 
