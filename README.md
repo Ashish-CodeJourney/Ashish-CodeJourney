@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Comedy = tragedy + time." - Carol Burnett
+"There is no limit to the amount of good you can do if you don't care who gets the credit." - Ronald Reagan
 ```
 <!--QUOTE:end-->
 
