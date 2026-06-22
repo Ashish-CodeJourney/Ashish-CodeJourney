@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"First learn the meaning of what you say, and then speak." - Epictetus
+"Comedy = tragedy + time." - Carol Burnett
 ```
 <!--QUOTE:end-->
 
