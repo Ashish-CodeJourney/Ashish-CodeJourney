@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"There is no limit to the amount of good you can do if you don't care who gets the credit." - Ronald Reagan
+"Patience is not the ability to wait but the ability to keep a good attitude while waiting." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
