@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Patience is not the ability to wait but the ability to keep a good attitude while waiting." - Joyce Meyer
+"There is no truth except the truth that exists within you. Everything else is what someone is telling you." - Neale Donald Walsch
 ```
 <!--QUOTE:end-->
 
