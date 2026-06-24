@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be strong. Be confident. Be the star of your own life." - Estee Lauder
+"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
