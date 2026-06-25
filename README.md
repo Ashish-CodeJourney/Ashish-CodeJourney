@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." - Celestine Chua
+"Be patient and calm; no one can catch fish in anger." - Herbert Hoover
 ```
 <!--QUOTE:end-->
 
