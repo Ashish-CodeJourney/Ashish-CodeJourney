@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be patient and calm; no one can catch fish in anger." - Herbert Hoover
+"The primary point of this existence is to live, and all living things move and grow." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
