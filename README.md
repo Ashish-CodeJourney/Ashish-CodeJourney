@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The primary point of this existence is to live, and all living things move and grow." - Ming-Dao Deng
+"Go confidently in the direction of your dreams. Live the life you've imagined." - Arnold Schwarzenegger
 ```
 <!--QUOTE:end-->
 
