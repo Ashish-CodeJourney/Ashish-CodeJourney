@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Go confidently in the direction of your dreams. Live the life you've imagined." - Arnold Schwarzenegger
+"If you done it, it ain't bragging." - Walt Whitman
 ```
 <!--QUOTE:end-->
 
