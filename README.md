@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Failure is acceptable. Not trying is a whole different ball park." - Michael Jordan
+"The Truth is realized in an instant; the Act is practiced step by step." - Seungsahn
 ```
 <!--QUOTE:end-->
 
