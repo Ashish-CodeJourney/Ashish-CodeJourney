@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you done it, it ain't bragging." - Walt Whitman
+"Failure is acceptable. Not trying is a whole different ball park." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
