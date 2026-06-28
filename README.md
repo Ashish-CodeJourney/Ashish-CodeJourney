@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"To every action there is always opposed an equal reaction." - Isaac Newton
+"There is nothing more frightful than ignorance in action." - Johann Wolfgang von Goethe
 ```
 <!--QUOTE:end-->
 
