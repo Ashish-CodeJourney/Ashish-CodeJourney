@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The Truth is realized in an instant; the Act is practiced step by step." - Seungsahn
+"To every action there is always opposed an equal reaction." - Isaac Newton
 ```
 <!--QUOTE:end-->
 
