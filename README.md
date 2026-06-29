@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Only the educated are free." - Epictetus
+"True it is, we only hate those whom we do not know." - Andrew Carnegie
 ```
 <!--QUOTE:end-->
 
