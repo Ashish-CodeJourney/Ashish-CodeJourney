@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"There is nothing more frightful than ignorance in action." - Johann Wolfgang von Goethe
+"Only the educated are free." - Epictetus
 ```
 <!--QUOTE:end-->
 
