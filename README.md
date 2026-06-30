@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"True it is, we only hate those whom we do not know." - Andrew Carnegie
+"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." - James Matthew Barrie
 ```
 <!--QUOTE:end-->
 
