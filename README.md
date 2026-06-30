@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." - James Matthew Barrie
+"Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoy
 ```
 <!--QUOTE:end-->
 
