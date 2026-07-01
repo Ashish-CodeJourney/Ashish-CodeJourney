@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Emancipate yourself from mental slavery, none but ourselves can free our mind." - Bob Marley
+"Whenever people agree with me I always feel I must be wrong." - Oscar Wilde
 ```
 <!--QUOTE:end-->
 
