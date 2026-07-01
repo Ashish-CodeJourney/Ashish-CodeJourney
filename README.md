@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoy
+"Emancipate yourself from mental slavery, none but ourselves can free our mind." - Bob Marley
 ```
 <!--QUOTE:end-->
 
