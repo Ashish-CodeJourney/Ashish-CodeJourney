@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Whenever people agree with me I always feel I must be wrong." - Oscar Wilde
+"It still holds true that man is most uniquely human when he turns obstacles into opportunities." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
