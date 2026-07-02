@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It still holds true that man is most uniquely human when he turns obstacles into opportunities." - Eric Hoffer
+"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way." - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
