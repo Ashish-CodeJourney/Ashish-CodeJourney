@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"He who cannot be a good follower cannot be a good leader." - Aristotle
+"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
