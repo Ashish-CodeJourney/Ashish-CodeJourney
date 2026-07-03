@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way." - Wayne Dyer
+"He who cannot be a good follower cannot be a good leader." - Aristotle
 ```
 <!--QUOTE:end-->
 
