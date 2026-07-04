@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is better to be looked over than overlooked." - Mae West
+"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart." - St. Jerome
 ```
 <!--QUOTE:end-->
 
