@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold." - Chinese Proverb
+"It is better to be looked over than overlooked." - Mae West
 ```
 <!--QUOTE:end-->
 
