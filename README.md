@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't set your own goals by what other people make important." - Lolly Daskal
+"You may forget with whom you laughed, but you will never forget with whom you wept." - Kahlil Gibran
 ```
 <!--QUOTE:end-->
 
