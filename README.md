@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart." - St. Jerome
+"Don't set your own goals by what other people make important." - Lolly Daskal
 ```
 <!--QUOTE:end-->
 
