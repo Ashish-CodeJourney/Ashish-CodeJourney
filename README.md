@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You may forget with whom you laughed, but you will never forget with whom you wept." - Kahlil Gibran
+"Don't let making a living prevent you from making a life." - John Wooden
 ```
 <!--QUOTE:end-->
 
