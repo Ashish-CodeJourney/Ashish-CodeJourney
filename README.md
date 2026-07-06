@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't let making a living prevent you from making a life." - John Wooden
+"It's possible in ways both large or small to make a difference in someone's life." - Yanni
 ```
 <!--QUOTE:end-->
 
