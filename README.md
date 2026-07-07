@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't waste time on excuses. Just get it done." - Ralph Marston
+"Supreme excellence consists of breaking the enemy's resistance without fighting." - Sun Tzu
 ```
 <!--QUOTE:end-->
 
