@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It's possible in ways both large or small to make a difference in someone's life." - Yanni
+"Don't waste time on excuses. Just get it done." - Ralph Marston
 ```
 <!--QUOTE:end-->
 
