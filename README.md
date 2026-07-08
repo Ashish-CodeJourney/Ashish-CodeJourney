@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Take care of your body. It's the only place you have to live." - Jim Rohn
+"I have never let my schooling interfere with my education." - Mark Twain
 ```
 <!--QUOTE:end-->
 
