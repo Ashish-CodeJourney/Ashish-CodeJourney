@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Supreme excellence consists of breaking the enemy's resistance without fighting." - Sun Tzu
+"Take care of your body. It's the only place you have to live." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
