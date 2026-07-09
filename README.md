@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I have never let my schooling interfere with my education." - Mark Twain
+"Everyday is a second chance." - Unknown
 ```
 <!--QUOTE:end-->
 
