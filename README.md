@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everyday is a second chance." - Unknown
+"Half measures are as bad as nothing at all."
 ```
 <!--QUOTE:end-->
 
