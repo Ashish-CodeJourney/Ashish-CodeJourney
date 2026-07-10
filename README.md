@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Happiness is not something ready made. It comes from your own actions." - Dalai Lama
+"Human beings believe just as they breathe - in order to survive." - Carlos Ruiz Zafon
 ```
 <!--QUOTE:end-->
 
