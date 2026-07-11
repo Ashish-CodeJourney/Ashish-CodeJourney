@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No matter what happens in life, never lose sight of who you are." - Yanni
+"Life isn't about finding yourself. Life is about creating yourself." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
