@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Human beings believe just as they breathe - in order to survive." - Carlos Ruiz Zafon
+"No matter what happens in life, never lose sight of who you are." - Yanni
 ```
 <!--QUOTE:end-->
 
