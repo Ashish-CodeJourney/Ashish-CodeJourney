@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Dance first. Think later. It's the natural order." - Samuel Beckett
+"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." - Peter A. Cohen
 ```
 <!--QUOTE:end-->
 
