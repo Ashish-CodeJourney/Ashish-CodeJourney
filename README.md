@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Life isn't about finding yourself. Life is about creating yourself." - George Bernard Shaw
+"Dance first. Think later. It's the natural order." - Samuel Beckett
 ```
 <!--QUOTE:end-->
 
