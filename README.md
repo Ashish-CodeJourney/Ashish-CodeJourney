@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." - Peter A. Cohen
+"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
