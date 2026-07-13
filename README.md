@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." - Eleanor Roosevelt
+"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - Pema Chodron
 ```
 <!--QUOTE:end-->
 
