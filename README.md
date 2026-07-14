@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Do not look for approval except for the consciousness of doing your best." - Andrew Carnegie
+"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you." - Dale Carnegie
 ```
 <!--QUOTE:end-->
 
