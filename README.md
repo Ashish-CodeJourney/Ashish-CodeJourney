@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - Pema Chodron
+"Do not look for approval except for the consciousness of doing your best." - Andrew Carnegie
 ```
 <!--QUOTE:end-->
 
