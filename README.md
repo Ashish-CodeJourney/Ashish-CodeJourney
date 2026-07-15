@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured." - Mark Twain
+"If you do not get the chills when you set your goal you're not setting big enough goals." - Bob Proctor
 ```
 <!--QUOTE:end-->
 
