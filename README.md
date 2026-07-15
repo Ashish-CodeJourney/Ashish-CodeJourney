@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you." - Dale Carnegie
+"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured." - Mark Twain
 ```
 <!--QUOTE:end-->
 
