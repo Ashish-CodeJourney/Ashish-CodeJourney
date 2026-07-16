@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"There is no path to Peace. Peace is the path." - Dan Millman
+"The more something scares you, the more you should do it." - Mark Manson
 ```
 <!--QUOTE:end-->
 
