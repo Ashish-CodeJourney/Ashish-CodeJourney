@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Pleasure in the job puts perfection in the work." - Aristotle
+"No man is happy unless he believes he is." - Publilius Syrus
 ```
 <!--QUOTE:end-->
 
