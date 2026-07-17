@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The more something scares you, the more you should do it." - Mark Manson
+"Pleasure in the job puts perfection in the work." - Aristotle
 ```
 <!--QUOTE:end-->
 
