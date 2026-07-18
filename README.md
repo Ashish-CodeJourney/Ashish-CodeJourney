@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Peace of mind is that mental condition in which you have accepted the worst." - Lin Yutang
+"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years." - Richard Bach
 ```
 <!--QUOTE:end-->
 
