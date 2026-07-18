@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No man is happy unless he believes he is." - Publilius Syrus
+"Peace of mind is that mental condition in which you have accepted the worst." - Lin Yutang
 ```
 <!--QUOTE:end-->
 
