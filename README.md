@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years." - Richard Bach
+"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win." - Arnold Schwarzenegger
 ```
 <!--QUOTE:end-->
 
