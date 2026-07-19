@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win." - Arnold Schwarzenegger
+"An un-examined life is not worth living." - Socrates
 ```
 <!--QUOTE:end-->
 
