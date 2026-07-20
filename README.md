@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"All men who have achieved great things have been great dreamers." - Orison Swett Marden
+"Anything you may hold firmly in your imagination can be yours." - William James
 ```
 <!--QUOTE:end-->
 
