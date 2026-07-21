@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Lost Time is never found again." - Benjamin Franklin
+"Love the life you live, live the life you love." - Bob Marley
 ```
 <!--QUOTE:end-->
 
