@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Anything you may hold firmly in your imagination can be yours." - William James
+"Lost Time is never found again." - Benjamin Franklin
 ```
 <!--QUOTE:end-->
 
