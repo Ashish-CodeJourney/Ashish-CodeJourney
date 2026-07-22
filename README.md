@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Love the life you live, live the life you love." - Bob Marley
+"Freedom lies in being bold." - Robert Frost
 ```
 <!--QUOTE:end-->
 
