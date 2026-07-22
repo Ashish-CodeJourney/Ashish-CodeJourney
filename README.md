@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Freedom lies in being bold." - Robert Frost
+"Change is not a four letter word...but often your reaction to it is!" - Jeffrey Gitomer
 ```
 <!--QUOTE:end-->
 
