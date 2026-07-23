@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime." - Steve Maraboli
+"Focused, hard work is the real key to success." - John Carmack
 ```
 <!--QUOTE:end-->
 
