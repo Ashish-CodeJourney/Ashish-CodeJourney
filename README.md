@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Change is not a four letter word...but often your reaction to it is!" - Jeffrey Gitomer
+"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
