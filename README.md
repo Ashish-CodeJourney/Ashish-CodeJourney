@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"At the center of your being you have the answer; you know who you are and you know what you want." - Lao Tzu
+"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
