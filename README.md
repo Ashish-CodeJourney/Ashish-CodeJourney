@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Imagination is the beginning of creation." - George Bernard Shaw
+"When it comes to mastering a skill, time is the magic ingredient." - Robert Greene
 ```
 <!--QUOTE:end-->
 
