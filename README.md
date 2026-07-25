@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty." - Theodore Roosevelt
+"Imagination is the beginning of creation." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
