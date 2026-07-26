@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When it comes to mastering a skill, time is the magic ingredient." - Robert Greene
+"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live." - Nicolas Chamfort
 ```
 <!--QUOTE:end-->
 
