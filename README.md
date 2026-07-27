@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Knowing others is wisdom, knowing yourself is enlightenment." - Lao Tzu
+"You're never too old for anything." - Betty White
 ```
 <!--QUOTE:end-->
 
