@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You're never too old for anything." - Betty White
+"How people treat you is their karma; how you react is yours." - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
