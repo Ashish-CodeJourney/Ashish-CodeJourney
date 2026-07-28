@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Knowledge is a treasure, but practice is the key to it." - Lao Tzu
+"The quality of your life is determined by the quality of questions you ask." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
