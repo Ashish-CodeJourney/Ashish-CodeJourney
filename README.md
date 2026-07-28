@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"How people treat you is their karma; how you react is yours." - Wayne Dyer
+"Knowledge is a treasure, but practice is the key to it." - Lao Tzu
 ```
 <!--QUOTE:end-->
 
