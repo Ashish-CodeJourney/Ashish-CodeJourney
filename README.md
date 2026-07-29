@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The quality of your life is determined by the quality of questions you ask." - Tony Robbins
+"It is not what we get. But who we become, what we contribute... that gives meaning to our lives." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
