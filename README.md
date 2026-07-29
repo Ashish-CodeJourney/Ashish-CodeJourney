@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is not what we get. But who we become, what we contribute... that gives meaning to our lives." - Tony Robbins
+"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
