@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." - Jack Butcher
+"If you want something new, you have to stop doing something old." - Peter Drucker
 ```
 <!--QUOTE:end-->
 
