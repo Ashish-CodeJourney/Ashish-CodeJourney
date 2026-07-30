@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you want something new, you have to stop doing something old." - Peter Drucker
+"The thing about smart people is that they seem like crazy people to dumb people." - Stephen Hawking
 ```
 <!--QUOTE:end-->
 
