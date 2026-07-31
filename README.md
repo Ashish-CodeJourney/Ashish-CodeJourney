@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Our joy does not have to be based on our circumstances." - Joyce Meyer
+"Nothing has more strength than dire necessity." - Euripides
 ```
 <!--QUOTE:end-->
 
