@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The thing about smart people is that they seem like crazy people to dumb people." - Stephen Hawking
+"Our joy does not have to be based on our circumstances." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
