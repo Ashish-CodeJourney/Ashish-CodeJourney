@@ -10,7 +10,7 @@
 
 [![Twitter](https://img.shields.io/badge/-@ashishvaghelaa_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ashishvaghelaa)
 [![LinkedIn](https://img.shields.io/badge/-ashish--codejourney-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-codejourney)
-[![Portfolio](https://img.shields.io/badge/-ashishcodejourney.vercel.app-6A5ACD?style=flat-square&logo=vercel&logoColor=white)](https://ashishcodejourney.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-ashish-codejourney.github.io-6A5ACD?style=flat-square&logo=vercel&logoColor=white)](https://ashishcode-codejourney.github.io)
 [![Email](https://img.shields.io/badge/-vaghelaashish111@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaghelaashish111@gmail.com)
 
 </div>
