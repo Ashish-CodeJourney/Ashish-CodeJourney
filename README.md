@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Nothing has more strength than dire necessity." - Euripides
+"It is better to change an opinion than to persist in a wrong one." - Socrates
 ```
 <!--QUOTE:end-->
 
