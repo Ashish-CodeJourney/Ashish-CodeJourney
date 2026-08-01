@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is better to change an opinion than to persist in a wrong one." - Socrates
+"Those who cannot change their minds cannot change anything." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
