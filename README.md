@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Those who cannot change their minds cannot change anything." - George Bernard Shaw
+"Wealth consists not in having great possessions, but in having few wants." - Epictetus
 ```
 <!--QUOTE:end-->
 
