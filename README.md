@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Wealth consists not in having great possessions, but in having few wants." - Epictetus
+"Sorrow is how we learn to love." - Rita Mae Brown
 ```
 <!--QUOTE:end-->
 
