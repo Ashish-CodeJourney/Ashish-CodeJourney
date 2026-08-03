@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Sorrow is how we learn to love." - Rita Mae Brown
+"If we know how to adapt, we end up being superior." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
