@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Longevity is a fleeting moment that lasts forever." - Vidal Sassoon
+"Anything added dilutes everything else."
 ```
 <!--QUOTE:end-->
 
