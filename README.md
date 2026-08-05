@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Heart is what separates the good from the great." - Michael Jordan
+"Difficulties strengthen the mind, as labor does the body." - Seneca
 ```
 <!--QUOTE:end-->
 
