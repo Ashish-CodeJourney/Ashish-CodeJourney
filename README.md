@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Anything added dilutes everything else."
+"Heart is what separates the good from the great." - Michael Jordan
 ```
 <!--QUOTE:end-->
 
