@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When you want something in life, you just gotta reach out and grab it." - Christopher McCandless
+"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts." - Alfred Adler
 ```
 <!--QUOTE:end-->
 
