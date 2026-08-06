@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Difficulties strengthen the mind, as labor does the body." - Seneca
+"When you want something in life, you just gotta reach out and grab it." - Christopher McCandless
 ```
 <!--QUOTE:end-->
 
