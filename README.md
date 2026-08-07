@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"A Penny Saved is a Penny Earned" - Benjamin Franklin
+"Ripe fruit falls by itself - but it doesn't fall in your mouth." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
