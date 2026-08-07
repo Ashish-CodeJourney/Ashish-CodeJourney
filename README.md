@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts." - Alfred Adler
+"A Penny Saved is a Penny Earned" - Benjamin Franklin
 ```
 <!--QUOTE:end-->
 
