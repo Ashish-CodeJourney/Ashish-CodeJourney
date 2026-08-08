@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"In all chaos there is a cosmos, in all disorder a secret order." - Carl Jung
+"Your best life will not be found in comfort. It will be found in fighting for what you believe in." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
