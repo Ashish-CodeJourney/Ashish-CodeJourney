@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Ripe fruit falls by itself - but it doesn't fall in your mouth." - Chinese Proverb
+"In all chaos there is a cosmos, in all disorder a secret order." - Carl Jung
 ```
 <!--QUOTE:end-->
 
