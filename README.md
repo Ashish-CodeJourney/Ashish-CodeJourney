@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You can not live your life just based on what everyone else thinks." - Joyce Meyer
+"You can tell more about a person by what he says about others than you can by what others say about him." - Audrey Hepburn
 ```
 <!--QUOTE:end-->
 
