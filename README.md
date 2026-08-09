@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Your best life will not be found in comfort. It will be found in fighting for what you believe in." - Maxime Lagace
+"You can not live your life just based on what everyone else thinks." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
