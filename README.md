@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You can tell more about a person by what he says about others than you can by what others say about him." - Audrey Hepburn
+"Everyone sees what you appear to be, few experience what you really are." - Niccolo Machiavelli
 ```
 <!--QUOTE:end-->
 
