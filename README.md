@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everyone sees what you appear to be, few experience what you really are." - Niccolo Machiavelli
+"Poverty and hardship are created by false thinking." - Bodhidharma
 ```
 <!--QUOTE:end-->
 
