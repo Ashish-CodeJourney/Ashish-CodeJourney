@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Happiness is the spiritual experience of living every minute with love, grace and gratitude." - Denis Waitley
+"The constant assertion of belief is an indication of fear." - Jiddu Krishnamurti
 ```
 <!--QUOTE:end-->
 
