@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Poverty and hardship are created by false thinking." - Bodhidharma
+"Happiness is the spiritual experience of living every minute with love, grace and gratitude." - Denis Waitley
 ```
 <!--QUOTE:end-->
 
