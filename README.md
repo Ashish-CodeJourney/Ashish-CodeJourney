@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The constant assertion of belief is an indication of fear." - Jiddu Krishnamurti
+"What's the point in being smart enough to read, if everything you read makes you dumb?" - C. Sean McGee
 ```
 <!--QUOTE:end-->
 
