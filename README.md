@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Every strike brings me closer to the next home run." - Babe Ruth
+"Never lose hope. Storms make people stronger and never last forever." - Roy T. Bennett
 ```
 <!--QUOTE:end-->
 
