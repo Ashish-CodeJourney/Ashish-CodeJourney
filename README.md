@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Encourage flow."
+"Every strike brings me closer to the next home run." - Babe Ruth
 ```
 <!--QUOTE:end-->
 
