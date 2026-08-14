@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Never lose hope. Storms make people stronger and never last forever." - Roy T. Bennett
+"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality." - Shunryu Suzuki
 ```
 <!--QUOTE:end-->
 
