@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality." - Shunryu Suzuki
+"Anything added dilutes everything else."
 ```
 <!--QUOTE:end-->
 
