@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Anything added dilutes everything else."
+"What you resist, persists." - Carl Jung
 ```
 <!--QUOTE:end-->
 
