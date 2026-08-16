@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Your only limitations are those you set up in your mind or permit others to set up for you." - Og Mandino
+"The more something scares you, the more you should do it." - Mark Manson
 ```
 <!--QUOTE:end-->
 
