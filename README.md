@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The more something scares you, the more you should do it." - Mark Manson
+"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you." - Sonia Ricotti
 ```
 <!--QUOTE:end-->
 
