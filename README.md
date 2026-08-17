@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't listen to the person who has the answers; listen to the person who has the questions." - Albert Einstein
+"I do not seek. I find." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
