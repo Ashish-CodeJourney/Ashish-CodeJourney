@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you." - Sonia Ricotti
+"Don't listen to the person who has the answers; listen to the person who has the questions." - Albert Einstein
 ```
 <!--QUOTE:end-->
 
