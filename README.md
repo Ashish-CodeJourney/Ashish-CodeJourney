@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Just throw away all thoughts of imaginary things, and stand firm in that which you are." - Kabir
+"You just can't beat the person who never gives up." - Babe Ruth
 ```
 <!--QUOTE:end-->
 
