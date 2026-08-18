@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I do not seek. I find." - Pablo Picasso
+"Just throw away all thoughts of imaginary things, and stand firm in that which you are." - Kabir
 ```
 <!--QUOTE:end-->
 
