@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You just can't beat the person who never gives up." - Babe Ruth
+"What you do today can improve all your tomorrows." - Ralph Marston
 ```
 <!--QUOTE:end-->
 
