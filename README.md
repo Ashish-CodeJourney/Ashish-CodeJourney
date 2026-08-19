@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"What you do today can improve all your tomorrows." - Ralph Marston
+"Some of your greatest lessons come from your darkest moments." - Roger Lee
 ```
 <!--QUOTE:end-->
 
