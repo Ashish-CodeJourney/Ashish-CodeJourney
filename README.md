@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Some of your greatest lessons come from your darkest moments." - Roger Lee
+"Most people spend more time and energy going around problems than in trying to solve them." - Henry Ford
 ```
 <!--QUOTE:end-->
 
