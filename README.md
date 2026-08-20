@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Most people spend more time and energy going around problems than in trying to solve them." - Henry Ford
+"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin." - Charles Darwin
 ```
 <!--QUOTE:end-->
 
