@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The energy of the mind is the essence of life." - Aristotle
+"Leadership starts at the top." - Morgan Wootten
 ```
 <!--QUOTE:end-->
 
