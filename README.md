@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin." - Charles Darwin
+"The energy of the mind is the essence of life." - Aristotle
 ```
 <!--QUOTE:end-->
 
