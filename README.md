@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"People who belittle people, will be LITTLE people, and will accomplish very Little" - Norman Vincent Peale
+"Always do what is right. It will gratify half of mankind and astound the other." - Mark Twain
 ```
 <!--QUOTE:end-->
 
