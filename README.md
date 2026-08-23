@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Always do what is right. It will gratify half of mankind and astound the other." - Mark Twain
+"The two most powerful warriors are patience and time." - Leo Tolstoy
 ```
 <!--QUOTE:end-->
 
