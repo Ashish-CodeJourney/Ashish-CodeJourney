@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The two most powerful warriors are patience and time." - Leo Tolstoy
+"Before you can see the Light, you have to deal with the darkness." - Dan Millman
 ```
 <!--QUOTE:end-->
 
