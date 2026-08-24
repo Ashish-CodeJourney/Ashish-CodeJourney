@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Take interest and even delight in doing the small things well." - Jim Rohn
+"Treat every moment as your last. It is not preparation for something else." - Shunryu Suzuki
 ```
 <!--QUOTE:end-->
 
