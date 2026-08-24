@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Before you can see the Light, you have to deal with the darkness." - Dan Millman
+"Take interest and even delight in doing the small things well." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
