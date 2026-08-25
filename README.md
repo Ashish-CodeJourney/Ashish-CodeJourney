@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It's possible in ways both large or small to make a difference in someone's life." - Yanni
+"Live your life and forget your age." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
