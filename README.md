@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Treat every moment as your last. It is not preparation for something else." - Shunryu Suzuki
+"It's possible in ways both large or small to make a difference in someone's life." - Yanni
 ```
 <!--QUOTE:end-->
 
