@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Live your life and forget your age." - Norman Vincent Peale
+"Take care of your cents: dollars will take care of themselves." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
