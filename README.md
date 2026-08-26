@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Take care of your cents: dollars will take care of themselves." - Thomas Jefferson
+"No grand idea was ever born in a conference, but a lot of foolish ideas have died there." - F. Scott Fitzgerald
 ```
 <!--QUOTE:end-->
 
