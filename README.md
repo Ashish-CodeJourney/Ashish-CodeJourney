@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Without the rain there would be no rainbow." - Gilbert Chesterton
+"Others can stop you temporarily - you are the only one who can do it permanently." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
