@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Others can stop you temporarily - you are the only one who can do it permanently." - Zig Ziglar
+"Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown
 ```
 <!--QUOTE:end-->
 
