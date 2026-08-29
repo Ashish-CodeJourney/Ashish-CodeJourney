@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have." - Norman Vincent Peale
+"The best revenge is to be unlike him who performed the injury." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
