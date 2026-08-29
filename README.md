@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The best revenge is to be unlike him who performed the injury." - Marcus Aurelius
+"There is no truth except the truth that exists within you. Everything else is what someone is telling you." - Neale Donald Walsch
 ```
 <!--QUOTE:end-->
 
