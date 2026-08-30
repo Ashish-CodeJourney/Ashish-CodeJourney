@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"There is no truth except the truth that exists within you. Everything else is what someone is telling you." - Neale Donald Walsch
+"Confidence breeds beauty." - Estee Lauder
 ```
 <!--QUOTE:end-->
 
