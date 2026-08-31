@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists." - Charles Dickens
+"No man is more cheated than the selfish man." - Henry Ward Beecher
 ```
 <!--QUOTE:end-->
 
