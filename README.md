@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference." - Robert Frost
+"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
