@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Never be bored, and you will never be boring." - Eleanor Roosevelt
+"It's your outlook on life that counts." - Betty White
 ```
 <!--QUOTE:end-->
 
