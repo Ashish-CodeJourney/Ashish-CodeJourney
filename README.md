@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No man is more cheated than the selfish man." - Henry Ward Beecher
+"Never be bored, and you will never be boring." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
