@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It's your outlook on life that counts." - Betty White
+"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years." - Richard Bach
 ```
 <!--QUOTE:end-->
 
