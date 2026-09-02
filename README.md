@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years." - Richard Bach
+"For your life to be great, your faith must be bigger than your fear." - Robin Sharma
 ```
 <!--QUOTE:end-->
 
