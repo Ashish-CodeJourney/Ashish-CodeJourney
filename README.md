@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"For your life to be great, your faith must be bigger than your fear." - Robin Sharma
+"When one door closes another door opens." - Alexander Graham Bell
 ```
 <!--QUOTE:end-->
 
