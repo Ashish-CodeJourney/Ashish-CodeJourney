@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When one door closes another door opens." - Alexander Graham Bell
+"Sometimes letting things go is an act of far greater power than defending or hanging on." - Eckhart Tolle
 ```
 <!--QUOTE:end-->
 
