@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be polite to all, but intimate with few." - Thomas Jefferson
+"The hardest arithmetic to master is that which enables us to count our blessings." - Eric Hoffer
 ```
 <!--QUOTE:end-->
 
