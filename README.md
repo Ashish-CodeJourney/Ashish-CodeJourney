@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Sometimes letting things go is an act of far greater power than defending or hanging on." - Eckhart Tolle
+"Be polite to all, but intimate with few." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
