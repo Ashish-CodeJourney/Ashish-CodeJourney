@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The hardest arithmetic to master is that which enables us to count our blessings." - Eric Hoffer
+"True masters are those who've chosen to make a life rather than a living." - Neale Donald Walsch
 ```
 <!--QUOTE:end-->
 
