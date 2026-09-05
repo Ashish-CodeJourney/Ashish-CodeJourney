@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"True masters are those who've chosen to make a life rather than a living." - Neale Donald Walsch
+"The only difference between success and failure is the ability to take action." - Alexander Graham Bell
 ```
 <!--QUOTE:end-->
 
