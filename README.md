@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong." - Elon Musk
+"A golden cage is still just a cage." - Anita Krizzan
 ```
 <!--QUOTE:end-->
 
