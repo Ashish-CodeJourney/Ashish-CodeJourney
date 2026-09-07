@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Peace is letting it be. Letting life flow, letting emotions flow through you." - Kamal Ravikant
+"Fallacies do not cease to be fallacies because they become fashions." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
