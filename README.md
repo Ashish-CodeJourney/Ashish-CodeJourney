@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"A golden cage is still just a cage." - Anita Krizzan
+"Peace is letting it be. Letting life flow, letting emotions flow through you." - Kamal Ravikant
 ```
 <!--QUOTE:end-->
 
