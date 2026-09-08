@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Happiness is when what you think, what you say, and what you do are in harmony." - Mahatma Gandhi
+"It is better to point out your own mistakes than have somebody else do it." - Warren Buffett
 ```
 <!--QUOTE:end-->
 
