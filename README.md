@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Fallacies do not cease to be fallacies because they become fashions." - Gilbert Chesterton
+"Happiness is when what you think, what you say, and what you do are in harmony." - Mahatma Gandhi
 ```
 <!--QUOTE:end-->
 
