@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is better to point out your own mistakes than have somebody else do it." - Warren Buffett
+"Who wishes to fight must first count the cost." - Sun Tzu
 ```
 <!--QUOTE:end-->
 
