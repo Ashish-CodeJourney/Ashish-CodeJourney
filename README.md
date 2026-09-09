@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Who wishes to fight must first count the cost." - Sun Tzu
+"Every act of creation is first an act of destruction." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
