@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." - T.S. Eliot
+"Be royal in your own fashion: act like a king to be treated like one." - Robert Greene
 ```
 <!--QUOTE:end-->
 
