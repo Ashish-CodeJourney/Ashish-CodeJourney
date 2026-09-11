@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You can easily judge the character of a man by how he treats those who can do nothing for him." - Johann Wolfgang von Goethe
+"Nothing endures but change." - Heraclitus
 ```
 <!--QUOTE:end-->
 
