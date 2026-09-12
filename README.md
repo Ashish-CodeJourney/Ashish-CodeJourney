@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No problem can be solved from the same level of consciousness that created it." - Albert Einstein
+"Do not bite at the bait of pleasure, till you know there is no hook beneath it." - Thomas Jefferson
 ```
 <!--QUOTE:end-->
 
