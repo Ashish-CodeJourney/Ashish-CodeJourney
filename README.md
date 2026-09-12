@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Nothing endures but change." - Heraclitus
+"No problem can be solved from the same level of consciousness that created it." - Albert Einstein
 ```
 <!--QUOTE:end-->
 
