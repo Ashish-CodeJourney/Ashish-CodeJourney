@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The older you get the stronger the wind gets - and it's always in your face." - Pablo Picasso
+"Our stories may be singular, but our destination is shared." - Barack Obama
 ```
 <!--QUOTE:end-->
 
