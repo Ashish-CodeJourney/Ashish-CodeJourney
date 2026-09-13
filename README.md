@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Do not bite at the bait of pleasure, till you know there is no hook beneath it." - Thomas Jefferson
+"The older you get the stronger the wind gets - and it's always in your face." - Pablo Picasso
 ```
 <!--QUOTE:end-->
 
