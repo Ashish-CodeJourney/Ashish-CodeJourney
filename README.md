@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Life would be tragic if it weren't funny." - Stephen Hawking
+"Life doesn't get easier or more forgiving, we get stronger and more resilient." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
