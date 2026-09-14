@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Our stories may be singular, but our destination is shared." - Barack Obama
+"Life would be tragic if it weren't funny." - Stephen Hawking
 ```
 <!--QUOTE:end-->
 
