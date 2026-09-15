@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." - George Bernard Shaw
+"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." - Dan Millman
 ```
 <!--QUOTE:end-->
 
