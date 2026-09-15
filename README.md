@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Life doesn't get easier or more forgiving, we get stronger and more resilient." - Steve Maraboli
+"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." - George Bernard Shaw
 ```
 <!--QUOTE:end-->
 
