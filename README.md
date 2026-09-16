@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." - Dan Millman
+"No kind action ever stops with itself. One kind action leads to another. Good example is followed." - Amelia Earhart
 ```
 <!--QUOTE:end-->
 
