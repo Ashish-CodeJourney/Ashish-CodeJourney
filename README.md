@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No kind action ever stops with itself. One kind action leads to another. Good example is followed." - Amelia Earhart
+"Never allow a person to tell you no who doesn't have the power to say yes." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
