@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Never allow a person to tell you no who doesn't have the power to say yes." - Eleanor Roosevelt
+"If you chase two rabbits, you catch none." - Confucius
 ```
 <!--QUOTE:end-->
 
