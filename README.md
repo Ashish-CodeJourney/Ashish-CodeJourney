@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today." - Andrew Carnegie
+"It is in your moments of decision that your destiny is shaped." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
