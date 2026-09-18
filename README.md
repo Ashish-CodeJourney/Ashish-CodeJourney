@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The best time to plant a tree was 20 years ago. The second best time is now." - Zen Proverb
+"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today." - Andrew Carnegie
 ```
 <!--QUOTE:end-->
 
