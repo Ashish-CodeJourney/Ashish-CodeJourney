@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you're waiting until you feel talented enough to make it, you'll never make it." - Criss Jami
+"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." - James Matthew Barrie
 ```
 <!--QUOTE:end-->
 
