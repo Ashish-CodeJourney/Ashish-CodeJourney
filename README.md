@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is in your moments of decision that your destiny is shaped." - Tony Robbins
+"If you're waiting until you feel talented enough to make it, you'll never make it." - Criss Jami
 ```
 <!--QUOTE:end-->
 
