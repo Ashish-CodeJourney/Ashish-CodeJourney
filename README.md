@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Circumstances do not make the man, they reveal him." - James Allen
+"It is not uncommon for people to spend their whole life waiting to start living." - Eckhart Tolle
 ```
 <!--QUOTE:end-->
 
