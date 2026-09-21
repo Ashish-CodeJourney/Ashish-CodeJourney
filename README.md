@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No man is happy unless he believes he is." - Publilius Syrus
+"You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
