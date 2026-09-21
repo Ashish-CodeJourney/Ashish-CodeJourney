@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is not uncommon for people to spend their whole life waiting to start living." - Eckhart Tolle
+"No man is happy unless he believes he is." - Publilius Syrus
 ```
 <!--QUOTE:end-->
 
