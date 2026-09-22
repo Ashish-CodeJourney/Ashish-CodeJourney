@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The meaning of life is that it stops." - Franz Kafka
+"Be patient and calm; no one can catch fish in anger." - Herbert Hoover
 ```
 <!--QUOTE:end-->
 
