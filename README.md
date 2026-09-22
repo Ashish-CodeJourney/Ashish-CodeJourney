@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
+"The meaning of life is that it stops." - Franz Kafka
 ```
 <!--QUOTE:end-->
 
