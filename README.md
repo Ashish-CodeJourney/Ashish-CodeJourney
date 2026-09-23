@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"To belittle, you have to be little." - Kahlil Gibran
+"Luck is what happens when preparation meets opportunity." - Seneca
 ```
 <!--QUOTE:end-->
 
