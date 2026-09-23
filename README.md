@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be patient and calm; no one can catch fish in anger." - Herbert Hoover
+"To belittle, you have to be little." - Kahlil Gibran
 ```
 <!--QUOTE:end-->
 
