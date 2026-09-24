@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"By words the mind is winged." - Aristophanes
+"There is only one thing in the world worse than being talked about, and that is not being talked about." - Oscar Wilde
 ```
 <!--QUOTE:end-->
 
