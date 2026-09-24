@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Luck is what happens when preparation meets opportunity." - Seneca
+"By words the mind is winged." - Aristophanes
 ```
 <!--QUOTE:end-->
 
