@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"There is only one thing in the world worse than being talked about, and that is not being talked about." - Oscar Wilde
+"A life without a cause is a life without effect." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
