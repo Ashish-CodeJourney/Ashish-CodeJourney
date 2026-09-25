@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"A life without a cause is a life without effect." - Paulo Coelho
+"Knowledge has to be improved, challenged, and increased constantly, or it vanishes." - Peter Drucker
 ```
 <!--QUOTE:end-->
 
