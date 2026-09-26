@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"We take care of the future best by taking care of the present now." - Jon Kabat-Zinn
+"Everything eaten is killed. Every meal is a sacrifice." - Adi Da Samraj
 ```
 <!--QUOTE:end-->
 
