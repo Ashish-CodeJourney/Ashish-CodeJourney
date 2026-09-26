@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Knowledge has to be improved, challenged, and increased constantly, or it vanishes." - Peter Drucker
+"We take care of the future best by taking care of the present now." - Jon Kabat-Zinn
 ```
 <!--QUOTE:end-->
 
