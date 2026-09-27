@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everything eaten is killed. Every meal is a sacrifice." - Adi Da Samraj
+"If you're brave enough to say goodbye, life will reward you with a new hello." - Paulo Coelho
 ```
 <!--QUOTE:end-->
 
