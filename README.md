@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you're brave enough to say goodbye, life will reward you with a new hello." - Paulo Coelho
+"The harder you work for something, the greater you'll feel when you achieve it." - Colin R. Davis
 ```
 <!--QUOTE:end-->
 
