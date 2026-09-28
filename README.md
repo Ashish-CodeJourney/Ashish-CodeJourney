@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The harder you work for something, the greater you'll feel when you achieve it." - Colin R. Davis
+"You are not stuck where you are unless you decide to be." - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
