@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You are not stuck where you are unless you decide to be." - Wayne Dyer
+"We are all here for some special reason." - Robin Sharma
 ```
 <!--QUOTE:end-->
 
