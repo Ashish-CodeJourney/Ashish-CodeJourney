@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"We are all here for some special reason." - Robin Sharma
+"Some of your greatest lessons come from your darkest moments." - Roger Lee
 ```
 <!--QUOTE:end-->
 
