@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Some of your greatest lessons come from your darkest moments." - Roger Lee
+"Non-blocking is better than blocking."
 ```
 <!--QUOTE:end-->
 
