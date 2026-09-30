@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you want to be successful, you have to jump, there's no way around it." - Steve Harvey
+"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." - Robert Greene
 ```
 <!--QUOTE:end-->
 
