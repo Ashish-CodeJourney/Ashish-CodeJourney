@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Non-blocking is better than blocking."
+"If you want to be successful, you have to jump, there's no way around it." - Steve Harvey
 ```
 <!--QUOTE:end-->
 
