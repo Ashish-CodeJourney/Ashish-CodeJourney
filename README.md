@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." - Robert Greene
+"Do not take life too seriously. You will never get out of it alive." - Elbert Hubbard
 ```
 <!--QUOTE:end-->
 
