@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Do not take life too seriously. You will never get out of it alive." - Elbert Hubbard
+"The way of success is the way of continuous pursuit of knowledge." - Napoleon Hill
 ```
 <!--QUOTE:end-->
 
