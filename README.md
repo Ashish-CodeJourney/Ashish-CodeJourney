@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." - Zen Proverb
+"You give but little when you give of your possessions. It is when you give of yourself that you truly give." - Kahlil Gibran
 ```
 <!--QUOTE:end-->
 
