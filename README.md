@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You give but little when you give of your possessions. It is when you give of yourself that you truly give." - Kahlil Gibran
+"Everything that is done in the world is done by hope." - Martin Luther
 ```
 <!--QUOTE:end-->
 
