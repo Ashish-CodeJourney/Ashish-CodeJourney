@@ -103,7 +103,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everything that is done in the world is done by hope." - Martin Luther
+"If someone betrays you once, it's their fault; if they betray you twice, it's your fault." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
