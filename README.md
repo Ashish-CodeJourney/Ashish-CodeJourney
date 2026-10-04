@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Fools read fast. Geniuses reread." - Maxime Lagace
+"Knowing your own darkness is the best method for dealing with the darknesses of other people." - Carl Jung
 ```
 <!--QUOTE:end-->
 
