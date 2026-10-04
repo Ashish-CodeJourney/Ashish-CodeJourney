@@ -92,9 +92,6 @@ val ashish = Developer(
 
 - 📖 [MDN Web Docs](https://github.com/mdn/content/pulls?q=is%3Apr+is%3Amerged+author%3AAshish-CodeJourney) — Active contributor to web documentation
 - 🏅 Open source & Hacktoberfest participant
-
-[![Holopin badges](https://holopin.me/ashishcodejourney)](https://holopin.io/@ashishcodejourney)
-
 ---
 
 <div align="center">
