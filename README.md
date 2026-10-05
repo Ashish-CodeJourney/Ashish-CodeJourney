@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Knowing your own darkness is the best method for dealing with the darknesses of other people." - Carl Jung
+"It's very strange that the people you love are often the people you're most cruel to." - Kenneth Branagh
 ```
 <!--QUOTE:end-->
 
