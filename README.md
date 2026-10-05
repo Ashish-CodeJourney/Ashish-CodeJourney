@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It's very strange that the people you love are often the people you're most cruel to." - Kenneth Branagh
+"A gentleman accepts the responsibility of his actions and bears the burden of their consequences." - William Faulkner
 ```
 <!--QUOTE:end-->
 
