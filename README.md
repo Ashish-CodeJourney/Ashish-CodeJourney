@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You'll see it when you believe it." - Wayne Dyer
+"The educated differ from the uneducated as much as the living differ from the dead." - Aristotle
 ```
 <!--QUOTE:end-->
 
