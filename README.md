@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"A gentleman accepts the responsibility of his actions and bears the burden of their consequences." - William Faulkner
+"You'll see it when you believe it." - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
