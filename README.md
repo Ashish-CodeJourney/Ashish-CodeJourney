@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The educated differ from the uneducated as much as the living differ from the dead." - Aristotle
+"Keep away from people who try to belittle your ambitions." - Mark Twain
 ```
 <!--QUOTE:end-->
 
