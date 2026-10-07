@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Keep away from people who try to belittle your ambitions." - Mark Twain
+"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you." - Dale Carnegie
 ```
 <!--QUOTE:end-->
 
