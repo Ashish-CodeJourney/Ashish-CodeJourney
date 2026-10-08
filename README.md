@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you." - Dale Carnegie
+"What you do today can improve all your tomorrows." - Ralph Marston
 ```
 <!--QUOTE:end-->
 
