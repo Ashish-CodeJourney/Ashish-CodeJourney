@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"What you do today can improve all your tomorrows." - Ralph Marston
+"Sometimes, the only way to evolve is to open ourselves fully." - Kamal Ravikant
 ```
 <!--QUOTE:end-->
 
