@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Quality is not an act, it is a habit." - Colin R. Davis
+"Anyone who reads a book with a sense of obligation does not understand the art of reading." - Lin Yutang
 ```
 <!--QUOTE:end-->
 
