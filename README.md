@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Sometimes, the only way to evolve is to open ourselves fully." - Kamal Ravikant
+"Quality is not an act, it is a habit." - Colin R. Davis
 ```
 <!--QUOTE:end-->
 
