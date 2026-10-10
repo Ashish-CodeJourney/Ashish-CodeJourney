@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
+"If we will be quiet and ready enough, we shall find compensation in every disappointment." - Henry David Thoreau
 ```
 <!--QUOTE:end-->
 
