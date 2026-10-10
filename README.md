@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Anyone who reads a book with a sense of obligation does not understand the art of reading." - Lin Yutang
+"I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
 ```
 <!--QUOTE:end-->
 
