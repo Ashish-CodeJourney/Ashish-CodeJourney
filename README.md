@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage." - Celestine Chua
+"Failure shows us the way — by showing us what isn't the way." - Ryan Holiday
 ```
 <!--QUOTE:end-->
 
