@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If we will be quiet and ready enough, we shall find compensation in every disappointment." - Henry David Thoreau
+"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
