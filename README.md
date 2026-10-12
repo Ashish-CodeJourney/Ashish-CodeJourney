@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Failure shows us the way — by showing us what isn't the way." - Ryan Holiday
+"The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn." - Warren Buffett
 ```
 <!--QUOTE:end-->
 
