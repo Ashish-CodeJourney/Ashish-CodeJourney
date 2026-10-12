@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn." - Warren Buffett
+"I would rather be hated for who I am than loved for who I'm not." - Wayne Dyer
 ```
 <!--QUOTE:end-->
 
