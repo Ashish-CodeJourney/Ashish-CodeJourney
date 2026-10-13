@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Believe you can and you're halfway there." - Theodore Roosevelt
+"The art of being happy lies in the power of extracting happiness from common things." - Henry Ward Beecher
 ```
 <!--QUOTE:end-->
 
