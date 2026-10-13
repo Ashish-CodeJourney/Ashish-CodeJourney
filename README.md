@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I would rather be hated for who I am than loved for who I'm not." - Wayne Dyer
+"Believe you can and you're halfway there." - Theodore Roosevelt
 ```
 <!--QUOTE:end-->
 
