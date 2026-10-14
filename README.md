@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The art of being happy lies in the power of extracting happiness from common things." - Henry Ward Beecher
+"Wheresoever you go, go with all your heart." - Confucius
 ```
 <!--QUOTE:end-->
 
