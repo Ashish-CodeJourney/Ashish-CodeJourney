@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everyone you meet is fighting a battle you know nothing about. Be kind. Always." - Robin Williams
+"I've always tried to go a step past wherever people expected me to end up." - Beverly Sills
 ```
 <!--QUOTE:end-->
 
