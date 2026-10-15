@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I've always tried to go a step past wherever people expected me to end up." - Beverly Sills
+"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you." - Peter Drucker
 ```
 <!--QUOTE:end-->
 
