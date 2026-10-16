@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you." - Peter Drucker
+"The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ```
 <!--QUOTE:end-->
 
