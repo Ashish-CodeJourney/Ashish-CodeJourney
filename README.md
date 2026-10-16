@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The pain of parting is nothing to the joy of meeting again." - Charles Dickens
+"Why live an ordinary life, when you can live an extraordinary one." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
