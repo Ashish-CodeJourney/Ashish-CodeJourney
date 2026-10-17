@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Why live an ordinary life, when you can live an extraordinary one." - Tony Robbins
+"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control." - Maxime Lagace
 ```
 <!--QUOTE:end-->
 
