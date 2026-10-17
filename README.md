@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control." - Maxime Lagace
+"Live your life and forget your age." - Norman Vincent Peale
 ```
 <!--QUOTE:end-->
 
