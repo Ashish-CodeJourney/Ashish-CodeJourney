@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities." - Josh Waitzkin
+"If you can't argue both sides, you can't argue." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
