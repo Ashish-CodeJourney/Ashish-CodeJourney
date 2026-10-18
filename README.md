@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Live your life and forget your age." - Norman Vincent Peale
+"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities." - Josh Waitzkin
 ```
 <!--QUOTE:end-->
 
