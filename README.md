@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If you can't argue both sides, you can't argue." - Jack Butcher
+"What do we live for if not to make life less difficult for each other?" - T.S. Eliot
 ```
 <!--QUOTE:end-->
 
