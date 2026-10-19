@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"What do we live for if not to make life less difficult for each other?" - T.S. Eliot
+"Everything has beauty but not everyone sees it." - Confucius
 ```
 <!--QUOTE:end-->
 
