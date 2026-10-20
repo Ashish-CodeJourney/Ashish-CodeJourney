@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everything has beauty but not everyone sees it." - Confucius
+"Be yourself; everyone else is already taken." - Oscar Wilde
 ```
 <!--QUOTE:end-->
 
