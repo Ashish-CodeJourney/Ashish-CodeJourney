@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be yourself; everyone else is already taken." - Oscar Wilde
+"The world makes way for the man who knows where he is going." - Ralph Waldo Emerson
 ```
 <!--QUOTE:end-->
 
