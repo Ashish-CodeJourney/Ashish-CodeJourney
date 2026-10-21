@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The world makes way for the man who knows where he is going." - Ralph Waldo Emerson
+"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday." - Jonathan Swift
 ```
 <!--QUOTE:end-->
 
