@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him." - Gilbert Chesterton
+"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." - Stephen Hawking
 ```
 <!--QUOTE:end-->
 
