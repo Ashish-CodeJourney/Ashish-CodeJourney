@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Circumstances rule men; men do not rule circumstances." - Herodotus
+"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him." - Gilbert Chesterton
 ```
 <!--QUOTE:end-->
 
