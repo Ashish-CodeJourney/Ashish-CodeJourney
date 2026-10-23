@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"He who is untrue to his own cause cannot command the respect of others." - Albert Einstein
+"The person who says something is impossible should not interrupt the person who is doing it." - Chinese Proverb
 ```
 <!--QUOTE:end-->
 
