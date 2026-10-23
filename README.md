@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." - Stephen Hawking
+"He who is untrue to his own cause cannot command the respect of others." - Albert Einstein
 ```
 <!--QUOTE:end-->
 
