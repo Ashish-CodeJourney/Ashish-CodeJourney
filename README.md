@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence." - George Washington
+"When you are tempted to give up, your breakthrough is probably just around the corner." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
