@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The person who says something is impossible should not interrupt the person who is doing it." - Chinese Proverb
+"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence." - George Washington
 ```
 <!--QUOTE:end-->
 
