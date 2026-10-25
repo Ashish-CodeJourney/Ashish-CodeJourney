@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Knowing is not enough, we must apply. Willing is not enough, we must do." - Bruce Lee
+"The enemy is a very good teacher." - Dalai Lama
 ```
 <!--QUOTE:end-->
 
