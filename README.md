@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"When you are tempted to give up, your breakthrough is probably just around the corner." - Joyce Meyer
+"Knowing is not enough, we must apply. Willing is not enough, we must do." - Bruce Lee
 ```
 <!--QUOTE:end-->
 
