@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Arise, slay thy enemies, enjoy a prosperous kingdom." - Bhagavad Gita
+"What we learn from history is that people don't learn from history." - Warren Buffett
 ```
 <!--QUOTE:end-->
 
