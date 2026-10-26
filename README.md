@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The enemy is a very good teacher." - Dalai Lama
+"Arise, slay thy enemies, enjoy a prosperous kingdom." - Bhagavad Gita
 ```
 <!--QUOTE:end-->
 
