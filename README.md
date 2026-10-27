@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"What we learn from history is that people don't learn from history." - Warren Buffett
+"Optimism is the one quality more associated with success and happiness than any other." - Brian Tracy
 ```
 <!--QUOTE:end-->
 
