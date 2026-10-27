@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Optimism is the one quality more associated with success and happiness than any other." - Brian Tracy
+"He is richest who is content with the least, for content is the wealth of nature." - Socrates
 ```
 <!--QUOTE:end-->
 
