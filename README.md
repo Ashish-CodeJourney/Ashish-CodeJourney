@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Do every act of your life as if it were your last." - Marcus Aurelius
+"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." - Sigmund Freud
 ```
 <!--QUOTE:end-->
 
