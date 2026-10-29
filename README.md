@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"One day, in retrospect, the years of struggle will strike you as the most beautiful." - Sigmund Freud
+"Do every act of your life as if it were your last." - Marcus Aurelius
 ```
 <!--QUOTE:end-->
 
