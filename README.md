@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." - Sigmund Freud
+"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero." - Kabir
 ```
 <!--QUOTE:end-->
 
