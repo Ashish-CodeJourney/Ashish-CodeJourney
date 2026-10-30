@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero." - Kabir
+"Art is to console those who are broken by life." - Vincent van Gogh
 ```
 <!--QUOTE:end-->
 
