@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Art is to console those who are broken by life." - Vincent van Gogh
+"There is always room in your life for thinking bigger, pushing limits and imagining the impossible." - Tony Robbins
 ```
 <!--QUOTE:end-->
 
