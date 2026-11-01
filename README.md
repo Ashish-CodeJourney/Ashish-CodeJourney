@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Live in the sunshine, swim the sea, drink the wild air." - Ralph Waldo Emerson
+"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance." - W. Clement Stone
 ```
 <!--QUOTE:end-->
 
