@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Heaven is right where you are standing." - Morihei Ueshiba
+"Live in the sunshine, swim the sea, drink the wild air." - Ralph Waldo Emerson
 ```
 <!--QUOTE:end-->
 
