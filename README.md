@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance." - W. Clement Stone
+"Some people are old at 18 and some are young at 90. Time is a concept that humans created." - Yoko Ono
 ```
 <!--QUOTE:end-->
 
