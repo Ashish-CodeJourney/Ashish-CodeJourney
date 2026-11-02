@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Some people are old at 18 and some are young at 90. Time is a concept that humans created." - Yoko Ono
+"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment." - Dan Millman
 ```
 <!--QUOTE:end-->
 
