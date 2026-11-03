@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Nothing can survive without food. Everything we consume acts either to heal us or to poison us." - Thich Nhat Hanh
+"Growth comes at the point of resistance." - Josh Waitzkin
 ```
 <!--QUOTE:end-->
 
