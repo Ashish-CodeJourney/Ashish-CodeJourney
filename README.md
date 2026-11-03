@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment." - Dan Millman
+"Nothing can survive without food. Everything we consume acts either to heal us or to poison us." - Thich Nhat Hanh
 ```
 <!--QUOTE:end-->
 
