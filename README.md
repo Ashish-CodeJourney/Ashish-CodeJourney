@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It matters not what someone is born, but what they grow to be." - Albus Dumbledore
+"A day without laughter is a day wasted." - Charlie Chaplin
 ```
 <!--QUOTE:end-->
 
