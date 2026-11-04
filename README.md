@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Growth comes at the point of resistance." - Josh Waitzkin
+"It matters not what someone is born, but what they grow to be." - Albus Dumbledore
 ```
 <!--QUOTE:end-->
 
