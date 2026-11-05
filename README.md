@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Friendship is like money, easier made than kept." - Samuel Butler
+"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts." - Paramahansa Yogananda
 ```
 <!--QUOTE:end-->
 
