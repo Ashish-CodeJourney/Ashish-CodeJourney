@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"A day without laughter is a day wasted." - Charlie Chaplin
+"Friendship is like money, easier made than kept." - Samuel Butler
 ```
 <!--QUOTE:end-->
 
