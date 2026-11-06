@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Never give way to laziness." - Bhagavad Gita
+"Duty makes us do things well, but love makes us do them beautifully." - Zig Ziglar
 ```
 <!--QUOTE:end-->
 
