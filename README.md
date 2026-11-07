@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Duty makes us do things well, but love makes us do them beautifully." - Zig Ziglar
+"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself." - Alexander Graham Bell
 ```
 <!--QUOTE:end-->
 
