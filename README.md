@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Life is like stepping onto a boat which is about to sail out to sea and sink." - Shunryu Suzuki
+"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." - Denis Waitley
 ```
 <!--QUOTE:end-->
 
