@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Every experience is a lesson. Every loss is a gain." - Sathya Sai Baba
+"Life is like stepping onto a boat which is about to sail out to sea and sink." - Shunryu Suzuki
 ```
 <!--QUOTE:end-->
 
