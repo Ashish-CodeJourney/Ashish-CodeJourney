@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Never let the things you can't do stop you from doing what you can." - Ronald Reagan
+"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." - Denis Waitley
 ```
 <!--QUOTE:end-->
 
