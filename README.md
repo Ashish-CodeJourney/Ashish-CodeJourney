@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is not titles that honour men, but men that honour titles." - Niccolo Machiavelli
+"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." - Mark Twain
 ```
 <!--QUOTE:end-->
 
