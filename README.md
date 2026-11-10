@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." - Denis Waitley
+"It is not titles that honour men, but men that honour titles." - Niccolo Machiavelli
 ```
 <!--QUOTE:end-->
 
