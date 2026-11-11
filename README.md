@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." - Mark Twain
+"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned." - Ming-Dao Deng
 ```
 <!--QUOTE:end-->
 
