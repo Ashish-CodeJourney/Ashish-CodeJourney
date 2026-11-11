@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned." - Ming-Dao Deng
+"It is indeed a radical act of love just to sit down and be quiet for a time by yourself." - Jon Kabat-Zinn
 ```
 <!--QUOTE:end-->
 
