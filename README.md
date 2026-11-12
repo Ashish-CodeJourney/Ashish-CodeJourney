@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is indeed a radical act of love just to sit down and be quiet for a time by yourself." - Jon Kabat-Zinn
+"Life moves on and so should we." - Spencer Johnson
 ```
 <!--QUOTE:end-->
 
