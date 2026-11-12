@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Life moves on and so should we." - Spencer Johnson
+"Many people will walk in and out of your life, but only true friends will leave footprints in your heart." - Eleanor Roosevelt
 ```
 <!--QUOTE:end-->
 
