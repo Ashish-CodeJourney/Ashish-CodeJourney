@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Keep it logically awesome."
+"Responsive is better than fast."
 ```
 <!--QUOTE:end-->
 
