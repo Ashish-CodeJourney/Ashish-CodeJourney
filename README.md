@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"How to get more opportunity: Create more opportunity for others." - Jack Butcher
+"Everyone must choose one of two pains: The pain of discipline or the pain of regret." - Jim Rohn
 ```
 <!--QUOTE:end-->
 
