@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Responsive is better than fast."
+"How to get more opportunity: Create more opportunity for others." - Jack Butcher
 ```
 <!--QUOTE:end-->
 
