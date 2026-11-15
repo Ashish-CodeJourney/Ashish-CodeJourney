@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Everyone must choose one of two pains: The pain of discipline or the pain of regret." - Jim Rohn
+"Whatever your heart clings to and confides in, that is really your God." - Martin Luther
 ```
 <!--QUOTE:end-->
 
