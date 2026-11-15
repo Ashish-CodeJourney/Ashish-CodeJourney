@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Whatever your heart clings to and confides in, that is really your God." - Martin Luther
+"No grand idea was ever born in a conference, but a lot of foolish ideas have died there." - F. Scott Fitzgerald
 ```
 <!--QUOTE:end-->
 
