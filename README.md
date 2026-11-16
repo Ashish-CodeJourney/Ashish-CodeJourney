@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"No grand idea was ever born in a conference, but a lot of foolish ideas have died there." - F. Scott Fitzgerald
+"The older you get, the better you get. Unless you're a banana." - Betty White
 ```
 <!--QUOTE:end-->
 
