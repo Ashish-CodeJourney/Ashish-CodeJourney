@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The older you get, the better you get. Unless you're a banana." - Betty White
+"To succeed takes more than the desire to win. It also takes the acceptance that we could fail." - Simon Sinek
 ```
 <!--QUOTE:end-->
 
