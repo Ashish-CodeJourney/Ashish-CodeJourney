@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"To succeed takes more than the desire to win. It also takes the acceptance that we could fail." - Simon Sinek
+"Learn from the rejection and turn it into an opportunity!" - Mary Engelbreit
 ```
 <!--QUOTE:end-->
 
