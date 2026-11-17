@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Learn from the rejection and turn it into an opportunity!" - Mary Engelbreit
+"The price of inaction is far greater than the cost of making a mistake." - Meister Eckhart
 ```
 <!--QUOTE:end-->
 
