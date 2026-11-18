@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Great ones are willing to get burned time and again as they sharpen their swords in the fire." - Josh Waitzkin
+"Not how long, but how well you have lived is the main thing." - Seneca
 ```
 <!--QUOTE:end-->
 
