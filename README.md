@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"The price of inaction is far greater than the cost of making a mistake." - Meister Eckhart
+"Great ones are willing to get burned time and again as they sharpen their swords in the fire." - Josh Waitzkin
 ```
 <!--QUOTE:end-->
 
