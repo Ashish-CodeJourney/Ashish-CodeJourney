@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Not how long, but how well you have lived is the main thing." - Seneca
+"It is often safer to be in chains than to be free." - Franz Kafka
 ```
 <!--QUOTE:end-->
 
