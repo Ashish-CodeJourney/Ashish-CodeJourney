@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is often safer to be in chains than to be free." - Franz Kafka
+"Never let the things you can't do stop you from doing what you can." - Ronald Reagan
 ```
 <!--QUOTE:end-->
 
