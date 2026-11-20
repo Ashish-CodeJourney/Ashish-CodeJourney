@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Never let the things you can't do stop you from doing what you can." - Ronald Reagan
+"What people say, what people do, and what they say they do are entirely different things." - Margaret Mead
 ```
 <!--QUOTE:end-->
 
