@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"What people say, what people do, and what they say they do are entirely different things." - Margaret Mead
+"Be the change that you want to see in the world." - Mahatma Gandhi
 ```
 <!--QUOTE:end-->
 
