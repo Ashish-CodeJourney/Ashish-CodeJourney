@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Admire as much as you can. Most people do not admire enough." - Vincent van Gogh
+"Discontent is the first necessity of progress." - Thomas Edison
 ```
 <!--QUOTE:end-->
 
