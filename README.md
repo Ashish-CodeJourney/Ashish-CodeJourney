@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Be the change that you want to see in the world." - Mahatma Gandhi
+"Admire as much as you can. Most people do not admire enough." - Vincent van Gogh
 ```
 <!--QUOTE:end-->
 
