@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on." - Steve Maraboli
+"Help others and give something back." - Arnold Schwarzenegger
 ```
 <!--QUOTE:end-->
 
