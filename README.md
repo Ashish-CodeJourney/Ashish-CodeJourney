@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Discontent is the first necessity of progress." - Thomas Edison
+"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on." - Steve Maraboli
 ```
 <!--QUOTE:end-->
 
