@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Help others and give something back." - Arnold Schwarzenegger
+"You can do nothing to change the past, and the future will never come exactly as you plan or hope for." - Dan Millman
 ```
 <!--QUOTE:end-->
 
