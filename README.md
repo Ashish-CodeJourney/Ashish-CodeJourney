@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You can do nothing to change the past, and the future will never come exactly as you plan or hope for." - Dan Millman
+"It's not what you've got; it's what you do that makes the difference." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
