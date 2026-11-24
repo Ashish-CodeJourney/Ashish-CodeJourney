@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"It's not what you've got; it's what you do that makes the difference." - Celestine Chua
+"Your time is limited, don't waste it living someone else's life." - Colin R. Davis
 ```
 <!--QUOTE:end-->
 
