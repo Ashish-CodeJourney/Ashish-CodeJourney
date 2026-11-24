@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"Your time is limited, don't waste it living someone else's life." - Colin R. Davis
+"People do not decide their futures, they decide their habits and their habits decide their futures." - Gary Keller
 ```
 <!--QUOTE:end-->
 
