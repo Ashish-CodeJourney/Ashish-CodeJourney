@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"People do not decide their futures, they decide their habits and their habits decide their futures." - Gary Keller
+"I have no methods; all I do is accept people as they are." - Joan Rivers
 ```
 <!--QUOTE:end-->
 
