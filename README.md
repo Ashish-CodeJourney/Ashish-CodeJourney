@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"I have no methods; all I do is accept people as they are." - Joan Rivers
+"You don't need anybody to tell you who you are or what you are. You are what you are!" - John Lennon
 ```
 <!--QUOTE:end-->
 
