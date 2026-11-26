@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"We don't stop going to school when we graduate." - Carol Burnett
+"If it's not broken, tinker with it till you find out how it works." - Bob Proctor
 ```
 <!--QUOTE:end-->
 
