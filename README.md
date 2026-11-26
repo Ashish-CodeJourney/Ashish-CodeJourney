@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"You don't need anybody to tell you who you are or what you are. You are what you are!" - John Lennon
+"We don't stop going to school when we graduate." - Carol Burnett
 ```
 <!--QUOTE:end-->
 
