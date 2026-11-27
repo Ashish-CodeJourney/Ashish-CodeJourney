@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"We need a backbone, not a wishbone." - Joyce Meyer
+"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along." - Celestine Chua
 ```
 <!--QUOTE:end-->
 
