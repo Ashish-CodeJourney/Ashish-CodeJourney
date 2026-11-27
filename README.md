@@ -100,7 +100,7 @@ val ashish = Developer(
 
 <!--QUOTE:start-->
 ```javascript
-"If it's not broken, tinker with it till you find out how it works." - Bob Proctor
+"We need a backbone, not a wishbone." - Joyce Meyer
 ```
 <!--QUOTE:end-->
 
